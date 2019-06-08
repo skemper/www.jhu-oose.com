@@ -1,0 +1,139 @@
+---
+---
+
+@import "normalize.css";
+
+@font-face {
+  font-family: "Charter";
+  font-weight: normal;
+  font-style: normal;
+  src: url("/fonts/charter_regular-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Charter";
+  font-weight: normal;
+  font-style: italic;
+  src: url("/fonts/charter_italic-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Charter";
+  font-weight: bold;
+  font-style: normal;
+  src: url("/fonts/charter_bold-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Charter";
+  font-weight: bold;
+  font-style: italic;
+  src: url("/fonts/charter_bold_italic-webfont.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Iosevka Term Slab";
+  font-weight: normal;
+  font-style: normal;
+  src: url("/fonts/iosevka-term-slab-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Iosevka Term Slab";
+  font-weight: normal;
+  font-style: italic;
+  src: url("/fonts/iosevka-term-slab-italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Iosevka Term Slab";
+  font-weight: bold;
+  font-style: normal;
+  src: url("/fonts/iosevka-term-slab-bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Iosevka Term Slab";
+  font-weight: bold;
+  font-style: italic;
+  src: url("/fonts/iosevka-term-slab-bolditalic.woff") format("woff");
+}
+
+body {
+  font-family: "Charter", "Georgia", serif;
+  line-height: 1.5;
+  max-width: 600px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+a {
+  color: black;
+}
+
+mark {
+  background-color: rgb(200, 200, 200);
+}
+
+ins, del {
+  text-decoration: none;
+}
+
+ins {
+  background-color: rgb(221, 230, 199);
+}
+
+del {
+  background-color: rgb(238, 186, 187);
+}
+
+h1, h2 {
+  line-height: 1.25;
+  margin-top: 2rem;
+  a { text-decoration: none; }
+  & + & { margin-top: 1rem; }
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+  font-weight: normal;
+  font-style: italic;
+}
+
+figure {
+  font-style: italic;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+img, svg, video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+audio {
+  width: 100%;
+}
+
+pre, code {
+  font-family: "Iosevka Term Slab", "Courier New", monospace;
+}
+
+pre {
+  font-size: 0.875rem;
+  font-style: normal;
+  text-align: left;
+  overflow: auto;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+
+summary {
+  cursor: pointer;
+}
