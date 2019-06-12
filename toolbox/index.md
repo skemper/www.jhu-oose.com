@@ -307,7 +307,7 @@ User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS
 
 **Our Choice.** HTML and CSS are the native languages for user interfaces in the browser.
 
-**Where to Get it.** It comes with [the browser](#browser-googlechrome).
+**Where to Get it.** It comes with [the browser](#browser-googlechrome). <!-- TODO: normalize.css -->
 
 **How to Learn it.** Read the MDN Web Docs on [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS).
 
@@ -322,7 +322,7 @@ User-Interface Builder: React
 
 **Our Choice.** This is a hot space in the software engineering world—there are many tools competing to solve the same issue. React is among the most popular, it is relatively easy to learn, and it’s based on simple ideas.
 
-**Where to Get it.** Add React to the application using [the simplest method](https://reactjs.org/docs/add-react-to-a-website.html), including support for JSX with Babel. To make your application work locally even if your computer is offline, download the scripts instead of using the versions at `unpkg.com`. This quick-and-dirty method wouldn’t be good for applications that have hundreds of user, or that must to be as fast as possible, but it’s simple enough: it requires just a couple of `script` tags, instead of a JavaScript runtime (for example, Node.js) and a JavaScript build system (for example, webpack).
+**Where to Get it.** Add React to the application using [the simplest method](https://reactjs.org/docs/add-react-to-a-website.html), including support for JSX with Babel. To make your application work locally even if your computer is offline, download the scripts instead of using the versions at `unpkg.com`. This quick-and-dirty method wouldn’t be good for applications that have hundreds of user, or that must to be as fast as possible, but it’s simple enough: it requires just a couple of `script` tags, instead of a JavaScript runtime (for example, Node.js) and a JavaScript build system (for example, webpack). <!-- TODO: https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi -->
 
 **How to Learn it.** Go through [the tutorial](https://reactjs.org/tutorial/tutorial.html) and read [the documentation](https://reactjs.org/docs/getting-started.html), including the sections on [JSX](https://reactjs.org/docs/introducing-jsx.html).
 
