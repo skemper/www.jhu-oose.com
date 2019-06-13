@@ -307,7 +307,7 @@ User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS
 
 **Our Choice.** HTML and CSS are the native languages for user interfaces in the browser.
 
-**Where to Get it.** It comes with [the browser](#browser-googlechrome). <!-- TODO: normalize.css -->
+**Where to Get it.** It comes with [the browser](#browser-googlechrome).
 
 **How to Learn it.** Read the MDN Web Docs on [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS).
 
