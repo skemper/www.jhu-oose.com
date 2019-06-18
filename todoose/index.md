@@ -42,3 +42,33 @@ Session 8: Start with React
 ===========================
 
 <video src="https://archive.org/download/todoose/todoose--session-8--start-with-react.mp4" controls preload="none" width="600" height="337"></video>
+
+Session 9: Render in React
+==========================
+
+<video src="https://archive.org/download/todoose/todoose--session-9--render-in-react.mp4" controls preload="none" width="600" height="337"></video>
+
+Session 10: Connect Client and Server
+=====================================
+
+<video src="https://archive.org/download/todoose/todoose--session-10--connect-client-and-server.mp4" controls preload="none" width="600" height="337"></video>
+
+Session 11: Styles
+==================
+
+<video src="https://archive.org/download/todoose/todoose--session-11--styles.mp4" controls preload="none" width="600" height="337"></video>
+
+Session 12: Connect to Database
+===============================
+
+<video src="https://archive.org/download/todoose/todoose--session-12--connect-to-database.mp4" controls preload="none" width="600" height="337"></video>
+
+Session 13: Connect the Database to the Application
+===================================================
+
+<video src="https://archive.org/download/todoose/todoose--session-13--connect-the-database-to-the-application.mp4" controls preload="none" width="600" height="337"></video>
+
+Session 14: Unit Testing
+========================
+
+<video src="https://archive.org/download/todoose/todoose--session-14--unit-testing.mp4" controls preload="none" width="600" height="337"></video>
