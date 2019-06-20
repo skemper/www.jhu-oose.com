@@ -360,7 +360,7 @@ Platform: Heroku
 
 **Where to Get it.** [Create an account](https://www.heroku.com).
 
-**How to Learn it.** [Read the documentation](https://devcenter.heroku.com).
+**How to Learn it.** [Read the documentation](https://devcenter.heroku.com). In particular, read the instructions for [Deploying Gradle Apps on Heroku](https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku) and the [Application plugin for Gradle](https://docs.gradle.org/current/userguide/application_plugin.html).
 
 Continuous Integration (CI) Server: Travis CI
 ---------------------------------------------
