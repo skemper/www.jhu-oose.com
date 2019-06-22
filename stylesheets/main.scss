@@ -61,7 +61,7 @@ body {
   font-family: "Charter", "Georgia", serif;
   line-height: 1.5;
   max-width: 600px;
-  padding: 10px;
+  padding: 1rem;
   margin: 0 auto;
 }
 
@@ -118,22 +118,40 @@ audio {
   width: 100%;
 }
 
-pre, code {
+summary {
+  cursor: pointer;
+}
+
+pre, code, input, textarea, button, button:active, .button {
   font-family: "Iosevka Term Slab", "Courier New", monospace;
 }
 
-pre {
+pre, input, textarea, button, button:active, .button {
   font-size: 0.875rem;
-  font-style: normal;
-  text-align: left;
-  overflow: auto;
-  padding: 1rem;
   border: 1px solid #DFDFDF;
   border-radius: 3px;
 }
 
-summary {
+pre {
+  font-style: normal;
+  text-align: left;
+  overflow: auto;
+  padding: 1rem;
+}
+
+input, textarea, button, button:active, .button {
+  color: black;
+  background-color: transparent;
+  line-height: 1.5;
+  max-width: 100%;
+  padding: 0.25rem;
+  resize: none;
+}
+
+button, button:active, .button {
   cursor: pointer;
+  font-weight: bold;
+  text-decoration: none;
 }
 
 /* rougify style pastie > stylesheets/syntax-highlight.css */
