@@ -3,7 +3,7 @@ Toolbox
 {:.no_toc}
 
 <figure markdown="1">
-![Toolbox](toolbox.png){:width="386" height="291"}
+![Toolbox](toolbox.png){:width="386"}
 </figure>
 
 The Toolbox is a collection of tools curated by the course staff for programming assignments and group projects.
@@ -80,7 +80,7 @@ Integrated Development Environment (IDE): IntelliJ IDEA
 -------------------------------------------------------
 
 <figure markdown="1">
-![IntelliJ IDEA](intellij-idea.png){:width="344" height="350"}
+![IntelliJ IDEA](intellij-idea.png){:width="344"}
 </figure>
 
 **What it is.** An IDE allows you to edit source code, invoke the compiler, interact with the debugger, and so forth.
@@ -95,7 +95,7 @@ Application Programming Interface (API) Development Environment (ADE): Postman
 ------------------------------------------------------------------------------
 
 <figure markdown="1">
-![Postman](postman.png){:width="348" height="351"}
+![Postman](postman.png){:width="348"}
 </figure>
 
 **What it is.** An Application Programming Interface (API) establishes *what* functionalities the server provides to the client and *how* it provides them. Once the API is designed, different people may work on the server and on the client independently, maybe even in parallel, and as long as both sides follow the API, the application will work in the end. An ADE helps you design the API, document it, test it, interact with it, and so forth.
@@ -110,7 +110,7 @@ Browser: Google Chrome
 ----------------------
 
 <figure markdown="1">
-![Google Chrome](google-chrome.png){:width="350" height="352"}
+![Google Chrome](google-chrome.png){:width="350"}
 </figure>
 
 **What it is.** Typically a web application is expected to work in any browser, but in the interest of keeping things simple, we select a single browser. This is a somewhat realistic constraint because, while making an application work in multiple browsers used to be difficult to do in the past, recently incompatibilities between browsers are fewer and further between.
@@ -125,7 +125,7 @@ Version Control System (VCS): Git
 ---------------------------------
 
 <figure markdown="1">
-![Git](git.png){:width="356" height="351"}
+![Git](git.png){:width="356"}
 </figure>
 
 **What it is.** A VCS is like a time machine for your code base: the VCS can save the state of the code base over time and help you navigate in its history. Also, a VCS lets multiple people coordinate their work on the same code base.
@@ -153,7 +153,7 @@ Project Management: GitHub
 --------------------------
 
 <figure markdown="1">
-![GitHub](github.png){:width="264" height="260"}
+![GitHub](github.png){:width="264"}
 </figure>
 
 **What it is.** A project management tool provides a way to manage what needs to be done in the project, who’s working on what, and so forth. A project management tool also hosts the canonical [version](#version-control-systemvcs-git) of the repository containing the code base.
@@ -174,7 +174,7 @@ Wireframing & Diagramming: Paper & Pencil
 -----------------------------------------
 
 <figure markdown="1">
-![Paper & Pencil](paper-and-pencil.png){:width="283" height="253"}
+![Paper & Pencil](paper-and-pencil.png){:width="283"}
 </figure>
 
 **What it is.** A wireframe is a rough sketch of the user interface which includes what features are available and how they are presented. A diagram is a visual representation of some aspect of the application technical design (not to be confused with its *graphic* design), for example, what classes exist in the system and how they communicate.
@@ -192,7 +192,7 @@ Programming Language: Java
 --------------------------
 
 <figure markdown="1">
-![Java](java.png){:width="205" height="345"}
+![Java](java.png){:width="205"}
 </figure>
 
 **What it is.** The programming language for the server side of your applications.
@@ -207,7 +207,7 @@ Build System: Gradle
 --------------------
 
 <figure markdown="1">
-![Gradle](gradle.png){:width="491" height="161"}
+![Gradle](gradle.png){:width="491"}
 </figure>
 
 **What it is.** A build system invokes the compiler for all the files with source code in your project, manages third-party libraries in which your project may depend, and so forth.
@@ -222,7 +222,7 @@ Web Server: Javalin
 -------------------
 
 <figure markdown="1">
-![Javalin](javalin.png){:width="434" height="122"}
+![Javalin](javalin.png){:width="434"}
 </figure>
 
 **What it is.** A Java library for developing web servers.
@@ -237,7 +237,7 @@ JSON Mapper: Jackson
 --------------------
 
 <figure markdown="1">
-![Jackson](jackson.png){:width="600" height="504"}
+![Jackson](jackson.png){:width="600"}
 </figure>
 
 **What it is.** A [Java](#programming-language-java) library for mapping back and forth between data structures and [JSON](#data-interchange-format-javascript-object-notationjson).
@@ -252,7 +252,7 @@ Testing Framework: JUnit
 ------------------------
 
 <figure markdown="1">
-![JUnit](junit.png){:width="355" height="109"}
+![JUnit](junit.png){:width="355"}
 </figure>
 
 **What it is.** A testing framework allows you to write automated tests, which are small programs which check that your application is behaving correctly. Writing the tests helps you figure what the correct behavior should be. Also, the tests serve as a form of low-level executable documentation. Finally, the tests prevent future modifications from breaking the application.
@@ -267,7 +267,7 @@ Database Management System (DBMS): SQLite
 -----------------------------------------
 
 <figure markdown="1">
-![SQLite](sqlite.png){:width="600" height="270"}
+![SQLite](sqlite.png){:width="600"}
 </figure>
 
 **What it is.** When we turn the server off, it *forgets* all the application data (that is, all the Java objects that existed in the memory). A DBMS runs alongside the server, and when we use it to the application data, it *remembers* the data even across server runs. Also, a database preserves data integrity and consistency, for example, it may enforce the constraint that all users in your application have a phone number.
@@ -285,7 +285,7 @@ Programming Language: JavaScript
 --------------------------------
 
 <figure markdown="1">
-![JavaScript](javascript.png){:width="381" height="369"}
+![JavaScript](javascript.png){:width="381"}
 </figure>
 
 **What it is.** The programming language for the client side of your application.
@@ -300,7 +300,7 @@ User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS
 -------------------------------------------------------------------------------
 
 <figure markdown="1">
-![HTML & CSS](html-and-css.png){:width="510" height="289"}
+![HTML & CSS](html-and-css.png){:width="510"}
 </figure>
 
 **What it is.** HTML is the language in which to define the contents of the user interface. CSS is the language in which to define what the user interface looks like.
@@ -315,7 +315,7 @@ User-Interface Builder: React
 -----------------------------
 
 <figure markdown="1">
-![React](react.png){:width="305" height="271"}
+![React](react.png){:width="305"}
 </figure>
 
 **What it is.** A [JavaScript](#programming-language-javascript) library for rendering the [user interface](#user-interface-hypertext-markup-languagehtml--cascading-style-sheetscss) and keeping it up to date when the data changes.
@@ -333,7 +333,7 @@ Data-Interchange Format: JavaScript Object Notation (JSON)
 ----------------------------------------------------------
 
 <figure markdown="1">
-![JSON](json.png){:width="400" height="479"}
+![JSON](json.png){:width="400"}
 </figure>
 
 **What it is.** The server and the client communicate via a protocol based on plain text (HTTP), but they need to exchange data that is more structured than plain text, for example, objects, lists, and so forth. A Data-Interchange Format is a convention on how to format structured data in plain text.
@@ -351,7 +351,7 @@ Platform: Heroku
 ----------------
 
 <figure markdown="1">
-![Heroku](heroku.png){:width="494" height="148"}
+![Heroku](heroku.png){:width="494"}
 </figure>
 
 **What it is.** A platform to run the server and make it available to anyone on the Internet.
@@ -366,7 +366,7 @@ Continuous Integration (CI) Server: Travis CI
 ---------------------------------------------
 
 <figure markdown="1">
-![Travis CI](travis-ci.png){:width="600" height="199"}
+![Travis CI](travis-ci.png){:width="600"}
 </figure>
 
 **What it is.** At its simplest, a CI Server grabs the code base from the [project manager](#project-management-github), runs the automated tests, and reports on the results. In general, you may configure a CI Server to execute any task, for example, building the packaged version of the application to distributed to users, deploying the application to some platform, and so forth.
@@ -384,7 +384,7 @@ Authoring Language: Markdown
 ----------------------------
 
 <figure markdown="1">
-![Markdown](markdown.png){:width="388" height="263"}
+![Markdown](markdown.png){:width="388"}
 </figure>
 
 **What it is.** A language in which to write the project documentation, including the README, the CHANGELOG, and so forth.
