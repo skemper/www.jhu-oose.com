@@ -17,6 +17,8 @@ Leandro Facchinetti
 
 **Expertise Beyond Toolbox:** Ruby on Rails, system administration, and programming-language theory.
 
+**Homepage:** <https://www.leafac.com>
+
 Head Course Assistant (Head CA)
 ===============================
 
@@ -32,6 +34,8 @@ Yash Kumar Lal
 **Office Hours:** <!-- TODO: -->
 
 **Expertise Beyond Toolbox:** iOS, Python, and Natural Language Processing.
+
+**Homepage:** <!-- TODO: -->
 
 Course Assistants (CAs)
 =======================
