@@ -48,8 +48,6 @@ Reasons to Stick with the Tools in the Toolbox
 
 **No Extra Points.** We evaluate projects based on their technical merits rather than on what tools they use.
 
-In summary: If your project fails because of issues with tools that *are* in the Toolbox, *we* (the course staff) failed. If your project fails because of issues with tools that *aren’t* in the Toolbox, *you* failed.
-
 Criteria for Curating the Tools
 -------------------------------
 {:.no_toc}
@@ -85,7 +83,7 @@ Integrated Development Environment (IDE): IntelliJ IDEA
 
 **Our Choice.** IntelliJ IDEA is the modern industry standard for [Java](#programming-language-java), after it [*eclipsed*](https://www.eclipse.org) the competition. It makes it easier to use the other tools in the Toolbox, including [Git](#version-control-systemvcs-git), [JavaScript](#programming-language-javascript), [Markdown](#authoring-language-markdown), and [SQLite](#database-management-systemdbms-sqlite). Also, it’s the foundation of Android Studio.
 
-**Where to Get it.** [Follow these instructions](https://www.jetbrains.com/idea/download/). Install the *Ultimate* edition, not the *Community* one. The Ultimate edition a commercial product, so [apply for a student license](https://www.jetbrains.com/student/) (they typically accept the application quickly). The Ultimate edition includes features that the Community doesn’t and that are useful in the course, for example, support for [JavaScript](#programming-language-javascript) and [database tools](#database-management-systemdbms-sqlite).
+**Where to Get it.** [Follow these instructions](https://www.jetbrains.com/idea/download/). Install the *Ultimate* edition, not the *Community* one. The Ultimate edition a commercial product, so [apply for a student license](https://www.jetbrains.com/student/). The Ultimate edition includes features that the Community doesn’t and that are useful in the course, for example, support for [JavaScript](#programming-language-javascript) and [database tools](#database-management-systemdbms-sqlite).
 
 **How to Learn it.** First, fiddle with it for a couple of hours. If after that you still want some help, refer to the [documentation](https://www.jetbrains.com/idea/documentation/).
 
