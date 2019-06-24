@@ -72,3 +72,28 @@ Session 14: Unit Testing
 ========================
 
 <video src="https://archive.org/download/todoose/todoose--session-14--unit-testing.mp4" controls preload="none"></video>
+
+Session 15: Continuous Integration
+==================================
+
+<video src="https://archive.org/download/todoose/todoose--session-15--continuous-integration.mp4" controls preload="none"></video>
+
+Session 16: Update Javalin
+==========================
+
+<video src="https://archive.org/download/todoose/todoose--session-16--update-javalin.mp4" controls preload="none"></video>
+
+Session 17: Deploy to Heroku
+============================
+
+<video src="https://archive.org/download/todoose/todoose--session-17--deploy-to-heroku.mp4" controls preload="none"></video>
+
+Session 18: Project Planning
+============================
+
+<video src="https://archive.org/download/todoose/todoose--session-18--project-planning.mp4" controls preload="none"></video>
+
+Session 19: Integration Testing
+===============================
+
+<video src="https://archive.org/download/todoose/todoose--session-19--integration-testing.mp4" controls preload="none"></video>
