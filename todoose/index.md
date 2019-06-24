@@ -98,7 +98,7 @@ Session 19: Integration Testing
 
 <video src="https://archive.org/download/todoose/todoose--session-19--integration-testing.mp4" controls preload="none"></video>
 
-Session 20: Integration Testing
-===============================
+Session 20: Housekeeping
+========================
 
 <video src="https://archive.org/download/todoose/todoose--session-20--housekeeping.mp4" controls preload="none"></video>
