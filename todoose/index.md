@@ -102,3 +102,13 @@ Session 20: Housekeeping
 ========================
 
 <video src="https://archive.org/download/todoose/todoose--session-20--housekeeping.mp4" controls preload="none"></video>
+
+Session 21: Mark Items as Done
+==============================
+
+<video src="https://archive.org/download/todoose/todoose--session-21--mark-items-as-done.mp4" controls preload="none"></video>
+
+Session 22: Finish Mark Items as Done
+=====================================
+
+<video src="https://archive.org/download/todoose/todoose--session-22--finish-mark-items-as-done.mp4" controls preload="none"></video>
