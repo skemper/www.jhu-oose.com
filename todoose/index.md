@@ -1,6 +1,8 @@
 TODOOSE: Building a Web Application from Scratch
 ================================================
 
+**Work in Progress**
+
 [Code Base](https://github.com/jhu-oose/todoose)
 
 Session 1: Introduction
