@@ -3,7 +3,12 @@ TODOOSE: Building a Web Application from Scratch
 
 **Work in Progress**
 
-[Code Base](https://github.com/jhu-oose/todoose)
+[Code Base](https://github.com/jhu-oose/todoose) · [Live Version](https://todoose.herokuapp.com)
+
+Session 0: Welcome
+==================
+
+<video src="https://archive.org/download/todoose/todoose--session-0--welcome.mp4" controls preload="none"></video>
 
 Session 1: Introduction
 =======================
@@ -114,3 +119,48 @@ Session 22: Finish Mark Items as Done
 =====================================
 
 <video src="https://archive.org/download/todoose/todoose--session-22--finish-mark-items-as-done.mp4" controls preload="none"></video>
+
+Session 23: Edit Items
+======================
+
+<video src="https://archive.org/download/todoose/todoose--session-23--edit-items.mp4" controls preload="none"></video>
+
+Session 24: Reviewing
+=====================
+
+<video src="https://archive.org/download/todoose/todoose--session-24--reviewing.mp4" controls preload="none"></video>
+
+Session 25: Finish CSS and Start Extracting Repository from Server
+==================================================================
+
+<video src="https://archive.org/download/todoose/todoose--session-25--finish-css-and-start-extracting-repository-from-server.mp4" controls preload="none"></video>
+
+Session 26: Finish Extracting Repository
+========================================
+
+<video src="https://archive.org/download/todoose/todoose--session-26--finish-extracting-repository.mp4" controls preload="none"></video>
+
+Session 27: Fix Race Conditions and Extract Controller
+======================================================
+
+<video src="https://archive.org/download/todoose/todoose--session-27--fix-race-conditions-and-extract-controller.mp4" controls preload="none"></video>
+
+Session 28: Extract React Components
+====================================
+
+<video src="https://archive.org/download/todoose/todoose--session-28--extract-react-components.mp4" controls preload="none"></video>
+
+Session 29: Fix Postman Tests and Mount React Application Properly
+==================================================================
+
+<video src="https://archive.org/download/todoose/todoose--session-29--fix-postman-tests-and-mount-react-application-properly.mp4" controls preload="none"></video>
+
+Session 30: Fix Edit Description and Extract Event Handlers
+===========================================================
+
+<video src="https://archive.org/download/todoose/todoose--session-30--fix-edit-description-and-extract-event-handlers.mp4" controls preload="none"></video>
+
+Session 31: Final Touches
+=========================
+
+<video src="https://archive.org/download/todoose/todoose--session-31--final-touches.mp4" controls preload="none"></video>
