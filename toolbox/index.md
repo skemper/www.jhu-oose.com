@@ -109,7 +109,7 @@ Browser: Google Chrome
 ![Google Chrome](google-chrome.png){:width="350"}
 </figure>
 
-**What is it.** Duh, I bet you know what a browser is, because you’re reading this in one right now. So what is this doing in the Toolbox? Well, typically a web application is expected to work in any browser, but in the interest of keeping things simple, we test your application in only one browser. This is a somewhat realistic constraint because modern browsers are becoming more alike.
+**What is it.** I bet you know what a browser is, because you’re reading this in one right now. So what is this doing in the Toolbox? Well, typically a web application is expected to work in any browser, but in the interest of keeping things simple, we test your application in only one browser. This is a somewhat realistic constraint because modern browsers are becoming more alike.
 
 **Our Choice.** Google Chrome is the most popular browser and it has some of the most advanced developer tools.
 
@@ -155,7 +155,7 @@ Project Management: GitHub
 
 **What is it.** A project management tool tracks what needs to be done in the project, who’s working on what, and so forth. It also hosts the canonical [version](#version-control-systemvcs-git) of the code base.
 
-**Our Choice.** GitHub is the most popular Git host. Its project-management tools are simple, but cover everything you need for the group projects.
+**Our Choice.** GitHub is the most popular Git host. Its project-management tools are simple but cover everything you need for the group projects.
 
 **Where to Get it.** [Follow these instructions to create an account](https://github.com/join), and [add to your account the SSH key](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account) you created when configuring [Git](#version-control-systemvcs-git).
 
@@ -220,7 +220,7 @@ Web Server: Javalin
 
 **Our Choice.** Javalin abstracts the low-level aspects of the communication between server and client while avoiding abstractions that would obscure how things work and confuse beginners.
 
-**Where to Get it.** Add `io.javalin:javalin` as a dependency — the [build system](#build-system-gradle) takes care of the rest. Besides Javalin itself, also add a logger, [Simple Logging Facade for Java (SLF4J)](https://www.slf4j.org) (`org.slf4j:slf4j-simple`), so that Javalin can log important information while it’s running.
+**Where to Get it.** Add `io.javalin:javalin` as a dependency—the [build system](#build-system-gradle) takes care of the rest. Besides Javalin itself, also add a logger, [Simple Logging Facade for Java (SLF4J)](https://www.slf4j.org) (`org.slf4j:slf4j-simple`), so that Javalin can log important information while it’s running.
 
 **How to Learn it.** [Read the documentation](https://javalin.io/documentation).
 
@@ -235,7 +235,7 @@ JSON Mapper: Jackson
 
 **Our Choice.** Jackson is the default JSON mapper for [Javalin](#web-server-javalin).
 
-**Where to Get it.** Add `com.fasterxml.jackson.core:jackson-databind`  as a dependency — the [build system](#build-system-gradle) takes care of the rest.
+**Where to Get it.** Add `com.fasterxml.jackson.core:jackson-databind`  as a dependency—the [build system](#build-system-gradle) takes care of the rest.
 
 **How to Learn it.** Read the [documentation](https://github.com/FasterXML/jackson-databind) and the [wiki](https://github.com/FasterXML/jackson-databind/wiki).
 
@@ -265,7 +265,7 @@ Database Management System (DBMS): SQLite
 
 **Our Choice.** Typically a web application would use a DBMS with a client–server architecture (this is a client–server architecture with respect to the DBMS, in which the DBMS is the server and the application server is actually the client). The most popular DBMS with a client–server architecture is [PostgreSQL](https://www.postgresql.org). A client–server architecture scales better, particularly when multiple server components need to communicate with a central DBMS. But in this course we prefer SQLite precisely because it is serverless: the database is just stored in a regular file, which makes SQLite easier to install and manage. But there are some issues with [deploying SQLite to Heroku](#platform-heroku), and if you want to avoid them, you have to switch to PostgreSQL.
 
-**Where to Get it.** Add `org.xerial:sqlite-jdbc` as a dependency — the [build system](#build-system-gradle) takes care of the rest. This Java library contains not only the driver that the server needs to connect to SQLite, but also SQLite itself.
+**Where to Get it.** Add `org.xerial:sqlite-jdbc` as a dependency—the [build system](#build-system-gradle) takes care of the rest. This Java library contains not only the driver that the server needs to connect to SQLite, but also SQLite itself.
 
 **How to Learn it.** Manage SQLite with the database tools in the [IDE](#integrated-development-environmentide-intellijidea). In your application, the server communicates with SQLite using a language called Structured Query Language (SQL). If you’re new to SQL, start with this [course](https://www.codecademy.com/learn/learn-sql). Once you understand SQL, you must learn some things particular to SQLite, which you may find in [the documentation](https://www.sqlite.org/docs.html). In particular, learn about [SQLite’s data types and its dynamic type system](https://www.sqlite.org/datatype3.html), and [the particularities of SQLite’s SQL dialect](https://www.sqlite.org/lang.html).
 
@@ -311,7 +311,7 @@ User-Interface Builder: React
 
 **What is it.** A [JavaScript](#programming-language-javascript) library for rendering the [user interface](#user-interface-hypertext-markup-languagehtml--cascading-style-sheetscss) and keeping it up to date when the data changes.
 
-**Our Choice.** This is a hot space in the software engineering world — there are many tools competing to solve the same issue. React is among the most popular, it is relatively easy to learn, and it’s based on simple ideas.
+**Our Choice.** This is a hot space in the software engineering world—there are many tools competing to solve the same issue. React is among the most popular, it is relatively easy to learn, and it’s based on simple ideas.
 
 **Where to Get it.** Add React to the application using [the simplest method](https://reactjs.org/docs/add-react-to-a-website.html), including support for JSX with Babel. To make your application work locally even if your computer is offline, download the scripts instead of using the versions at `unpkg.com`. This quick-and-dirty method wouldn’t be good for applications that have hundreds of users, or applications that must to be as fast as possible, but it’s simple enough: it requires just a couple of `script` tags, instead of a JavaScript runtime (for example, Node.js) and a JavaScript build system (for example, webpack). Also install the [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) for [Google Chrome](#browser-googlechrome).
 
