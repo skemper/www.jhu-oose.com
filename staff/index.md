@@ -35,7 +35,7 @@ Yash Kumar Lal
 
 **Expertise Beyond Toolbox:** iOS, Python, and Natural Language Processing.
 
-**Homepage:** <!-- TODO: -->
+**Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
 Course Assistants (CAs)
 =======================
