@@ -65,11 +65,7 @@ body {
   margin: 0 auto;
 }
 
-a        { color: black; }
-mark     { background-color: rgb(200, 200, 200); }
-ins, del { text-decoration: none; }
-ins      { background-color: rgb(221, 230, 199); }
-del      { background-color: rgb(238, 186, 187); }
+a { color: black; }
 
 h1, h2 {
   line-height: 1.25;
@@ -136,151 +132,209 @@ button, button:active, .button {
   text-decoration: none;
 }
 
-/* rougify style pastie > stylesheets/syntax-highlight.css */
+// $ rougify style github --scope 'REMOVE-ME' >> stylesheets/main.scss
 
-.highlight table td { padding: 5px; }
-.highlight table pre { margin: 0; }
-.highlight .c, .highlight .cd, .highlight .cm, .highlight .c1 {
-  color: #888888;
+.cm {
+  color: #999988;
+  font-style: italic;
 }
-.highlight .cp {
-  color: #cc0000;
+.cp {
+  color: #999999;
   font-weight: bold;
 }
-.highlight .cs {
-  color: #cc0000;
-  background-color: #fff0f0;
-  font-weight: bold;
+.c1 {
+  color: #999988;
+  font-style: italic;
 }
-.highlight .err {
+.cs {
+  color: #999999;
+  font-weight: bold;
+  font-style: italic;
+}
+.c, .ch, .cd, .cpf {
+  color: #999988;
+  font-style: italic;
+}
+.err {
   color: #a61717;
   background-color: #e3d2d2;
 }
-.highlight .gr {
-  color: #aa0000;
-}
-.highlight .gh {
-  color: #333333;
-}
-.highlight .gu {
-  color: #666666;
-}
-.highlight .gd {
+.gd {
   color: #000000;
   background-color: #ffdddd;
 }
-.highlight .gi {
+.ge {
+  color: #000000;
+  font-style: italic;
+}
+.gr {
+  color: #aa0000;
+}
+.gh {
+  color: #999999;
+}
+.gi {
   color: #000000;
   background-color: #ddffdd;
 }
-.highlight .ge {
-  font-style: italic;
-}
-.highlight .gs {
-  font-weight: bold;
-}
-.highlight .gl {
+.go {
   color: #888888;
 }
-.highlight .go {
-  color: #888888;
-}
-.highlight .gp {
+.gp {
   color: #555555;
 }
-.highlight .gt {
+.gs {
+  font-weight: bold;
+}
+.gu {
+  color: #aaaaaa;
+}
+.gt {
   color: #aa0000;
 }
-.highlight .k, .highlight .kc, .highlight .kd, .highlight .kn, .highlight .kr, .highlight .kv {
-  color: #008800;
+.kc {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .kp {
-  color: #008800;
-}
-.highlight .kt {
-  color: #888888;
+.kd {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mb, .highlight .mx {
-  color: #0000dd;
+.kn {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .s1 {
-  color: #dd2200;
-  background-color: #fff0f0;
-}
-.highlight .se {
-  color: #0044dd;
-  background-color: #fff0f0;
-}
-.highlight .si {
-  color: #3333bb;
-  background-color: #fff0f0;
-}
-.highlight .sx {
-  color: #22bb22;
-  background-color: #f0fff0;
-}
-.highlight .sr {
-  color: #008800;
-}
-.highlight .ss {
-  color: #aa6600;
-  background-color: #fff0f0;
-}
-.highlight .na {
-  color: #336699;
-}
-.highlight .nb, .highlight .bp {
-  color: #003388;
-}
-.highlight .nc {
-  color: #bb0066;
+.kp {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .no {
-  color: #003366;
+.kr {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .nd {
+.kt {
+  color: #445588;
+  font-weight: bold;
+}
+.k, .kv {
+  color: #000000;
+  font-weight: bold;
+}
+.mf {
+  color: #009999;
+}
+.mh {
+  color: #009999;
+}
+.il {
+  color: #009999;
+}
+.mi {
+  color: #009999;
+}
+.mo {
+  color: #009999;
+}
+.m, .mb, .mx {
+  color: #009999;
+}
+.sb {
+  color: #d14;
+}
+.sc {
+  color: #d14;
+}
+.sd {
+  color: #d14;
+}
+.s2 {
+  color: #d14;
+}
+.se {
+  color: #d14;
+}
+.sh {
+  color: #d14;
+}
+.si {
+  color: #d14;
+}
+.sx {
+  color: #d14;
+}
+.sr {
+  color: #009926;
+}
+.s1 {
+  color: #d14;
+}
+.ss {
+  color: #990073;
+}
+.s, .sa, .dl {
+  color: #d14;
+}
+.na {
+  color: #008080;
+}
+.bp {
+  color: #999999;
+}
+.nb {
+  color: #0086B3;
+}
+.nc {
+  color: #445588;
+  font-weight: bold;
+}
+.no {
+  color: #008080;
+}
+.nd {
+  color: #3c5d5d;
+  font-weight: bold;
+}
+.ni {
+  color: #800080;
+}
+.ne {
+  color: #990000;
+  font-weight: bold;
+}
+.nf, .fm {
+  color: #990000;
+  font-weight: bold;
+}
+.nl {
+  color: #990000;
+  font-weight: bold;
+}
+.nn {
   color: #555555;
 }
-.highlight .ne {
-  color: #bb0066;
+.nt {
+  color: #000080;
+}
+.vc {
+  color: #008080;
+}
+.vg {
+  color: #008080;
+}
+.vi {
+  color: #008080;
+}
+.nv, .vm {
+  color: #008080;
+}
+.ow {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .nf {
-  color: #0066bb;
+.o {
+  color: #000000;
   font-weight: bold;
 }
-.highlight .nl {
-  color: #336699;
-}
-.highlight .nn {
-  color: #bb0066;
-  font-weight: bold;
-}
-.highlight .py {
-  color: #336699;
-  font-weight: bold;
-}
-.highlight .nt {
-  color: #bb0066;
-  font-weight: bold;
-}
-.highlight .nv, .highlight .vc {
-  color: #336699;
-}
-.highlight .vg {
-  color: #dd7700;
-}
-.highlight .vi {
-  color: #3333bb;
-}
-.highlight .ow {
-  color: #008800;
-}
-.highlight .w {
+.w {
   color: #bbbbbb;
 }
