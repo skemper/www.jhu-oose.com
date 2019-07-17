@@ -81,7 +81,7 @@ Integrated Development Environment (IDE): IntelliJ IDEA
 
 **What Is It?** An IDE allows you to edit source code, invoke the compiler, interact with the debugger, and so forth.
 
-**Our Choice.** IntelliJ IDEA is the modern industry standard for [Java](#programming-language-java), after it [*eclipsed*](https://www.eclipse.org) the competition. It makes it easier to use the other tools in the Toolbox, including [Git](#version-control-systemvcs-git), [JavaScript](#programming-language-javascript), [Markdown](#authoring-language-markdown), and [SQLite](#database-management-systemdbms-sqlite). Also, it’s the foundation of Android Studio.
+**Why Did We Choose It?** IntelliJ IDEA is the modern industry standard for [Java](#programming-language-java), after it [*eclipsed*](https://www.eclipse.org) the competition. It makes it easier to use the other tools in the Toolbox, including [Git](#version-control-systemvcs-git), [JavaScript](#programming-language-javascript), [Markdown](#authoring-language-markdown), and [SQLite](#database-management-systemdbms-sqlite). Also, it’s the foundation of Android Studio.
 
 **Where Do I Get It?** [Follow these instructions](https://www.jetbrains.com/idea/download/). Install the *Ultimate* edition, not the *Community* one. The Ultimate edition a commercial product, so [apply for a student license](https://www.jetbrains.com/student/). The Ultimate edition includes features that the Community doesn’t and that are useful in the course, for example, support for [JavaScript](#programming-language-javascript) and [database tools](#database-management-systemdbms-sqlite).
 
@@ -96,7 +96,7 @@ Application Programming Interface (API) Development Environment (ADE): Postman
 
 **What Is It?** An API establishes *what* functionalities the server provides to the client and *how* it provides them. Once the API is designed, different people may work on the server and on the client independently, maybe even in parallel, and as long as both sides follow the API, the application will work in the end. An ADE helps you design the API, document it, test it, interact with it, and so forth.
 
-**Our Choice.** Postman invented the idea of an ADE; it is the industry standard in this area and stands with little competition.
+**Why Did We Choose It?** Postman invented the idea of an ADE; it is the industry standard in this area and stands with little competition.
 
 **Where Do I Get It?** [Follow these instructions](https://www.getpostman.com/downloads/). You may have installed Postman as a browser extension in the past, but the browser extension has been discontinued, so switch to the standalone version.
 
@@ -111,7 +111,7 @@ Browser: Google Chrome
 
 **What Is It?** I bet you know what a browser is, because you’re reading this in one right now. So what is this doing in the Toolbox? Well, typically a web application is expected to work in any browser, but in the interest of keeping things simple, we test your application in only one browser. This is a somewhat realistic constraint because modern browsers are becoming more alike.
 
-**Our Choice.** Google Chrome is the most popular browser and it has some of the most advanced developer tools.
+**Why Did We Choose It?** Google Chrome is the most popular browser and it has some of the most advanced developer tools.
 
 **Where Do I Get It?** Chances are that you’re already reading this in Google Chrome. If you aren’t, [follow these instructions](https://www.google.com/chrome/).
 
@@ -126,7 +126,7 @@ Version Control System (VCS): Git
 
 **What Is It?** A VCS is like a time machine for your code base: the VCS can save the state of the code base over time and help you navigate in its history. Also, a VCS lets you coordinate your work with other people on the same code base.
 
-**Our Choice.** Git is the most used VCS and is also one of the most sophisticated.
+**Why Did We Choose It?** Git is the most used VCS and is also one of the most sophisticated.
 
 **Where Do I Get It?** [Follow these instructions](https://git-scm.com/downloads) to install Git. Then, to configure it:
 
@@ -155,7 +155,7 @@ Project Management: GitHub
 
 **What Is It?** A project management tool tracks what needs to be done in the project, who’s working on what, and so forth. It also hosts the canonical [version](#version-control-systemvcs-git) of the code base.
 
-**Our Choice.** GitHub is the most popular Git host. Its project-management tools are simple but cover everything you need for the group projects.
+**Why Did We Choose It?** GitHub is the most popular Git host. Its project-management tools are simple but cover everything you need for the group projects.
 
 **Where Do I Get It?** [Follow these instructions to create an account](https://github.com/join), and [add to your account the SSH key](https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account) you created when configuring [Git](#version-control-systemvcs-git).
 
@@ -170,7 +170,7 @@ Wireframing & Diagramming: Paper & Pencil
 
 **What Is It?** A wireframe is a rough sketch of the user interface. A diagram is a visual representation of the application’s *technical* design (not to be confused with its *graphic* design), for example, its classes and how they communicate.
 
-**Our Choice.** Paper & Pencil helps to keep things simple. Wireframes should not be concerned with font choices, colors, and so forth. Diagrams should not include too many classes, attributes, methods, and so forth, particularly those that can be inferred from context, for example, getters and setters.
+**Why Did We Choose It?** Paper & Pencil helps to keep things simple. Wireframes should not be concerned with font choices, colors, and so forth. Diagrams should not include too many classes, attributes, methods, and so forth, particularly those that can be inferred from context, for example, getters and setters.
 
 **Where Do I Get It?** I trust you can figure this one out by yourself.
 
@@ -188,7 +188,7 @@ Programming Language: Java
 
 **What Is It?** The programming language for the server side of your application.
 
-**Our Choice.** Java is the quintessential modern object-oriented programming language, it is widely used in industry, and you probably already know it from previous courses.
+**Why Did We Choose It?** Java is the quintessential modern object-oriented programming language, it is widely used in industry, and you probably already know it from previous courses.
 
 **Where Do I Get It?** [Follow these instructions](https://www.oracle.com/technetwork/java/javase/downloads/index.html). Install the latest Java Development Kit (JDK) for the Java Platform, Standard Edition (SE).
 
@@ -203,7 +203,7 @@ Build System: Gradle
 
 **What Is It?** A build system invokes the compiler for all the files in your project, it downloads and installs the third-party libraries in which your project depends, and so forth.
 
-**Our Choice.** Gradle is one of the most popular and widely used build systems for Java, though this space is crowded and fractured. Gradle is relatively easy to use, for example, its configuration files are simpler than the XML-based ones in [Maven](https://maven.apache.org), which is another popular build system for Java. Gradle is also the build system used by default in Android projects.
+**Why Did We Choose It?** Gradle is one of the most popular and widely used build systems for Java, though this space is crowded and fractured. Gradle is relatively easy to use, for example, its configuration files are simpler than the XML-based ones in [Maven](https://maven.apache.org), which is another popular build system for Java. Gradle is also the build system used by default in Android projects.
 
 **Where Do I Get It?** The [IDE](#integrated-development-environmentide-intellijidea) gets it for you.
 
@@ -218,7 +218,7 @@ Web Server: Javalin
 
 **What Is It?** A [Java](#programming-language-java) library for developing web servers.
 
-**Our Choice.** Javalin abstracts the low-level aspects of the communication between server and client while avoiding abstractions that would obscure how things work and confuse beginners.
+**Why Did We Choose It?** Javalin abstracts the low-level aspects of the communication between server and client while avoiding abstractions that would obscure how things work and confuse beginners.
 
 **Where Do I Get It?** Add `io.javalin:javalin` as a dependency—the [build system](#build-system-gradle) takes care of the rest. Besides Javalin itself, also add a logger, [Simple Logging Facade for Java (SLF4J)](https://www.slf4j.org) (`org.slf4j:slf4j-simple`), so that Javalin can log important information while it’s running.
 
@@ -233,7 +233,7 @@ JSON Mapper: Jackson
 
 **What Is It?** A [Java](#programming-language-java) library for mapping back and forth between Java data structures and [JSON](#data-interchange-format-javascript-object-notationjson).
 
-**Our Choice.** Jackson is the default JSON mapper for [Javalin](#web-server-javalin).
+**Why Did We Choose It?** Jackson is the default JSON mapper for [Javalin](#web-server-javalin).
 
 **Where Do I Get It?** Add `com.fasterxml.jackson.core:jackson-databind`  as a dependency—the [build system](#build-system-gradle) takes care of the rest.
 
@@ -248,7 +248,7 @@ Testing Framework: JUnit
 
 **What Is It?** A testing framework allows you to write automated tests, which are small programs that check that your application is behaving correctly. Writing tests often helps you figure out what that correct behavior should be. Also, the tests serve as a form of low-level executable documentation. Finally, the tests prevent future modifications from breaking the application.
 
-**Our Choice.** JUnit is the most popular and straightforward testing framework for Java.
+**Why Did We Choose It?** JUnit is the most popular and straightforward testing framework for Java.
 
 **Where Do I Get It?** Add `org.junit.jupiter:junit-jupiter-engine` as a dependency and configure the project to use JUnit following [the example project for Gradle and Java](https://junit.org/junit5/docs/current/user-guide/#overview-getting-started-example-projects).
 
@@ -263,7 +263,7 @@ Database Management System (DBMS): SQLite
 
 **What Is It?** When we turn the server off, it *forgets* all the Java objects that existed in memory. If the application data was stored in those objects only, it would be lost. A DBMS persists the application data across server runs. Also, a database preserves data integrity and consistency, for example, it may enforce the constraint that all users in your application must have a phone number.
 
-**Our Choice.** Typically a web application would use a DBMS with a client–server architecture (this is a client–server architecture with respect to the DBMS, in which the DBMS is the server and the application server is actually the client). The most popular DBMS with a client–server architecture is [PostgreSQL](https://www.postgresql.org). A client–server architecture scales better, particularly when multiple server components need to communicate with a central DBMS. But in this course we prefer SQLite precisely because it is serverless: the database is just stored in a regular file, which makes SQLite easier to install and manage. But there are some issues with [deploying SQLite to Heroku](#platform-heroku), and if you want to avoid them, you have to switch to PostgreSQL.
+**Why Did We Choose It?** Typically a web application would use a DBMS with a client–server architecture (this is a client–server architecture with respect to the DBMS, in which the DBMS is the server and the application server is actually the client). The most popular DBMS with a client–server architecture is [PostgreSQL](https://www.postgresql.org). A client–server architecture scales better, particularly when multiple server components need to communicate with a central DBMS. But in this course we prefer SQLite precisely because it is serverless: the database is just stored in a regular file, which makes SQLite easier to install and manage. But there are some issues with [deploying SQLite to Heroku](#platform-heroku), and if you want to avoid them, you have to switch to PostgreSQL.
 
 **Where Do I Get It?** Add `org.xerial:sqlite-jdbc` as a dependency—the [build system](#build-system-gradle) takes care of the rest. This Java library contains not only the driver that the server needs to connect to SQLite, but also SQLite itself.
 
@@ -281,7 +281,7 @@ Programming Language: JavaScript
 
 **What Is It?** The programming language for the client side of your application.
 
-**Our Choice.** JavaScript is the native programming language for the browser.
+**Why Did We Choose It?** JavaScript is the native programming language for the browser.
 
 **Where Do I Get It?** It comes with [the browser](#browser-googlechrome).
 
@@ -296,7 +296,7 @@ User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS
 
 **What Is It?** HTML is the language in which to define the *contents* of the user interface. CSS is the language in which to define the *looks* of the user interface.
 
-**Our Choice.** HTML and CSS are the native languages for user interfaces in the browser.
+**Why Did We Choose It?** HTML and CSS are the native languages for user interfaces in the browser.
 
 **Where Do I Get It?** It comes with [the browser](#browser-googlechrome).
 
@@ -311,7 +311,7 @@ User-Interface Builder: React
 
 **What Is It?** A [JavaScript](#programming-language-javascript) library for rendering the [user interface](#user-interface-hypertext-markup-languagehtml--cascading-style-sheetscss) and keeping it up to date when the data changes.
 
-**Our Choice.** This is a hot space in the software engineering world—there are many tools competing to solve the same issue. React is among the most popular, it is relatively easy to learn, and it’s based on simple ideas.
+**Why Did We Choose It?** This is a hot space in the software engineering world—there are many tools competing to solve the same issue. React is among the most popular, it is relatively easy to learn, and it’s based on simple ideas.
 
 **Where Do I Get It?** Add React to the application using [the simplest method](https://reactjs.org/docs/add-react-to-a-website.html), including support for JSX with Babel. To make your application work locally even if your computer is offline, download the scripts instead of using the versions at `unpkg.com`. This quick-and-dirty method wouldn’t be good for applications that have hundreds of users, or applications that must to be as fast as possible, but it’s simple enough: it requires just a couple of `script` tags, instead of a JavaScript runtime (for example, Node.js) and a JavaScript build system (for example, webpack). Also install the [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) for [Google Chrome](#browser-googlechrome).
 
@@ -329,7 +329,7 @@ Data-Interchange Format: JavaScript Object Notation (JSON)
 
 **What Is It?** The server and the client communicate with a protocol based on plain text (HTTP), but they need to exchange data that is more structured than plain text, for example, objects, lists, and so forth. A Data-Interchange Format is a convention on how to format structured data in plain text.
 
-**Our Choice.** JSON is an industry standard. It is simpler and more lightweight than the other popular alternatives, for example, XML.
+**Why Did We Choose It?** JSON is an industry standard. It is simpler and more lightweight than the other popular alternatives, for example, XML.
 
 **Where Do I Get It?** You don’t *install* JSON the same way you install, say, Java, because JSON is just a convention on how to format data. But while it may be possible to map back and forth between data structures in a programming language and JSON just by manipulating strings, you must use tools to streamline these tedious and error-prone tasks. On the server side, use a [Java library](#json-mapper-jackson); on the client side, use JavaScript, which already supports JSON natively (unsurprisingly, if you recall what JSON stands for).
 
@@ -347,7 +347,7 @@ Platform: Heroku
 
 **What Is It?** A platform to run the server and make it available to anyone on the Internet.
 
-**Our Choice.** Heroku is among the simplest platforms for deployment, because it favors *convention over configuration*. It provides many important features so seamlessly that you won’t even notice that they’re there, for example, Continuous Delivery (CD), a domain, HTTPS support, and so forth.
+**Why Did We Choose It?** Heroku is among the simplest platforms for deployment, because it favors *convention over configuration*. It provides many important features so seamlessly that you won’t even notice that they’re there, for example, Continuous Delivery (CD), a domain, HTTPS support, and so forth.
 
 **Where Do I Get It?** [Create an account](https://www.heroku.com).
 
@@ -362,7 +362,7 @@ Continuous Integration (CI) Server: Travis CI
 
 **What Is It?** At its simplest, a CI Server grabs the code base from [GitHub](#project-management-github), runs the automated tests, and reports on the results. In general, you may configure a CI Server to execute any task, for example, packaging the application for distribution, deploying the application, and so forth.
 
-**Our Choice.** Travis CI integrates nicely with [GitHub](#project-management-github), and it’s among the most popular CI Servers on the market.
+**Why Did We Choose It?** Travis CI integrates nicely with [GitHub](#project-management-github), and it’s among the most popular CI Servers on the market.
 
 **Where Do I Get It?** Visit [`travis-ci.`**`com`**](https://www.travis-ci.com), not [`travis-ci.`**`org`**](https://www.travis-ci.org) (which is the [legacy platform](https://blog.travis-ci.com/2018-05-02-open-source-projects-on-travis-ci-com-with-github-apps)), and use the credentials from [GitHub](#project-management-github).
 
@@ -380,7 +380,7 @@ Authoring Language: Markdown
 
 **What Is It?** A language in which to write the project documentation, including the README, the CHANGELOG, and so forth.
 
-**Our Choice.** Markdown is lightweight, simple, and supported everywhere in [GitHub](#project-management-github).
+**Why Did We Choose It?** Markdown is lightweight, simple, and supported everywhere in [GitHub](#project-management-github).
 
 **Where Do I Get It?** The [IDE](#integrated-development-environmentide-intellijidea) already supports Markdown and provides a nice preview window of the rendered document.
 
