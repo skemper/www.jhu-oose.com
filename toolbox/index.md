@@ -12,11 +12,11 @@ How to Read
 -----------
 {:.no_toc}
 
-**First Read.** Read the rest of this introduction and go through the list of tools following the instructions on the sections named **Where to Get it**. *If you have installed one of these tools in the past, you must update it.*
+**First Read.** Read the rest of this introduction and go through the list of tools following the instructions on the sections named **Where Do I Get It?**. *If you have installed one of these tools in the past, you must update it.*
 
 **Second Read.** Read the sections named **What Is It?** and **Why Did We Choose It?**.
 
-**Third Read.** Refer to [TODOOSE](/todoose) for an example of the tools in action and follow the instructions in the sections named **How to Learn it**. Don’t try to learn everything at once—it’s *a lot* of material.
+**Third Read.** Refer to [TODOOSE](/todoose) for an example of the tools in action and follow the instructions in the sections named **How Do I Learn It?**. Don’t try to learn everything at once—it’s *a lot* of material.
 
 Architecture: Web Application
 -----------------------------
