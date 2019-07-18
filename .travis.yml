@@ -9,4 +9,5 @@ addons:
 cache:
   directories:
     - $TRAVIS_BUILD_DIR/tmp/.htmlproofer
+install: gem install github-pages html-proofer
 script: jekyll build && htmlproofer --assume-extension ./_site
