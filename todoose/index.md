@@ -1,7 +1,7 @@
 TODOOSE: Building a Web Application from Scratch
 ================================================
 
-**Work in Progress**
+**🚧  Work in Progress  🚧**
 
 [Code Base](https://github.com/jhu-oose/todoose) · [Live Version](https://todoose.herokuapp.com){:data-proofer-ignore="true"}
 
