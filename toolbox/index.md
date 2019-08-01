@@ -30,7 +30,7 @@ Reasons to Reach for Tools that aren’t in the Toolbox
 
 While you’re restricted to the tools in the Toolbox for the programming assignments, on your group project you’re free to reach for other tools. Here’s why you may want to do that:
 
-**The Project Needs it.** This is probably the best reason. Say your project is about music, for example, then you probably need a library for processing sound, which you won’t find in the Toolbox. Also, you may decide to build something other than a [web application](#architecture-web-application), like a mobile application for iOS or Android, in which case you need something like Swift or React Native.
+**The Project Needs it.** This is probably the best reason. Say your project is about music, for example, then you probably need a library for processing sound, which you won’t find in the Toolbox. Also, you may decide to build something other than a [web application](#architecture-web-application), like a mobile application for iOS or Android, in which case you need something like React Native or Swift.
 
 **Fun.** If you and your teammates are more experienced, it may be fun to reach for new and unusual tools. This is fine and good, as long as you’re willing to [pay the price](#reasons-to-stick-with-the-tools-in-the-toolbox).
 
