@@ -19,91 +19,106 @@ Refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/r
 
 **2019-08-29 · Thursday\***  
 **👨‍🏫  Lecture:**  
-\* Though we usually meet on Mondays & Wednesdays, our first day of classes is actually on a Thursday to make up for the holiday on the following Monday (Labor Day).
+**📥  Individual Assignment 0 Start**  
+**📥  Group Project Iteration 0 Start**  
+\* Though we usually meet on Mondays & Wednesdays, our first day of classes is actually on a Thursday to make up for the holiday on the following Monday (Labor Day).  
 
 **2019-09-02 · Monday**  
-**🏭  No Class:** Labor Day.
+**🏭  No Class:** Labor Day.  
 
 **2019-09-04 · Wednesday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
 
 **2019-09-09 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
+**📤  Group Project Iteration 0 End**  
+**📥  Group Project Iteration 1 Start**  
 
 **2019-09-11 · Wednesday**  
 **💻  Laboratory:**  
 
 **2019-09-16 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
 
 **2019-09-18 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-09-23 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
+**📤  Group Project Iteration 1 End**  
+**📥  Group Project Iteration 2 Start**  
 
 **2019-09-25 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-09-30 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
 
 **2019-10-02 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-10-07 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
+**📤  Group Project Iteration 2 End**  
+**📥  Group Project Iteration 3 Start**  
 
 **2019-10-09 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-10-14 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
 
 **2019-10-16 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-10-21 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
+**📤  Group Project Iteration 3 End**  
+**📥  Group Project Iteration 4 Start**  
 
 **2019-10-23 · Wednesday**  
-**🗣  Overview Presentations:**
+**🗣  Overview Presentations:**  
 
 **2019-10-28 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
 
 **2019-10-30 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-11-04 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
+**📤  Group Project Iteration 4 End**  
+**📥  Group Project Iteration 5 Start**  
 
 **2019-11-06 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-11-11 · Monday**  
-**👨‍🏫  Lecture:**
+**👨‍🏫  Lecture:**  
 
 **2019-11-13 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-11-18 · Monday**  
-**📝  Quiz:**
+**📝  Quiz:**  
 
 **2019-11-20 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
+**📤  Group Project Iteration 5 End**  
 
 **2019-11-25 · Monday & 2019-11-27 · Wednesday**  
-**🦃  No Class:** Thanksgiving Vacation.
+**🦃  No Class:** Thanksgiving Vacation.  
 
 **2019-12-02 · Monday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
+**📥  Group Project Iteration 6 Start**  
 
 **2019-12-04 · Wednesday**  
-**💻  Laboratory:**
+**💻  Laboratory:**  
 
 **2019-12-09 · Monday & 2019-12-11 · Wednesday**  
-**🤓  No Class:** Reading Period.
+**🤓  No Class:** Reading Period.  
 
 **2019-12-16 · Monday – 2019-12-18 · Wednesday**  
-**🗣  Final Presentations:**
+**🗣  Final Presentations:**  
+**📤  Group Project Iteration 6 End**  
