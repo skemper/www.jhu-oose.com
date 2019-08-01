@@ -1,5 +1,6 @@
 Calendar
 ========
+{:.no_toc}
 
 **🚧  Work in Progress  🚧**
 
@@ -14,6 +15,9 @@ The Hard Deadlines for Individual Assignments never coincide with the end of Gro
 All deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to Individual Assignments and to Group Project Iterations.
 
 For administrative matters, for example, the last day to drop courses, refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf).
+
+* TOC
+{:toc}
 
 2019-08-29 · Thursday
 ---------------------
