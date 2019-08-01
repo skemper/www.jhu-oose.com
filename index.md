@@ -18,32 +18,32 @@ Calendar
 Refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf) for administrative matters, for example, the last day to drop courses.
 
 **2019-08-29 · Thursday**  
-**Lecture:** Welcome to Object-Oriented Software Engineering. Web Applications (Server).  
+**Lecture:**  
 Though we usually meet on Mondays & Wednesdays, our first day of classes is actually on a Thursday to make up for the holiday on the following Monday (Labor Day).
 
 **2019-09-02 · Monday**  
 **No Class:** Labor Day.
 
 **2019-09-04 · Wednesday**  
-**Lecture:** Web Applications (Server).
+**Lecture:**
 
 **2019-09-09 · Monday**  
-**Lecture:** Web Applications (Client).
+**Lecture:**
 
 **2019-09-11 · Wednesday**  
-**Laboratory:** Ideas.
+**Laboratory:**
 
 **2019-09-16 · Monday**  
-**Lecture:** Requirements & Planning.
+**Lecture:**
 
 **2019-09-18 · Wednesday**  
-**Laboratory:** Requirements & Planning.
+**Laboratory:**
 
 **2019-09-23 · Monday**  
-**Lecture:** Design.
+**Lecture:**
 
 **2019-09-25 · Wednesday**  
-**Laboratory:** Design.
+**Laboratory:**
 
 **2019-09-30 · Monday**
 
