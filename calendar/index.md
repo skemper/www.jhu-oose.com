@@ -31,7 +31,6 @@ Though we usually meet on Mondays & Wednesdays, our first day of classes is actu
 
 🏭  **No Class:** Labor Day
 
-
 2019-09-04 · Wednesday
 ----------------------
 
