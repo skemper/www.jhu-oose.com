@@ -46,36 +46,52 @@ Though we usually meet on Mondays & Wednesdays, our first day of classes is actu
 **Laboratory:**
 
 **2019-09-30 · Monday**
+**Lecture:**
 
 **2019-10-02 · Wednesday**
+**Laboratory:**
 
 **2019-10-07 · Monday**
+**Lecture:**
 
 **2019-10-09 · Wednesday**
+**Laboratory:**
 
 **2019-10-14 · Monday**
+**Lecture:**
 
 **2019-10-16 · Wednesday**
+**Laboratory:**
 
 **2019-10-21 · Monday**
+**Lecture:**
 
 **2019-10-23 · Wednesday**
+**Overview Presentations:**
 
 **2019-10-28 · Monday**
+**Lecture:**
 
 **2019-10-30 · Wednesday**
+**Laboratory:**
 
 **2019-11-04 · Monday**
+**Lecture:**
 
 **2019-11-06 · Wednesday**
+**Laboratory:**
 
 **2019-11-11 · Monday**
+**Lecture:**
 
 **2019-11-13 · Wednesday**
+**Laboratory:**
 
 **2019-11-18 · Monday**
+**Quiz:**
 
 **2019-11-20 · Wednesday**
+**Laboratory:**
 
 **2019-11-25 · Monday**  
 **No Class:** Thanksgiving Vacation.
@@ -84,5 +100,7 @@ Though we usually meet on Mondays & Wednesdays, our first day of classes is actu
 **No Class:** Thanksgiving Vacation.
 
 **2019-12-02 · Monday**
+**Laboratory:**
 
 **2019-12-04 · Wednesday**
+**Laboratory:**
