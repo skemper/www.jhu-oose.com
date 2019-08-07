@@ -1,5 +1,4 @@
 ---
-# TODO: Assignments
 # TODO: Height (scroll)
 # TODO: Full event name (tooltip with description) (tooltip.js / tippy)
 # TODO: border-radius
@@ -7,6 +6,7 @@
 # TODO: Make bigger
 # TODO: Add footer
 # TODO: ICS?
+# TODO: Inherit YAML
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
 calendar:
   eventSources:
@@ -33,8 +33,7 @@ calendar:
         start: 2019-10-30
       - title: Lecture 10
         start: 2019-11-06
-      - title: Lecture 11
-        description: Review for Quiz
+      - title: Review
         start: 2019-11-13
       - title: Quiz
         start: 2019-11-20
@@ -52,29 +51,62 @@ calendar:
       - title: Assignment 3
         start: 2019-09-19
         end:   2019-09-26
-      # - title: Assignment 4
-      #   start: 2019-09-25
-      #   end:   2019-10-03
-      # - title: Assignment 5
-      #   start: 2019-10-02
-      #   end:   2019-10-10
-      # - title: Assignment 6
-      #   start: 2019-10-09
-      #   end:   2019-10-17
-      # - title: Assignment 7
-      #   start: 2019-08-29
-      #   end:   2019-09-05
-      # - title: Assignment 8
-      #   start: 2019-08-29
-      #   end:   2019-09-05
-      # - title: Assignment 9
-      #   start: 2019-08-29
-      #   end:   2019-09-05
-      # - title: Assignment 10
-      #   start: 2019-08-29
-      #   end:   2019-09-05
+      - title: Assignment 4
+        start: 2019-09-26
+        end:   2019-10-03
+      - title: Assignment 5
+        start: 2019-10-03
+        end:   2019-10-10
+      - title: Assignment 6
+        start: 2019-10-10
+        end:   2019-10-17
+      - title: Assignment 7
+        start: 2019-10-17
+        end:   2019-10-24
+      - title: Assignment 8
+        start: 2019-10-24
+        end:   2019-10-31
+      - title: Assignment 9
+        start: 2019-10-31
+        end:   2019-11-07
+      - title: Assignment 10
+        start: 2019-11-07
+        end:   2019-11-14
       color: "#33a02c"
     - events:
+      - title: Assignment 0
+        start: 2019-09-05
+        end:   2019-09-10
+      - title: Assignment 1
+        start: 2019-09-12
+        end:   2019-09-17
+      - title: Assignment 2
+        start: 2019-09-19
+        end:   2019-09-24
+      - title: Assignment 3
+        start: 2019-09-26
+        end:   2019-09-31
+      - title: Assignment 4
+        start: 2019-10-03
+        end:   2019-10-08
+      - title: Assignment 5
+        start: 2019-10-10
+        end:   2019-10-15
+      - title: Assignment 6
+        start: 2019-10-17
+        end:   2019-10-22
+      - title: Assignment 7
+        start: 2019-10-24
+        end:   2019-10-29
+      - title: Assignment 8
+        start: 2019-10-31
+        end:   2019-11-05
+      - title: Assignment 9
+        start: 2019-11-07
+        end:   2019-11-12
+      - title: Assignment 10
+        start: 2019-11-14
+        end:   2019-11-19
       color: "#e31a1c"
     - events:
       - title: Laboratory 0
@@ -148,6 +180,7 @@ calendar:
   validRange:
     start: 2019-08-29
     end: 2019-12-21
+  eventOrder: duration
 render:
   - selector: "#calendar-august"
     defaultDate: 2019-08-01
