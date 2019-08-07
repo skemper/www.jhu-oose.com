@@ -1,8 +1,75 @@
+---
+calendar:
+  eventSources:
+    - events:
+      - title: "hello"
+        start: 2019-09-07
+        end: 2019-09-09
+  plugins:
+    - dayGrid
+  fixedWeekCount: false
+  showNonCurrentDates: false
+  header: false
+  validRange:
+    start: 2019-08-29
+    end: 2019-12-21
+render:
+  - selector: "#calendar-august"
+    defaultDate: 2019-08-01
+  - selector: "#calendar-september"
+    defaultDate: 2019-09-01
+  - selector: "#calendar-october"
+    defaultDate: 2019-10-01
+  - selector: "#calendar-november"
+    defaultDate: 2019-11-01
+  - selector: "#calendar-december"
+    defaultDate: 2019-12-01
+---
+
 Calendar
 ========
-{:.no_toc}
 
 **🚧  Work in Progress  🚧**
+
+August
+------
+
+<div id="calendar-august"></div>
+
+September
+---------
+
+<div id="calendar-september"></div>
+
+October
+-------
+
+<div id="calendar-october"></div>
+
+November
+--------
+
+<div id="calendar-november"></div>
+
+December
+--------
+
+<div id="calendar-december"></div>
+
+<script src="fullcalendar-4.2.0/packages/core/main.min.js"></script>
+<script src="fullcalendar-4.2.0/packages/daygrid/main.min.js"></script>
+<link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
+<link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/daygrid/main.min.css">
+<script>
+{{ page.render | jsonify }}.forEach(({ selector, defaultDate }) => {
+  new FullCalendar.Calendar(document.querySelector(selector), {
+    ...{{ page.calendar | jsonify }},
+    defaultDate
+  }).render();
+});
+</script>
+
+* * *
 
 Lectures are held on Wednesdays and Laboratories are held on Mondays.
 
@@ -17,9 +84,6 @@ Hard Deadlines for Individual Assignments don’t coincide with the end of Group
 All Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to Individual Assignments and to Group Project Iterations.
 
 For administrative matters, for example, the last day to drop courses, refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf).
-
-* TOC
-{:toc}
 
 2019-08-29 · Thursday
 ---------------------
