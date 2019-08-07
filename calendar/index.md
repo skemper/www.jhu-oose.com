@@ -1,5 +1,4 @@
 ---
-# TODO: Inherit YAML
 # TODO: Full event name (tooltip with description) (tooltip.js / tippy)
 # TODO: Filters
 # TODO: Make bigger https://css-tricks.com/full-width-containers-limited-width-parents/ https://cloudfour.com/thinks/breaking-out-with-css-grid-layout/
@@ -7,7 +6,7 @@
 # TODO: Add footer
 # TODO: ICS?
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
-calendar:
+default: &default
   eventSources:
     - events:
       - title: Lecture 0
@@ -180,16 +179,21 @@ calendar:
     start: 2019-08-29
     end: 2019-12-21
   eventOrder: duration
-render:
+months:
   - selector: "#calendar-august"
+    <<: *default
     defaultDate: 2019-08-01
   - selector: "#calendar-september"
+    <<: *default
     defaultDate: 2019-09-01
   - selector: "#calendar-october"
+    <<: *default
     defaultDate: 2019-10-01
   - selector: "#calendar-november"
+    <<: *default
     defaultDate: 2019-11-01
   - selector: "#calendar-december"
+    <<: *default
     defaultDate: 2019-12-01
 ---
 
@@ -234,10 +238,7 @@ December
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/daygrid/main.min.css">
 <script>
-{{ page.render | jsonify }}.forEach(({ selector, ...overrides }) => {
-  new FullCalendar.Calendar(document.querySelector(selector), {
-    ...{{ page.calendar | jsonify }},
-    ...overrides
-  }).render();
+{{ page.months | jsonify }}.forEach(({ selector, ...options }) => {
+  new FullCalendar.Calendar(document.querySelector(selector), options).render();
 });
 </script>
