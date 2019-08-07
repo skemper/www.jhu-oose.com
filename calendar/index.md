@@ -172,13 +172,11 @@ fullCalendar:
   validRange:
     start: 2019-08-29
     end: 2019-12-21
-  aspectRatio: 0.9
+  aspectRatio: 0.8
 ---
 
 Calendar
 ========
-
-**🚧  Work in Progress  🚧**
 
 Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to individual assignments and to group project iterations.
 
