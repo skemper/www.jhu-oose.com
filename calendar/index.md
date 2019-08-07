@@ -6,7 +6,7 @@
 # TODO: Add footer
 # TODO: ICS?
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
-default: &default
+options:
   eventSources:
     - events:
       - title: Lecture 0
@@ -179,22 +179,6 @@ default: &default
     start: 2019-08-29
     end: 2019-12-21
   eventOrder: duration
-months:
-  - selector: "#calendar-august"
-    <<: *default
-    defaultDate: 2019-08-01
-  - selector: "#calendar-september"
-    <<: *default
-    defaultDate: 2019-09-01
-  - selector: "#calendar-october"
-    <<: *default
-    defaultDate: 2019-10-01
-  - selector: "#calendar-november"
-    <<: *default
-    defaultDate: 2019-11-01
-  - selector: "#calendar-december"
-    <<: *default
-    defaultDate: 2019-12-01
 ---
 
 Calendar
@@ -211,34 +195,37 @@ For administrative matters, for example, the last day to drop courses, refer to 
 August
 ------
 
-<div id="calendar-august"></div>
+<div data-calendar="2019-08-01"></div>
 
 September
 ---------
 
-<div id="calendar-september"></div>
+<div data-calendar="2019-09-01"></div>
 
 October
 -------
 
-<div id="calendar-october"></div>
+<div data-calendar="2019-10-01"></div>
 
 November
 --------
 
-<div id="calendar-november"></div>
+<div data-calendar="2019-11-01"></div>
 
 December
 --------
 
-<div id="calendar-december"></div>
+<div data-calendar="2019-12-01"></div>
 
 <script src="fullcalendar-4.2.0/packages/core/main.min.js"></script>
 <script src="fullcalendar-4.2.0/packages/daygrid/main.min.js"></script>
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/daygrid/main.min.css">
 <script>
-{{ page.months | jsonify }}.forEach(({ selector, ...options }) => {
-  new FullCalendar.Calendar(document.querySelector(selector), options).render();
+document.querySelectorAll("[data-calendar]").forEach(element => {
+  new FullCalendar.Calendar(element, {
+    ...{{ page.options | jsonify }},
+    defaultDate: element.dataset.calendar
+  }).render();
 });
 </script>
