@@ -209,8 +209,6 @@ December
 
 <div data-calendar="2019-12-01"></div>
 
- 
-
 <script src="fullcalendar-4.2.0/packages/core/main.min.js"></script>
 <script src="fullcalendar-4.2.0/packages/daygrid/main.min.js"></script>
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
@@ -223,3 +221,10 @@ document.querySelectorAll("[data-calendar]").forEach(element => {
   }).render();
 });
 </script>
+<style>
+  [data-calendar] {
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+</style>
