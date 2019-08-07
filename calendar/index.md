@@ -1,10 +1,4 @@
 ---
-# TODO: Make bigger https://css-tricks.com/full-width-containers-limited-width-parents/ https://cloudfour.com/thinks/breaking-out-with-css-grid-layout/
-# TODO: Height (scroll)
-# TODO: Full event name (tooltip with description) (tooltip.js / tippy)
-# TODO: Filters
-# TODO: Add footer
-# TODO: iCal?
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
 fullCalendar:
   eventSources:
@@ -108,36 +102,36 @@ fullCalendar:
       end:   2019-11-19
   - color: "#6a3d9a"
     events:
-    - title: Laboratory 0
+    - title: Lab 0
       start: 2019-09-09
-    - title: Laboratory 1
+    - title: Lab 1
       start: 2019-09-16
-    - title: Laboratory 2
+    - title: Lab 2
       start: 2019-09-23
-    - title: Laboratory 3
+    - title: Lab 3
       start: 2019-09-30
-    - title: Laboratory 4
+    - title: Lab 4
       start: 2019-10-07
-    - title: Laboratory 5
+    - title: Lab 5
       start: 2019-10-14
-    - title: Overview Presentations
+    - title: Presentations
       start: 2019-10-21
-    - title: Laboratory 6
+    - title: Lab 6
       start: 2019-10-28
-    - title: Laboratory 7
+    - title: Lab 7
       start: 2019-11-04
-    - title: Laboratory 8
+    - title: Lab 8
       start: 2019-11-11
-    - title: Laboratory 9
+    - title: Lab 9
       start: 2019-11-18
-    - title: Laboratory 10
+    - title: Lab 10
       start: 2019-12-02
-    - title: Laboratory 11
+    - title: Lab 11
       start: 2019-12-04
-    - title: Final Presentations
+    - title: Presentations
       start: 2019-12-16
       end:   2019-12-19
-  - color: "#cab2d6"
+  - color: "#b15928"
     events:
     - title: Iteration 0
       start: 2019-08-29
@@ -160,7 +154,7 @@ fullCalendar:
     - title: Iteration 6
       start: 2019-12-02
       end:   2019-12-19
-  - color: "#b15928"
+  - color: "#ff7f00"
     events:
     - title: Labor Day
       start: 2019-09-02
@@ -178,7 +172,7 @@ fullCalendar:
   validRange:
     start: 2019-08-29
     end: 2019-12-21
-  eventOrder: duration
+  aspectRatio: 0.9
 ---
 
 Calendar
@@ -217,6 +211,8 @@ December
 
 <div data-calendar="2019-12-01"></div>
 
+ 
+
 <script src="fullcalendar-4.2.0/packages/core/main.min.js"></script>
 <script src="fullcalendar-4.2.0/packages/daygrid/main.min.js"></script>
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
@@ -229,9 +225,3 @@ document.querySelectorAll("[data-calendar]").forEach(element => {
   }).render();
 });
 </script>
-
-<style>
-  .fc {
-    
-  }
-</style>
