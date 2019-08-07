@@ -1,9 +1,12 @@
 ---
 # TODO: Assignments
-# TODO: Height
+# TODO: Height (scroll)
 # TODO: Full event name (tooltip with description) (tooltip.js / tippy)
 # TODO: border-radius
 # TODO: Filters
+# TODO: Make bigger
+# TODO: Add footer
+# TODO: ICS?
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
 calendar:
   eventSources:
