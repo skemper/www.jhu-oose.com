@@ -1,12 +1,11 @@
 ---
-# TODO: Height (scroll)
+# TODO: Inherit YAML
 # TODO: Full event name (tooltip with description) (tooltip.js / tippy)
-# TODO: border-radius
 # TODO: Filters
-# TODO: Make bigger
+# TODO: Make bigger https://css-tricks.com/full-width-containers-limited-width-parents/ https://cloudfour.com/thinks/breaking-out-with-css-grid-layout/
+# TODO: Height (scroll)
 # TODO: Add footer
 # TODO: ICS?
-# TODO: Inherit YAML
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
 calendar:
   eventSources:
