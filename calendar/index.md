@@ -6,7 +6,7 @@
 # TODO: Add footer
 # TODO: iCal?
 # http://colorbrewer2.org/#type=qualitative&scheme=Paired&n=12
-options:
+fullCalendar:
   eventSources:
   - color: "#1f78b4"
     events:
@@ -224,7 +224,7 @@ December
 <script>
 document.querySelectorAll("[data-calendar]").forEach(element => {
   new FullCalendar.Calendar(element, {
-    ...{{ page.options | jsonify }},
+    ...{{ page.fullCalendar | jsonify }},
     defaultDate: element.dataset.calendar
   }).render();
 });
