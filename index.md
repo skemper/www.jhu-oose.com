@@ -12,5 +12,5 @@ Mondays & Wednesdays 13:30–14:45
 - [Staff](/staff)
 - [Toolbox](/toolbox)
 - [GitHub](https://github.com/jhu-oose)
-- [TODOOSE: Building a Web Application from Scratch](/todoose)
+- [TODOOSE: Building an Application from Scratch](/todoose)
 - [Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)

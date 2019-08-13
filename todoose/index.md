@@ -1,5 +1,5 @@
-TODOOSE: Building a Web Application from Scratch
-================================================
+TODOOSE: Building an Application from Scratch
+=============================================
 
 **🚧  Work in Progress  🚧**
 
