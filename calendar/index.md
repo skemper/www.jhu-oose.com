@@ -102,31 +102,31 @@ fullCalendar:
           end: 2019-11-19
     - color: "#6a3d9a"
       events:
-        - title: Lab 0
-          start: 2019-09-09
         - title: Lab 1
-          start: 2019-09-16
+          start: 2019-09-09
         - title: Lab 2
-          start: 2019-09-23
+          start: 2019-09-16
         - title: Lab 3
-          start: 2019-09-30
+          start: 2019-09-23
         - title: Lab 4
-          start: 2019-10-07
+          start: 2019-09-30
         - title: Lab 5
+          start: 2019-10-07
+        - title: Lab 6
           start: 2019-10-14
         - title: Presentations
           start: 2019-10-21
-        - title: Lab 6
-          start: 2019-10-28
-        - title: Lab 7
-          start: 2019-11-04
         - title: Lab 8
-          start: 2019-11-11
+          start: 2019-10-28
         - title: Lab 9
-          start: 2019-11-18
+          start: 2019-11-04
         - title: Lab 10
-          start: 2019-12-02
+          start: 2019-11-11
         - title: Lab 11
+          start: 2019-11-18
+        - title: Lab 12
+          start: 2019-12-02
+        - title: Lab 13
           start: 2019-12-04
         - title: Presentations
           start: 2019-12-16
