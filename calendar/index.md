@@ -180,9 +180,9 @@ Calendar
 
 Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to individual assignments and to group project iterations.
 
-We recommend that you submit individual assignments by the soft deadline (in green) to avoid overlaps with the subsequent assignment, but you may submit until the hard deadline (in red) without consequences. We don’t accept submissions after the hard deadline because by then we already started grading and publishing answers.
+Individual assignments have a soft deadline (in green) and a hard deadline (in red). You should submit by the soft deadline, but you may submit until the hard deadline using *late days*. You may use up to ten late days throughout the course. For example, assignment 0 should be submitted by 2019-09-04 13:15, but you may submit until 2019-09-09 13:15 using late days. If you submit on 2019-09-05 14:00, you’ll have used two late days, leaving eight for the rest of the course. We don’t accept submissions after the hard deadline or if you have already used all ten late days.
 
-For administrative matters, for example, the last day to drop courses, refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf).
+For administrative matters, for example, for the last day to drop courses, refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf).
 
 August
 ------
