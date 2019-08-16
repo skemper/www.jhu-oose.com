@@ -9,13 +9,25 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/versio
 Academic Integrity
 ------------------
 
-We follow the [Academic Integrity Code by the Department of
-Computer Science at the Johns Hopkins University](https://www.cs.jhu.edu/academic-integrity-code/).
+We follow the [Academic Integrity Code by the Department of Computer Science at the Johns Hopkins University](https://www.cs.jhu.edu/academic-integrity-code/).
 
-Grade Distribution
-------------------
+Grades
+------
 
-<!-- TODO: -->
+| | % of Final Grade |
+|--:|:-:|
+| Individual Assignments | 25 |
+| Group Project Iterations | 25 |
+| Quiz | 15 |
+| Presentation | 35 |
+
+Individual assignments are weighted equally. For example, if there are 11 assignments throughout the semester, then each assignment contributes to `25% ÷ 11 = 2.27%` of the final grade. 
+
+Group project iterations are also weighted equally.
+
+The **Presentation** in the table above refers to the final presentation at the end of the semester, in which we evaluate not only the presentation itself but the project as a whole. The presentation in the middle of the semester is graded as part of the iteration in which it occurs.
+
+Generally, group project iteration grades are the same for all group members, but we may adjust grades for some members with outstanding contributions or outstanding bad behavior.
 
 Late Days
 ---------
