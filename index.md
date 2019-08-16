@@ -1,6 +1,6 @@
 **🚧  Work in Progress  🚧**
 
-A course offered at the [Johns Hopkins University](https://www.jhu.edu).
+A course at the [Johns Hopkins University](https://www.jhu.edu).
 
 EN.601.421 (Undergraduate Students) · EN.601.621 (Graduate Students)  
 [Homewood Campus · Mergenthaler Hall · Room 111](https://www.jhu.edu/maps-directions/campus-map/)  
