@@ -17,9 +17,11 @@ Leandro Facchinetti
 
 **Office Hours:** <!-- TODO: -->
 
-**Expertise Beyond Toolbox:** Ruby on Rails, system administration, and programming-language theory.
+**Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming-language theory.
 
 **Homepage:** <https://www.leafac.com>
+
+**Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
 Head Course Assistant (Head CA)
 ===============================
@@ -39,7 +41,29 @@ Yash Kumar Lal
 
 **Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
+**Personal Pronoun:** <!-- TODO: -->
+
 Course Assistants (CAs)
 =======================
 
 <!-- TODO: -->
+
+Robot
+=====
+
+Roboose
+-------
+
+<figure markdown="1">
+![Roboose](roboose.png){:width="300"}
+</figure>
+
+**Contact:** <roboose@jhu-oose.com>
+
+**Office Hours:** I’m always on.
+
+**Expertise Beyond Toolbox:** Being a [GitHub Probot](https://probot.github.io).
+
+**Homepage:** <https://github.com/jhu-oose/roboose>
+
+**Personal Pronoun:** [They/them](https://www.mypronouns.org/they-them)
