@@ -36,8 +36,8 @@ While you’re restricted to the tools in the Toolbox for the programming assign
 
 **Profit.** If you and your teammates already have a clear idea of the career path you want to take, you may benefit from having more experience with certain tools that aren’t in the Toolbox. This course is a great opportunity to build a real-world project using these tools to show to a potential employer in the future.
 
-Reasons to Stick with the Tools in the Toolbox
-----------------------------------------------
+Reasons to Stick to the Tools in the Toolbox
+--------------------------------------------
 {:.no_toc}
 
 **Familiarity**. You and your teammates already know the tools in the Toolbox from the programming assignments.
@@ -60,7 +60,7 @@ Criteria for Curating the Tools
 
 **Integration.** The tools must work well together.
 
-**Industry Standard.** The tools must not be only pedagogical toys, but actually be used in industry.
+**Industry Standard.** The tools must not be only pedagogical toys, but actually be used in industry. For insight on this, refer to surveys like [JetBrains’s State of Developer Ecosystem](https://www.jetbrains.com/lp/devecosystem-2019/) and [Stack Overflow’s Developer Survey](https://insights.stackoverflow.com/survey/), and to other metrics such as the number of stars on GitHub, the number of downloads on the package manager, the number of answered questions on [Stack Overflow](https://stackoverflow.com), and so forth.
 
 Tools in the Toolbox
 --------------------
