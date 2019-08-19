@@ -32,7 +32,7 @@ While you’re restricted to the tools in the Toolbox for the programming assign
 
 **The Project Needs it.** This is probably the best reason. Say your project is about music, for example, then you probably need a library for processing sound, which you won’t find in the Toolbox. Also, you may decide to build something other than a [web application](#architecture-web-application), like a mobile application for iOS or Android, in which case you need something like React Native or Swift.
 
-**Fun.** If you and your teammates are more experienced, it may be fun to reach for new and unusual tools. This is fine and good, as long as you’re willing to [pay the price](#reasons-to-stick-with-the-tools-in-the-toolbox).
+**Fun.** If you and your teammates are more experienced, it may be fun to reach for new and unusual tools. This is fine and good, as long as you’re willing to [pay the price](#reasons-to-stick-to-the-tools-in-the-toolbox).
 
 **Profit.** If you and your teammates already have a clear idea of the career path you want to take, you may benefit from having more experience with certain tools that aren’t in the Toolbox. This course is a great opportunity to build a real-world project using these tools to show to a potential employer in the future.
 
