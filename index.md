@@ -16,5 +16,5 @@ Mondays & Wednesdays 13:30–14:45
 - [Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)
 - [Policies](/policies)
 - [Prior Art](/prior-art)
-- [Students Area](https://github.com/jhu-oose/2019-students) **🔒**{:title="You must a student logged into GitHub to see this."}
-- [Staff Area](https://github.com/jhu-oose/2019-staff) **🔒**{:title="You must be a staff member logged into GitHub to see this."}
+- [Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} **🔒**{:title="You must a student logged into GitHub to see this."}
+- [Staff Area](https://github.com/jhu-oose/2019-staff){:data-proofer-ignore="true"} **🔒**{:title="You must be a staff member logged into GitHub to see this."}
