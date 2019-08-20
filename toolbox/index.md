@@ -1,32 +1,36 @@
-Toolbox
-=======
+<!-- prettier-ignore-start -->
+# Toolbox
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
 <figure markdown="1">
 ![Toolbox](toolbox.png){:width="386"}
 </figure>
 
-The Toolbox is a collection of tools curated by the course staff for programming assignments and group projects.
+The Toolbox is a collection of tools curated by the course staff for the programming assignments and group projects.
 
-How to Read
------------
+<!-- prettier-ignore-start -->
+## How to Read
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
-**First Read.** Read the rest of this introduction and go through the list of tools following the instructions on the sections named **Where Do I Get It?**. *If you have installed one of these tools in the past, you must update it.*
+**First Read.** Read the rest of this introduction and go through the list of tools following the instructions on the sections named **Where Do I Get It?**. _If you have installed one of these tools in the past, you must update it._
 
 **Second Read.** Read the sections named **What Is It?** and **Why Did We Choose It?**.
 
-**Third Read.** Refer to [TODOOSE](/todoose) for an example of the tools in action and follow the instructions in the sections named **How Do I Learn It?**. Don’t try to learn everything at once—it’s *a lot* of material.
+**Third Read.** Refer to [TODOOSE](/todoose) for an example of the tools in action and follow the instructions in the sections named **How Do I Learn It?**. Don’t try to learn everything at once—it’s _a lot_ of material.
 
-Architecture: Web Application
------------------------------
+<!-- prettier-ignore-start -->
+## Architecture: Web Application
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
-The tools in the Toolbox form the foundation of a web application. This architecture is the most common for modern applications, and it illustrates good software-engineering principles, for example, separation of concerns, segregation of interfaces, and so forth. The two main components of a web application are the *server* and the *client* (which typically is a web browser). The tools in the Toolbox cover the whole stack, from end to end, including server and client.
+The tools in the Toolbox form the foundation of a web application. This architecture is the most common for modern applications, and it illustrates good software-engineering principles, for example, separation of concerns, segregation of interfaces, and so forth. The two main components of a web application are the _server_ and the _client_ (which typically is a web browser). The tools in the Toolbox cover the whole stack, from end to end, including server and client.
 
-Reasons to Reach for Tools that aren’t in the Toolbox
------------------------------------------------------
+<!-- prettier-ignore-start -->
+## Reasons to Reach for Tools that aren’t in the Toolbox
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
 While you’re restricted to the tools in the Toolbox for the programming assignments, on your group project you’re free to reach for other tools. Here’s why you may want to do that:
 
@@ -36,9 +40,10 @@ While you’re restricted to the tools in the Toolbox for the programming assign
 
 **Profit.** If you and your teammates already have a clear idea of the career path you want to take, you may benefit from having more experience with certain tools that aren’t in the Toolbox. This course is a great opportunity to build a real-world project using these tools to show to a potential employer in the future.
 
-Reasons to Stick to the Tools in the Toolbox
---------------------------------------------
+<!-- prettier-ignore-start -->
+## Reasons to Stick to the Tools in the Toolbox
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
 **Familiarity**. You and your teammates already know the tools in the Toolbox from the programming assignments.
 
@@ -48,9 +53,10 @@ Reasons to Stick to the Tools in the Toolbox
 
 **No Extra Points.** We evaluate projects based on their technical merits rather than on what tools they use.
 
-Criteria for Curating the Tools
--------------------------------
+<!-- prettier-ignore-start -->
+## Criteria for Curating the Tools
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
 **Minimalism.** The fewer tools, the better.
 
@@ -62,18 +68,18 @@ Criteria for Curating the Tools
 
 **Industry Standard.** The tools must not be only pedagogical toys, but actually be used in industry. For insight on this, refer to surveys like [JetBrains’s State of Developer Ecosystem](https://www.jetbrains.com/lp/devecosystem-2019/) and [Stack Overflow’s Developer Survey](https://insights.stackoverflow.com/survey/), and to other metrics such as the number of stars on GitHub, the number of downloads on the package manager, the number of answered questions on [Stack Overflow](https://stackoverflow.com), and so forth.
 
-Tools in the Toolbox
---------------------
+<!-- prettier-ignore-start -->
+## Tools in the Toolbox
 {:.no_toc}
+<!-- prettier-ignore-end -->
 
-* TOC
+<!-- prettier-ignore -->
+- TOC
 {:toc}
 
-Development Tools
-=================
+# Development Tools
 
-Integrated Development Environment (IDE): IntelliJ IDEA
--------------------------------------------------------
+## Integrated Development Environment (IDE): IntelliJ IDEA
 
 <figure markdown="1">
 ![IntelliJ IDEA](intellij-idea.png){:width="344"}
@@ -81,20 +87,19 @@ Integrated Development Environment (IDE): IntelliJ IDEA
 
 **What Is It?** An IDE allows you to edit source code, invoke the compiler, interact with the debugger, and so forth.
 
-**Why Did We Choose It?** IntelliJ IDEA is the modern industry standard for [Java](#programming-language-java), after it [*eclipsed*](https://www.eclipse.org) the competition. It makes it easier to use the other tools in the Toolbox, including [Git](#version-control-systemvcs-git), [JavaScript](#programming-language-javascript), [Markdown](#authoring-language-markdown), and [SQLite](#database-management-systemdbms-sqlite). Also, it’s the foundation of Android Studio.
+**Why Did We Choose It?** IntelliJ IDEA is the modern industry standard for [Java](#programming-language-java), after it [_eclipsed_](https://www.eclipse.org) the competition. It makes it easier to use the other tools in the Toolbox, including [Git](#version-control-systemvcs-git), [JavaScript](#programming-language-javascript), [Markdown](#authoring-language-markdown), and [SQLite](#database-management-systemdbms-sqlite). Also, it’s the foundation of Android Studio.
 
-**Where Do I Get It?** [Follow these instructions](https://www.jetbrains.com/idea/download/). Install the *Ultimate* edition, not the *Community* one. The Ultimate edition a commercial product, so [apply for a student license](https://www.jetbrains.com/student/). The Ultimate edition includes features that the Community doesn’t and that are useful in the course, for example, support for [JavaScript](#programming-language-javascript) and [database tools](#database-management-systemdbms-sqlite).
+**Where Do I Get It?** [Follow these instructions](https://www.jetbrains.com/idea/download/). Install the _Ultimate_ edition, not the _Community_ one. The Ultimate edition a commercial product, so [apply for a student license](https://www.jetbrains.com/student/). The Ultimate edition includes features that the Community doesn’t and that are useful in the course, for example, support for [JavaScript](#programming-language-javascript) and [database tools](#database-management-systemdbms-sqlite).
 
 **How Do I Learn It?** First, fiddle with it for a couple of hours. If after that you still want some help, refer to the [documentation](https://www.jetbrains.com/idea/documentation/).
 
-Application Programming Interface (API) Development Environment (ADE): Postman
-------------------------------------------------------------------------------
+## Application Programming Interface (API) Development Environment (ADE): Postman
 
 <figure markdown="1">
 ![Postman](postman.png){:width="348"}
 </figure>
 
-**What Is It?** An API establishes *what* functionalities the server provides to the client and *how* it provides them. Once the API is designed, different people may work on the server and on the client independently, maybe even in parallel, and as long as both sides follow the API, the application will work in the end. An ADE helps you design the API, document it, test it, interact with it, and so forth.
+**What Is It?** An API establishes _what_ functionalities the server provides to the client and _how_ it provides them. Once the API is designed, different people may work on the server and on the client independently, maybe even in parallel, and as long as both sides follow the API, the application will work in the end. An ADE helps you design the API, document it, test it, interact with it, and so forth.
 
 **Why Did We Choose It?** Postman invented the idea of an ADE; it is the industry standard in this area and stands with little competition.
 
@@ -102,8 +107,7 @@ Application Programming Interface (API) Development Environment (ADE): Postman
 
 **How Do I Learn It?** First, fiddle with it for a couple of hours. After doing that, [visit the Postman Learning Center](https://learning.getpostman.com). In particular, read the sections about testing, which include the [Postman Sandbox](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox) and its [API Reference](https://learning.getpostman.com/docs/postman/scripts/postman_sandbox_api_reference/) (this is the reference for Postman Sandbox’s API for testing, not to be confused with the application API which is the thing you design in Postman). Postman tests are written in [JavaScript](#programming-language-javascript) using the [Chai](https://www.chaijs.com/api/bdd/) library for expectations. To run Postman tests in the [CI Server](#continuous-integrationci-server-travisci), invoke them from the command line with [Newman](https://learning.getpostman.com/docs/postman/collection_runs/command_line_integration_with_newman/).
 
-Browser: Google Chrome
-----------------------
+## Browser: Google Chrome
 
 <figure markdown="1">
 ![Google Chrome](google-chrome.png){:width="350"}
@@ -117,8 +121,7 @@ Browser: Google Chrome
 
 **How Do I Learn It?** Of course you already know how to use a web browser, but you must also learn how to use the [developer tools](https://developers.google.com/web/tools/chrome-devtools/), which include an [HTML/CSS](#user-interface-hypertext-markup-languagehtml--cascading-style-sheetscss)/[JavaScript](#programming-language-javascript) inspector, a network inspector, a JavaScript console, a JavaScript debugger, and much more.
 
-Version Control System (VCS): Git
----------------------------------
+## Version Control System (VCS): Git
 
 <figure markdown="1">
 ![Git](git.png){:width="356"}
@@ -136,10 +139,9 @@ Version Control System (VCS): Git
 
 3. [Create an SSH key if you don’t have one already](https://help.github.com/en/articles/connecting-to-github-with-ssh).
 
-**How Do I Learn It?** Use Git from within the [IDE](#integrated-development-environmentide-intellijidea). For more advanced topics, or to learn about using Git from the command line, refer to [*Pro Git*](https://git-scm.com/book).
+**How Do I Learn It?** Use Git from within the [IDE](#integrated-development-environmentide-intellijidea). For more advanced topics, or to learn about using Git from the command line, refer to [_Pro Git_](https://git-scm.com/book).
 
-Project Management: GitHub
---------------------------
+## Project Management: GitHub
 
 <figure markdown="1">
 ![GitHub](github.png){:width="264"}
@@ -153,26 +155,23 @@ Project Management: GitHub
 
 **How Do I Learn It?** Go through the exercises in the [GitHub Learning Lab](https://lab.github.com) and the [GitHub Guides](https://guides.github.com).
 
-Wireframing & Diagramming: Paper & Pencil
------------------------------------------
+## Wireframing & Diagramming: Paper & Pencil
 
 <figure markdown="1">
 ![Paper & Pencil](paper-and-pencil.png){:width="283"}
 </figure>
 
-**What Is It?** A wireframe is a rough sketch of the user interface. A diagram is a visual representation of the application’s *technical* design (not to be confused with its *graphic* design), for example, its classes and how they communicate.
+**What Is It?** A wireframe is a rough sketch of the user interface. A diagram is a visual representation of the application’s _technical_ design (not to be confused with its _graphic_ design), for example, its classes and how they communicate.
 
 **Why Did We Choose It?** Paper & Pencil helps to keep things simple. Wireframes should not be concerned with font choices, colors, and so forth. Diagrams should not include too many classes, attributes, methods, and so forth, particularly those that can be inferred from context, for example, getters and setters.
 
 **Where Do I Get It?** I trust you can figure this one out by yourself.
 
-**How Do I Learn It?** There is no set of rules on how to wireframe, but there is [a common language that people tend to use](https://www.usability.gov/how-to-and-tools/methods/wireframing.html). The kinds of diagrams in which we’re interested in this course, however, *do* follow a set of rules, the so-called Unified Modeling Language (UML). UML defines how certain elements, for example, classes and inheritance, should look on the page. UML defines many kinds of diagrams, but in this course we’re mainly interested in one: [class diagrams](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html).
+**How Do I Learn It?** There is no set of rules on how to wireframe, but there is [a common language that people tend to use](https://www.usability.gov/how-to-and-tools/methods/wireframing.html). The kinds of diagrams in which we’re interested in this course, however, _do_ follow a set of rules, the so-called Unified Modeling Language (UML). UML defines how certain elements, for example, classes and inheritance, should look on the page. UML defines many kinds of diagrams, but in this course we’re mainly interested in one: [class diagrams](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/sep04/bell/index.html).
 
-Server
-======
+# Server
 
-Programming Language: Java
---------------------------
+## Programming Language: Java
 
 <figure markdown="1">
 ![Java](java.png){:width="205"}
@@ -186,8 +185,7 @@ Programming Language: Java
 
 **How Do I Learn It?** Refer to an introductory Java book, for example, [Core Java](https://horstmann.com/corejava/index.html), if you want to brush up on the basics: syntax, classes, objects, inheritance, interfaces, exceptions, generics, polymorphism, method overloading and overriding, invoking the compiler, and so forth. Beyond the basics, learn about [lambdas](https://medium.freecodecamp.org/learn-these-4-things-and-working-with-lambda-expressions-b0ab36e0fffc) and [local type inference](https://www.journaldev.com/19871/java-10-local-variable-type-inference).
 
-Build System: Gradle
---------------------
+## Build System: Gradle
 
 <figure markdown="1">
 ![Gradle](gradle.png){:width="491"}
@@ -201,8 +199,7 @@ Build System: Gradle
 
 **How Do I Learn It?** Find packages to install at the [The Central Repository](https://search.maven.org): look for the package name to find its latest version, and follow the instructions for Gradle. Use the [IDE](#integrated-development-environmentide-intellijidea) to run the basic tasks, for example, compiling, and running the [automated tests](#testing-framework-junit). Use `gradlew` (or `gradlew.bat` if you’re on Windows) to run Gradle tasks from the command line. If you need to dive deeper, refer to the [Gradle Documentation](https://docs.gradle.org/).
 
-Web Server: Javalin
--------------------
+## Web Server: Javalin
 
 <figure markdown="1">
 ![Javalin](javalin.png){:width="434"}
@@ -216,8 +213,7 @@ Web Server: Javalin
 
 **How Do I Learn It?** [Read the documentation](https://javalin.io/documentation).
 
-JSON Mapper: Jackson
---------------------
+## JSON Mapper: Jackson
 
 <figure markdown="1">
 ![Jackson](jackson.png){:width="600"}
@@ -227,12 +223,11 @@ JSON Mapper: Jackson
 
 **Why Did We Choose It?** Jackson is the default JSON mapper for [Javalin](#web-server-javalin).
 
-**Where Do I Get It?** Add `com.fasterxml.jackson.core:jackson-databind`  as a dependency—the [build system](#build-system-gradle) takes care of the rest.
+**Where Do I Get It?** Add `com.fasterxml.jackson.core:jackson-databind` as a dependency—the [build system](#build-system-gradle) takes care of the rest.
 
 **How Do I Learn It?** Read the [documentation](https://github.com/FasterXML/jackson-databind) and the [wiki](https://github.com/FasterXML/jackson-databind/wiki).
 
-Testing Framework: JUnit
-------------------------
+## Testing Framework: JUnit
 
 <figure markdown="1">
 ![JUnit](junit.png){:width="355"}
@@ -246,14 +241,13 @@ Testing Framework: JUnit
 
 **How Do I Learn It?** [Read the User Guide](https://junit.org/junit5/docs/current/user-guide/).
 
-Database Management System (DBMS): SQLite
------------------------------------------
+## Database Management System (DBMS): SQLite
 
 <figure markdown="1">
 ![SQLite](sqlite.png){:width="600"}
 </figure>
 
-**What Is It?** When we turn the server off, it *forgets* all the Java objects that existed in memory. If the application data was stored in those objects only, it would be lost. A DBMS persists the application data across server runs. Also, a database preserves data integrity and consistency, for example, it may enforce the constraint that all users in your application must have a phone number.
+**What Is It?** When we turn the server off, it _forgets_ all the Java objects that existed in memory. If the application data was stored in those objects only, it would be lost. A DBMS persists the application data across server runs. Also, a database preserves data integrity and consistency, for example, it may enforce the constraint that all users in your application must have a phone number.
 
 **Why Did We Choose It?** Typically a web application would use a DBMS with a client–server architecture (this is a client–server architecture with respect to the DBMS, in which the DBMS is the server and the application server is actually the client). The most popular DBMS with a client–server architecture is [PostgreSQL](https://www.postgresql.org). A client–server architecture scales better, particularly when multiple server components need to communicate with a central DBMS. But in this course we prefer SQLite precisely because it is serverless: the database is just stored in a regular file, which makes SQLite easier to install and manage. But there are some issues with [deploying SQLite to Heroku](#platform-heroku), and if you want to avoid them, you have to switch to PostgreSQL.
 
@@ -261,11 +255,9 @@ Database Management System (DBMS): SQLite
 
 **How Do I Learn It?** Manage SQLite with the database tools in the [IDE](#integrated-development-environmentide-intellijidea). In your application, the server communicates with SQLite using a language called Structured Query Language (SQL). If you’re new to SQL, start with this [course](https://www.codecademy.com/learn/learn-sql). Once you understand SQL, you must learn some things particular to SQLite, which you may find in [the documentation](https://www.sqlite.org/docs.html). In particular, learn about [SQLite’s data types and its dynamic type system](https://www.sqlite.org/datatype3.html), and [the particularities of SQLite’s SQL dialect](https://www.sqlite.org/lang.html).
 
-Client
-======
+# Client
 
-Programming Language: JavaScript
---------------------------------
+## Programming Language: JavaScript
 
 <figure markdown="1">
 ![JavaScript](javascript.png){:width="381"}
@@ -277,16 +269,15 @@ Programming Language: JavaScript
 
 **Where Do I Get It?** It comes with [the browser](#browser-googlechrome).
 
-**How Do I Learn It?** To begin with, read the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) and [this tutorial](https://javascript.info). These should give you a fair notion of the basics of JavaScript, but the language is evolving fast and in this course we use the latest features, so read [this tutorial](https://babeljs.io/docs/en/learn.html) on what changed recently. Finally, keep up with the updates by searching the web for articles on ECMAScript 5, ECMAScript 6 (2015), ECMAScript 7 (2016),  ECMAScript 8 (2017), and so forth. ECMAScript is the standard on which JavaScript is based. (Isn’t it fun that ECMAScript is updated every year but the version numbers *don’t* match the release year, for example, ECMAScript **8** was released in 201**7**?)
+**How Do I Learn It?** To begin with, read the [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) and [this tutorial](https://javascript.info). These should give you a fair notion of the basics of JavaScript, but the language is evolving fast and in this course we use the latest features, so read [this tutorial](https://babeljs.io/docs/en/learn.html) on what changed recently. Finally, keep up with the updates by searching the web for articles on ECMAScript 5, ECMAScript 6 (2015), ECMAScript 7 (2016), ECMAScript 8 (2017), and so forth. ECMAScript is the standard on which JavaScript is based. (Isn’t it fun that ECMAScript is updated every year but the version numbers _don’t_ match the release year, for example, ECMAScript **8** was released in 201**7**?)
 
-User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS)
--------------------------------------------------------------------------------
+## User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS)
 
 <figure markdown="1">
 ![HTML & CSS](html-and-css.png){:width="510"}
 </figure>
 
-**What Is It?** HTML is the language in which to define the *contents* of the user interface. CSS is the language in which to define the *looks* of the user interface.
+**What Is It?** HTML is the language in which to define the _contents_ of the user interface. CSS is the language in which to define the _looks_ of the user interface.
 
 **Why Did We Choose It?** HTML and CSS are the native languages for user interfaces in the browser.
 
@@ -294,8 +285,7 @@ User Interface: Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS
 
 **How Do I Learn It?** Read the MDN Web Docs on [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS).
 
-User-Interface Builder: React
------------------------------
+## User-Interface Builder: React
 
 <figure markdown="1">
 ![React](react.png){:width="305"}
@@ -309,11 +299,9 @@ User-Interface Builder: React
 
 **How Do I Learn It?** Go through [the tutorial](https://reactjs.org/tutorial/tutorial.html) and read [the documentation](https://reactjs.org/docs/getting-started.html), including the sections on [JSX](https://reactjs.org/docs/introducing-jsx.html).
 
-Client–Server Communication
-===========================
+# Client–Server Communication
 
-Data-Interchange Format: JavaScript Object Notation (JSON)
-----------------------------------------------------------
+## Data-Interchange Format: JavaScript Object Notation (JSON)
 
 <figure markdown="1">
 ![JSON](json.png){:width="400"}
@@ -323,15 +311,13 @@ Data-Interchange Format: JavaScript Object Notation (JSON)
 
 **Why Did We Choose It?** JSON is an industry standard. It is simpler and more lightweight than the other popular alternatives, for example, XML.
 
-**Where Do I Get It?** You don’t *install* JSON the same way you install, say, Java, because JSON is just a convention on how to format data. But while it may be possible to map back and forth between data structures in a programming language and JSON just by manipulating strings, you must use tools to streamline these tedious and error-prone tasks. On the server side, use a [Java library](#json-mapper-jackson); on the client side, use JavaScript, which already supports JSON natively (unsurprisingly, if you recall what JSON stands for).
+**Where Do I Get It?** You don’t _install_ JSON the same way you install, say, Java, because JSON is just a convention on how to format data. But while it may be possible to map back and forth between data structures in a programming language and JSON just by manipulating strings, you must use tools to streamline these tedious and error-prone tasks. On the server side, use a [Java library](#json-mapper-jackson); on the client side, use JavaScript, which already supports JSON natively (unsurprisingly, if you recall what JSON stands for).
 
 **How Do I Learn It?** [Follow this tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON).
 
-Deployment
-==========
+# Deployment
 
-Platform: Heroku
-----------------
+## Platform: Heroku
 
 <figure markdown="1">
 ![Heroku](heroku.png){:width="494"}
@@ -339,14 +325,13 @@ Platform: Heroku
 
 **What Is It?** A platform to run the server and make it available to anyone on the Internet.
 
-**Why Did We Choose It?** Heroku is among the simplest platforms for deployment, because it favors *convention over configuration*. It provides many important features so seamlessly that you won’t even notice that they’re there, for example, Continuous Delivery (CD), a domain, HTTPS support, and so forth.
+**Why Did We Choose It?** Heroku is among the simplest platforms for deployment, because it favors _convention over configuration_. It provides many important features so seamlessly that you won’t even notice that they’re there, for example, Continuous Delivery (CD), a domain, HTTPS support, and so forth.
 
 **Where Do I Get It?** [Create an account](https://www.heroku.com).
 
-**How Do I Learn It?** [Read the documentation](https://devcenter.heroku.com). In particular, read the instructions for [Deploying Gradle Apps on Heroku](https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku) and the [Application plugin for Gradle](https://docs.gradle.org/current/userguide/application_plugin.html). Also, note that there’s an issue with [SQLite](#database-management-systemdbms-sqlite) on Heroku: any time Heroku restarts your application, it does so in a fresh file system (a so-called *ephemeral* file system), wiping your SQLite database in the process. And Heroku restarts your application frequently: on every deployment and every time your application becomes idle for longer than 30 minutes. To work around this, seed your database with data on server startup, or switch to [PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql).
+**How Do I Learn It?** [Read the documentation](https://devcenter.heroku.com). In particular, read the instructions for [Deploying Gradle Apps on Heroku](https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku) and the [Application plugin for Gradle](https://docs.gradle.org/current/userguide/application_plugin.html). Also, note that there’s an issue with [SQLite](#database-management-systemdbms-sqlite) on Heroku: any time Heroku restarts your application, it does so in a fresh file system (a so-called _ephemeral_ file system), wiping your SQLite database in the process. And Heroku restarts your application frequently: on every deployment and every time your application becomes idle for longer than 30 minutes. To work around this, seed your database with data on server startup, or switch to [PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql).
 
-Continuous Integration (CI) Server: Travis CI
----------------------------------------------
+## Continuous Integration (CI) Server: Travis CI
 
 <figure markdown="1">
 ![Travis CI](travis-ci.png){:width="600"}
@@ -360,11 +345,9 @@ Continuous Integration (CI) Server: Travis CI
 
 **How Do I Learn It?** [Read the documentation](https://docs.travis-ci.com). Configure Travis CI to run not only the [JUnit tests](#testing-framework-junit), but also the [Postman tests](#application-programming-interfaceapi-development-environmentade-postman).
 
-Documentation
-=============
+# Documentation
 
-Authoring Language: Markdown
-----------------------------
+## Authoring Language: Markdown
 
 <figure markdown="1">
 ![Markdown](markdown.png){:width="388"}
@@ -376,4 +359,4 @@ Authoring Language: Markdown
 
 **Where Do I Get It?** The [IDE](#integrated-development-environmentide-intellijidea) already supports Markdown and provides a nice preview window of the rendered document.
 
-**How Do I Learn It?** Markdown isn’t exactly a language, but a *family* of languages. There are *many* implementations of Markdown, and while they tend to implement the core features the same way, each provides different extended features. For this course, we use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**How Do I Learn It?** Markdown isn’t exactly a language, but a _family_ of languages. There are _many_ implementations of Markdown, and while they tend to implement the core features the same way, each provides different extended features. For this course, we use [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

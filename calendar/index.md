@@ -175,8 +175,7 @@ fullCalendar:
   aspectRatio: 0.8
 ---
 
-Calendar
-========
+# Calendar
 
 Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to individual assignments and to group project iterations.
 
@@ -184,28 +183,23 @@ See the [policy on late days](/policies#late-days).
 
 For administrative matters, for example, for the last day to drop courses, refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf).
 
-August
-------
+# August
 
 <div data-calendar="2019-08-01"></div>
 
-September
----------
+# September
 
 <div data-calendar="2019-09-01"></div>
 
-October
--------
+# October
 
 <div data-calendar="2019-10-01"></div>
 
-November
---------
+# November
 
 <div data-calendar="2019-11-01"></div>
 
-December
---------
+# December
 
 <div data-calendar="2019-12-01"></div>
 
@@ -214,12 +208,12 @@ December
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
 <link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/daygrid/main.min.css">
 <script>
-document.querySelectorAll("[data-calendar]").forEach(element => {
-  new FullCalendar.Calendar(element, {
-    ...{{ page.fullCalendar | jsonify }},
-    defaultDate: element.dataset.calendar
-  }).render();
-});
+  document.querySelectorAll("[data-calendar]").forEach(element => {
+    new FullCalendar.Calendar(element, {
+      defaultDate: element.dataset.calendar,
+      ...{{ page.fullCalendar | jsonify }}
+    }).render();
+  });
 </script>
 <style>
   [data-calendar] {

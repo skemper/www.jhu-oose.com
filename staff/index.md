@@ -1,13 +1,10 @@
-Staff
-=====
+# Staff
 
 **🚧  Work in Progress  🚧**
 
-Instructor
-==========
+# Instructor
 
-Leandro Facchinetti
--------------------
+## Leandro Facchinetti
 
 <figure markdown="1">
 ![Leandro Facchinetti](leandro.png){:width="300"}
@@ -23,11 +20,9 @@ Leandro Facchinetti
 
 **Personal Pronoun:** [He/him](https://www.mypronouns.org/he-him)
 
-Head Course Assistant (Head CA)
-===============================
+# Head Course Assistant (Head CA)
 
-Yash Kumar Lal
---------------
+## Yash Kumar Lal
 
 <figure markdown="1">
 ![Yash Kumar Lal](yash.png){:width="300"}
@@ -43,16 +38,13 @@ Yash Kumar Lal
 
 **Personal Pronoun:** <!-- TODO: -->
 
-Course Assistants (CAs)
-=======================
+# Course Assistants (CAs)
 
 <!-- TODO: -->
 
-Robot
-=====
+# Robot
 
-Roboose
--------
+## Roboose
 
 <figure markdown="1">
 ![Roboose](roboose.png){:width="300"}
@@ -60,9 +52,9 @@ Roboose
 
 **Contact:** <roboose@jhu-oose.com>
 
-**Office Hours:** I’m always on.
+**Office Hours:** I’m always available.
 
-**Expertise Beyond Toolbox:** Being a [GitHub Probot](https://probot.github.io).
+**Expertise Beyond Toolbox:** [GitHub Probots](https://probot.github.io) and [TypeScript](https://www.typescriptlang.org).
 
 **Homepage:** <https://github.com/jhu-oose/roboose>
 

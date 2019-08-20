@@ -1,5 +1,4 @@
-Course Description for Course Assistant Candidates
-==================================================
+# Course Description for Course Assistant Candidates
 
 Object-Oriented Software Engineering (or as we like to call it, OOSE) is a course about good practices for building software. We teach design principles, design patterns, refactoring techniques, and so forth. We have written assignments covering these topics, and the centerpiece of the course is a semester-long group project in which they put the ideas in practice. To make the group project feasible, we also have to cover many software engineering tools, for example, Git, JavaScript, and so forth.
 
