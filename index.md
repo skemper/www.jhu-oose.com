@@ -15,3 +15,4 @@ Mondays & Wednesdays 13:30–14:45
 - [TODOOSE: Building an Application from Scratch](/todoose)
 - [Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)
 - [Policies](/policies)
+- [Prior Art](/prior-art)
