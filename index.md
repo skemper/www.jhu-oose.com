@@ -8,13 +8,22 @@ Mondays & Wednesdays 13:30–14:45
 
 <video src="https://archive.org/download/jhu-oose/welcome-to-oose.mp4" controls preload="none"></video>
 
-- [Calendar](/calendar)
-- [Staff](/staff)
-- [Toolbox](/toolbox)
-- [GitHub](https://github.com/jhu-oose)
-- [TODOOSE: Building an Application from Scratch](/todoose)
-- [Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)
-- [Policies](/policies)
-- [Prior Art](/prior-art)
-- [Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} **🔒**{:title="You must a student logged into GitHub to see this."}
-- [Staff Area](https://github.com/jhu-oose/2019-staff){:data-proofer-ignore="true"} **🔒**{:title="You must be a staff member logged into GitHub to see this."}
+[Calendar](/calendar)
+
+[Staff](/staff)
+
+[Toolbox](/toolbox)
+
+[GitHub](https://github.com/jhu-oose)
+
+[TODOOSE: Building an Application from Scratch](/todoose)
+
+[Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)
+
+[Policies](/policies)
+
+[Prior Art](/prior-art)
+
+[Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} **🔒**{:title="You must a student logged into GitHub to see this."}
+
+[Staff Area](https://github.com/jhu-oose/2019-staff){:data-proofer-ignore="true"} **🔒**{:title="You must be a staff member logged into GitHub to see this."}
