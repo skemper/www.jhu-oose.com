@@ -5,26 +5,37 @@ fullCalendar:
     - color: "#1f78b4"
       events:
         - title: Lecture 0
+          url: /lecture-0
           start: 2019-08-29
         - title: Lecture 1
+          url: /lecture-1
           start: 2019-09-04
         - title: Lecture 2
+          url: /lecture-2
           start: 2019-09-11
         - title: Lecture 3
+          url: /lecture-3
           start: 2019-09-18
         - title: Lecture 4
+          url: /lecture-4
           start: 2019-09-25
         - title: Lecture 5
+          url: /lecture-5
           start: 2019-10-02
         - title: Lecture 6
+          url: /lecture-6
           start: 2019-10-09
         - title: Lecture 7
+          url: /lecture-7
           start: 2019-10-16
         - title: Lecture 8
+          url: /lecture-8
           start: 2019-10-23
         - title: Lecture 9
+          url: /lecture-9
           start: 2019-10-30
         - title: Lecture 10
+          url: /lecture-10
           start: 2019-11-06
         - title: Review
           start: 2019-11-13
