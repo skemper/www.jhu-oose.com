@@ -1,8 +1,6 @@
 # TODOOSE: Building an Application from Scratch
 
-**🚧  Work in Progress  🚧**
-
-[Code Base](https://github.com/jhu-oose/todoose) · [Live Version](https://todoose.herokuapp.com){:data-proofer-ignore="true"}
+[**Code Base on GitHub**](https://github.com/jhu-oose/todoose) 
 
 # Session 0: Welcome
 
