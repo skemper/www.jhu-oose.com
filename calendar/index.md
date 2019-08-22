@@ -188,7 +188,7 @@ fullCalendar:
 
 # Calendar
 
-Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to individual assignments and to group project iterations.
+**⚠️  Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to individual assignments and to group project iterations.**
 
 For how to use the Grace Periods, see the [policy on Late Submissions](/policies#late-submissions).
 
