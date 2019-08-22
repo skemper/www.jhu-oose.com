@@ -8,6 +8,8 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/versio
 
 We follow the [Academic Integrity Code by the Department of Computer Science at the Johns Hopkins University](https://www.cs.jhu.edu/academic-integrity-code/).
 
+You may discuss ideas and strategies for solutions with other students, but you must not share answers. For example, you may scribble an algorithm on the board together, but you must not share code. You must list the students with which you collaborated. If you reuse snippets of code found on the web, you must include an attribution to the source.
+
 # Grades
 
 |                          | % of Final Grade |
