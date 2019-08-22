@@ -1,6 +1,6 @@
 # TODOOSE: Building an Application from Scratch
 
-[**Code Base on GitHub**](https://github.com/jhu-oose/todoose) 
+[**Code Base**](https://github.com/jhu-oose/todoose) 
 
 # Session 0: Welcome
 
