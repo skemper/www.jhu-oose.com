@@ -1,5 +1,3 @@
-**🚧  Work in Progress  🚧**
-
 A Course at the [Johns Hopkins University](https://www.jhu.edu)
 
 EN.601.421 (Undergraduate Students) · EN.601.621 (Graduate Students)  
@@ -10,7 +8,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Calendar](/calendar)
 
-[Staff](/staff)
+[Staff](/staff) **🚧**{:title="Work in Progress"}
 
 [Toolbox](/toolbox)
 
