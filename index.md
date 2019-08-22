@@ -1,4 +1,4 @@
-A Course at the [Johns Hopkins University](https://www.jhu.edu)
+**A Course at the [Johns Hopkins University](https://www.jhu.edu)**
 
 EN.601.421 (Undergraduate Students) · EN.601.621 (Graduate Students)  
 [Homewood Campus · Mergenthaler Hall · Room 111](https://www.jhu.edu/maps-directions/campus-map/)  
@@ -6,21 +6,27 @@ Mondays & Wednesdays 13:30–14:45
 
 <video src="https://archive.org/download/jhu-oose/welcome-to-oose.mp4" controls preload="none"></video>
 
+# Logistics
+
 [Calendar](/calendar)
 
 [Staff](/staff) **🚧**{:title="Work in Progress"}
 
-[Toolbox](/toolbox)
-
-[GitHub](https://github.com/jhu-oose)
-
-[TODOOSE: Building an Application from Scratch](/todoose)
-
-[Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)
+[The `jhu-oose` Organization on GitHub](https://github.com/jhu-oose)
 
 [Policies](/policies)
 
 [Prior Art](/prior-art)
+
+[Course Description for Course Assistant Candidates](/course-description-for-course-assistant-candidates)
+
+# Course Material
+
+[Toolbox](/toolbox)
+
+[TODOOSE: Building an Application from Scratch](/todoose)
+
+# Private Areas
 
 [Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} **🔒**{:title="You must a student logged into GitHub to see this."}
 
@@ -49,3 +55,11 @@ Mondays & Wednesdays 13:30–14:45
 [Lecture 9: Other Programming Paradigms](/lecture-9) **🚧**{:title="Work in Progress"}
 
 [Lecture 10: Open-Source](/lecture-10) **🚧**{:title="Work in Progress"}
+
+# Individual Assignments
+
+**🚧**{:title="Work in Progress"}
+
+# Group Projects
+
+[Group Projects](/group-projects) **🚧**{:title="Work in Progress"}
