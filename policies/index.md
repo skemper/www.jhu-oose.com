@@ -2,13 +2,15 @@
 
 # Code of Conduct
 
-We follow the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct), in which the “project” is the course, the “project maintainers” are the course staff, and the “contributors” are the students. Violations must be reported to <code-of-conduct@jhu-oose.com>.
+We follow the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct).
+
+The “project” is the course, the “project maintainers” are the staff, and the “contributors” are the students. Violations must be reported to <code-of-conduct@jhu-oose.com>.
 
 # Academic Integrity
 
 We follow the [Academic Integrity Code by the Department of Computer Science at the Johns Hopkins University](https://www.cs.jhu.edu/academic-integrity-code/).
 
-You may discuss ideas and strategies for solutions with other students, but you must not share answers. For example, you may scribble an algorithm on the board together, but you must not share code. You must mention the students with whom you collaborated. If you reuse snippets of code found on the web, you must include an attribution to the source.
+You may discuss ideas and strategies for solutions with other students, but you must not share answers. For example, you may scribble an algorithm on the board together, but you must not share code. You must mention the students with whom you collaborated. You must include a citation to any material that you reuse, for example, snippets of code found on the web, diagrams found on books, and so forth.
 
 # Grades
 
@@ -23,11 +25,11 @@ Individual assignments and group project iterations are weighted equally. For ex
 
 Generally the grades for group project iterations and the final grade for group project are the same for all group members, but we may adjust grades for members with outstanding contributions or outstanding bad behavior.
 
-# Late Days
+# Late Submissions
 
-**Individual Assignments:** You have ten late days to use throughout the semester. You may use late days only during the [Late Days periods](/calendar). Late days are indivisible, for example, a submission that is one hour late counts as one late day. We don’t accept submissions after the Late Days periods or when more than ten late days have been used.
+**Individual Assignments:** You have ten late days to use throughout the semester. You may only use late days during the [Grace Periods](/calendar). Late days are indivisible, for example, a submission that is one hour late uses one late day. We don’t accept submissions after the Grace Periods or when more than ten late days have been used.
 
-**Group Projects:** There is no late day policy. If you are unable to contribute to an iteration, you must make arrangements with your group advisor and other group members.
+**Group Projects:** We don’t accept late submissions for group project iterations. If you are unable to contribute to an iteration, you must make arrangements with your group advisor and other group members.
 
 # Differences Between EN.601.421 (Undergraduate Students) and EN.601.621 (Graduate Students)
 

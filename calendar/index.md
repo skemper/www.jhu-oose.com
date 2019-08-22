@@ -78,37 +78,37 @@ fullCalendar:
           end: 2019-11-14
     - color: "#e31a1c"
       events:
-        - title: Assignment 0 Late Days
+        - title: Assignment 0 Grace Period
           start: 2019-09-05
           end: 2019-09-10
-        - title: Assignment 1 Late Days
+        - title: Assignment 1 Grace Period
           start: 2019-09-12
           end: 2019-09-17
-        - title: Assignment 2 Late Days
+        - title: Assignment 2 Grace Period
           start: 2019-09-19
           end: 2019-09-24
-        - title: Assignment 3 Late Days
+        - title: Assignment 3 Grace Period
           start: 2019-09-26
           end: 2019-09-31
-        - title: Assignment 4 Late Days
+        - title: Assignment 4 Grace Period
           start: 2019-10-03
           end: 2019-10-08
-        - title: Assignment 5 Late Days
+        - title: Assignment 5 Grace Period
           start: 2019-10-10
           end: 2019-10-15
-        - title: Assignment 6 Late Days
+        - title: Assignment 6 Grace Period
           start: 2019-10-17
           end: 2019-10-22
-        - title: Assignment 7 Late Days
+        - title: Assignment 7 Grace Period
           start: 2019-10-24
           end: 2019-10-29
-        - title: Assignment 8 Late Days
+        - title: Assignment 8 Grace Period
           start: 2019-10-31
           end: 2019-11-05
-        - title: Assignment 9 Late Days
+        - title: Assignment 9 Grace Period
           start: 2019-11-07
           end: 2019-11-12
-        - title: Assignment 10 Late Days
+        - title: Assignment 10 Grace Period
           start: 2019-11-14
           end: 2019-11-19
     - color: "#6a3d9a"
@@ -190,7 +190,7 @@ fullCalendar:
 
 Deadlines are at 13:15, which is 15 minutes before the class starts. This applies both to individual assignments and to group project iterations.
 
-See the [policy on late days](/policies#late-days).
+For how to use the Grace Periods, see the [policy on Late Submissions](/policies#late-submissions).
 
 For administrative matters, for example, for the last day to drop courses, refer to the [university’s academic calendar](https://studentaffairs.jhu.edu/registrar/wp-content/uploads/sites/23/2017/03/FINAL.academic-calendar-2019-2020.REVISED_4.29.2019.pdf).
 
