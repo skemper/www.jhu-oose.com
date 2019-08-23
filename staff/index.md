@@ -2,7 +2,7 @@
 
 **🚧  Work in Progress  🚧**
 
-**⚠️  Before going to office hours, check the [Announcements](https://github.com/jhu-oose/2019-students/labels/announcement){:data-proofer-ignore="true"} <span title="You must a student logged into GitHub to see this.">🔒</span>, because we may have rescheduled.**
+**⚠️  Office hours may be rescheduled. Check the [Announcements](https://github.com/jhu-oose/2019-students/labels/announcement){:data-proofer-ignore="true"} <span title="You must a student logged into GitHub to see this.">🔒</span> before going.**
 
 # Instructor: Leandro Facchinetti
 
@@ -14,7 +14,7 @@
 
 **Email:** <leandro@jhu-oose.com>
 
-**GitHub Identifier**: [`@leafac`](https://github.com/leafac)
+**GitHub Identifier**: [`leafac`](https://github.com/leafac)
 
 **Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming-language theory.
 
@@ -32,7 +32,7 @@
 
 **Email:** <yash@jhu-oose.com>
 
-**GitHub Identifier**: [`@ykl7`](https://github.com/ykl7)
+**GitHub Identifier**: [`ykl7`](https://github.com/ykl7)
 
 **Expertise Beyond Toolbox:** iOS, Python, and Natural Language Processing.
 
