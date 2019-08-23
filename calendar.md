@@ -92,47 +92,47 @@ fullCalendar:
     - color: "#e31a1c"
       events:
         - title: Assignment 0 Grace Period
-          url: /assignments/0
+          url: /policies#late-submissions
           start: 2019-09-05
           end: 2019-09-10
         - title: Assignment 1 Grace Period
-          url: /assignments/1
+          url: /policies#late-submissions
           start: 2019-09-12
           end: 2019-09-17
         - title: Assignment 2 Grace Period
-          url: /assignments/2
+          url: /policies#late-submissions
           start: 2019-09-19
           end: 2019-09-24
         - title: Assignment 3 Grace Period
-          url: /assignments/3
+          url: /policies#late-submissions
           start: 2019-09-26
           end: 2019-09-31
         - title: Assignment 4 Grace Period
-          url: /assignments/4
+          url: /policies#late-submissions
           start: 2019-10-03
           end: 2019-10-08
         - title: Assignment 5 Grace Period
-          url: /assignments/5
+          url: /policies#late-submissions
           start: 2019-10-10
           end: 2019-10-15
         - title: Assignment 6 Grace Period
-          url: /assignments/6
+          url: /policies#late-submissions
           start: 2019-10-17
           end: 2019-10-22
         - title: Assignment 7 Grace Period
-          url: /assignments/7
+          url: /policies#late-submissions
           start: 2019-10-24
           end: 2019-10-29
         - title: Assignment 8 Grace Period
-          url: /assignments/8
+          url: /policies#late-submissions
           start: 2019-10-31
           end: 2019-11-05
         - title: Assignment 9 Grace Period
-          url: /assignments/9
+          url: /policies#late-submissions
           start: 2019-11-07
           end: 2019-11-12
         - title: Assignment 10 Grace Period
-          url: /assignments/10
+          url: /policies#late-submissions
           start: 2019-11-14
           end: 2019-11-19
     - color: "#6a3d9a"
@@ -259,10 +259,10 @@ For administrative matters, for example, for the last day to drop courses, refer
 
 <div data-calendar="2019-12-01"></div>
 
-<script src="fullcalendar-4.2.0/packages/core/main.min.js"></script>
-<script src="fullcalendar-4.2.0/packages/daygrid/main.min.js"></script>
-<link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/core/main.min.css">
-<link rel="stylesheet" type="text/css" href="fullcalendar-4.2.0/packages/daygrid/main.min.css">
+<script src="/fullcalendar-4.2.0/packages/core/main.min.js"></script>
+<script src="/fullcalendar-4.2.0/packages/daygrid/main.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/fullcalendar-4.2.0/packages/core/main.min.css">
+<link rel="stylesheet" type="text/css" href="/fullcalendar-4.2.0/packages/daygrid/main.min.css">
 <script>
   document.querySelectorAll("[data-calendar]").forEach(element => {
     new FullCalendar.Calendar(element, {
