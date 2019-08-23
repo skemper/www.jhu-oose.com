@@ -27,51 +27,51 @@ Mondays & Wednesdays 13:30–14:45
 
 # Lectures
 
-[Lecture 0: Welcome & Project Planning](/lecture-0) <span title="Work in Progress">🚧</span>
+[Lecture 0: Welcome & Project Planning](/lectures/0) <span title="Work in Progress">🚧</span>
 
-[Lecture 1: Design Rudiments](/lecture-1) <span title="Work in Progress">🚧</span>
+[Lecture 1: Design Rudiments](/lectures/1) <span title="Work in Progress">🚧</span>
 
-[Lecture 2: Design Principles](/lecture-2) <span title="Work in Progress">🚧</span>
+[Lecture 2: Design Principles](/lectures/2) <span title="Work in Progress">🚧</span>
 
-[Lecture 3: Design Patterns](/lecture-3) <span title="Work in Progress">🚧</span>
+[Lecture 3: Design Patterns](/lectures/3) <span title="Work in Progress">🚧</span>
 
-[Lecture 4: Implementation](/lecture-4) <span title="Work in Progress">🚧</span>
+[Lecture 4: Implementation](/lectures/4) <span title="Work in Progress">🚧</span>
 
-[Lecture 5: Implementation](/lecture-5) <span title="Work in Progress">🚧</span>
+[Lecture 5: Implementation](/lectures/5) <span title="Work in Progress">🚧</span>
 
-[Lecture 6: Implementation](/lecture-6) <span title="Work in Progress">🚧</span>
+[Lecture 6: Implementation](/lectures/6) <span title="Work in Progress">🚧</span>
 
-[Lecture 7: Implementation](/lecture-7) <span title="Work in Progress">🚧</span>
+[Lecture 7: Implementation](/lectures/7) <span title="Work in Progress">🚧</span>
 
-[Lecture 8: Refactoring](/lecture-8) <span title="Work in Progress">🚧</span>
+[Lecture 8: Refactoring](/lectures/8) <span title="Work in Progress">🚧</span>
 
-[Lecture 9: Other Programming Paradigms](/lecture-9) <span title="Work in Progress">🚧</span>
+[Lecture 9: Other Programming Paradigms](/lectures/9) <span title="Work in Progress">🚧</span>
 
-[Lecture 10: Open-Source](/lecture-10) <span title="Work in Progress">🚧</span>
+[Lecture 10: Open-Source](/lectures/10) <span title="Work in Progress">🚧</span>
 
 # Individual Assignments
 
-[Assignment 0: Welcome & Project Planning](/assignment-0) <span title="Work in Progress">🚧</span>
+[Assignment 0: Welcome & Project Planning](/assignments/0) <span title="Work in Progress">🚧</span>
 
-[Assignment 1: Design Rudiments](/assignment-1) <span title="Work in Progress">🚧</span>
+[Assignment 1: Design Rudiments](/assignments/1) <span title="Work in Progress">🚧</span>
 
-[Assignment 2: Design Principles](/assignment-2) <span title="Work in Progress">🚧</span>
+[Assignment 2: Design Principles](/assignments/2) <span title="Work in Progress">🚧</span>
 
-[Assignment 3: Design Patterns](/assignment-3) <span title="Work in Progress">🚧</span>
+[Assignment 3: Design Patterns](/assignments/3) <span title="Work in Progress">🚧</span>
 
-[Assignment 4: Implementation](/assignment-4) <span title="Work in Progress">🚧</span>
+[Assignment 4: Implementation](/assignments/4) <span title="Work in Progress">🚧</span>
 
-[Assignment 5: Implementation](/assignment-5) <span title="Work in Progress">🚧</span>
+[Assignment 5: Implementation](/assignments/5) <span title="Work in Progress">🚧</span>
 
-[Assignment 6: Implementation](/assignment-6) <span title="Work in Progress">🚧</span>
+[Assignment 6: Implementation](/assignments/6) <span title="Work in Progress">🚧</span>
 
-[Assignment 7: Implementation](/assignment-7) <span title="Work in Progress">🚧</span>
+[Assignment 7: Implementation](/assignments/7) <span title="Work in Progress">🚧</span>
 
-[Assignment 8: Refactoring](/assignment-8) <span title="Work in Progress">🚧</span>
+[Assignment 8: Refactoring](/assignments/8) <span title="Work in Progress">🚧</span>
 
-[Assignment 9: Other Programming Paradigms](/assignment-9) <span title="Work in Progress">🚧</span>
+[Assignment 9: Other Programming Paradigms](/assignments/9) <span title="Work in Progress">🚧</span>
 
-[Assignment 10: Open-Source](/assignment-10) <span title="Work in Progress">🚧</span>
+[Assignment 10: Open-Source](/assignments/10) <span title="Work in Progress">🚧</span>
 
 # Quiz
 
@@ -81,20 +81,20 @@ Mondays & Wednesdays 13:30–14:45
 
 [Group Projects](/group-projects) <span title="Work in Progress">🚧</span>
 
-[Iteration 0: Group Formation & Project Ideas](/iteration-0) <span title="Work in Progress">🚧</span>
+[Iteration 0: Group Formation & Project Ideas](/iterations/0) <span title="Work in Progress">🚧</span>
 
-[Iteration 1: Project Planning & Design](/iteration-1) <span title="Work in Progress">🚧</span>
+[Iteration 1: Project Planning & Design](/iterations/1) <span title="Work in Progress">🚧</span>
 
-[Iteration 2: First Feature](/iteration-2) <span title="Work in Progress">🚧</span>
+[Iteration 2: First Feature](/iterations/2) <span title="Work in Progress">🚧</span>
 
-[Iteration 3: Core Features](/iteration-3) <span title="Work in Progress">🚧</span>
+[Iteration 3: Core Features](/iterations/3) <span title="Work in Progress">🚧</span>
 
-[Midterm Presentation](/iteration-3#midterm-presentation) <span title="Work in Progress">🚧</span>
+[Midterm Presentation](/iterations/3#midterm-presentation) <span title="Work in Progress">🚧</span>
 
-[Iteration 4: More Features](/iteration-4) <span title="Work in Progress">🚧</span>
+[Iteration 4: More Features](/iterations/4) <span title="Work in Progress">🚧</span>
 
-[Iteration 5: Even More Features](/iteration-5) <span title="Work in Progress">🚧</span>
+[Iteration 5: Even More Features](/iterations/5) <span title="Work in Progress">🚧</span>
 
-[Iteration 6: Full Application](/iteration-6) <span title="Work in Progress">🚧</span>
+[Iteration 6: Full Application](/iterations/6) <span title="Work in Progress">🚧</span>
 
-[Final Presentation](/iteration-6#final-presentation) <span title="Work in Progress">🚧</span>
+[Final Presentation](/iterations/6#final-presentation) <span title="Work in Progress">🚧</span>
