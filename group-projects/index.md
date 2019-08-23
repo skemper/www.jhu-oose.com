@@ -75,4 +75,4 @@ Registering a group creates a repository at `https://github.com/jhu-oose/2019-gr
 
 # Iteration 6: Full Application
 
-# Final Presentations
+## Final Presentations
