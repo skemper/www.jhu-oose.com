@@ -8,7 +8,7 @@
 
 <form method="POST" action="https://roboose.herokuapp.com/groups">
 <fieldset markdown="1">
-<legend>Group Formation</legend>
+<legend>Group Registration</legend>
 <small>
 **🚧  DON’T SUBMIT THIS FORM YET  🚧**
 </small>
@@ -32,15 +32,26 @@ Group Members GitHub Identifiers
 <input type="text" name="member[]" placeholder="(Optional)">  
 </label>
 <small>
-These must be the GitHub Identifiers for the group members, for example, [`leafac`](https://github.com/leafac).  
+These must be the GitHub identifiers of [registered students](/assignment-0#onboarding), for example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
-Groups must be composed of 5–6 people.  
-Group members must already be [registered in the course](/assignment-0#onboarding).
+Groups must have 5 or 6 members.  
+</small>
+
+<label>
+Preferred Advisors GitHub Identifiers  
+<input type="text" name="advisor[]" placeholder="(Optional)">  
+<input type="text" name="advisor[]" placeholder="(Optional)">  
+</label>
+<small>
+These must be the GitHub identifiers of [group advisors](/staff#group-advisors), for example, [`jhu-oose-example-ca`](https://github.com/jhu-oose-example-ca).  
+Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
 </small>
 
 <button>Register Group</button>
 </fieldset>
 </form>
+
+Registering a group creates a repository at `https://github.com/jhu-oose/2019-group-<identifier>`. This is the repository you will use for the rest of the course to submit iterations, receive grades, communicate with your project advisor, and so forth.
 
 ## Laboratory Session 1
 
