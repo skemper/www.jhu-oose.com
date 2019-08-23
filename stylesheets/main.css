@@ -143,6 +143,15 @@ button,
 button:active,
 .button {
   font-size: 0.875rem;
+}
+
+pre,
+input,
+textarea,
+button,
+button:active,
+.button,
+fieldset {
   border: 1px solid #dfdfdf;
   border-radius: 3px;
 }
@@ -150,6 +159,11 @@ button:active,
 pre {
   overflow: auto;
   padding: 1rem;
+}
+
+legend,
+label {
+  font-weight: bold;
 }
 
 input,

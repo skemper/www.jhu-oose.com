@@ -10,9 +10,11 @@
 ![Leandro Facchinetti](leandro.png){:width="300"}
 </figure>
 
-**Contact:** <leandro@jhu-oose.com>
-
 **Office Hours:** <!-- TODO: -->
+
+**Email:** <leandro@jhu-oose.com>
+
+**GitHub Identifier**: [`@leafac`](https://github.com/leafac)
 
 **Expertise Beyond Toolbox:** System administration, Node.js, Ruby on Rails, and programming-language theory.
 
@@ -28,15 +30,17 @@
 ![Yash Kumar Lal](yash.png){:width="300"}
 </figure>
 
-**Contact:** <yash@jhu-oose.com>
-
 **Office Hours:** <!-- TODO: -->
+
+**Email:** <yash@jhu-oose.com>
+
+**GitHub Identifier**: [`@ykl7`](https://github.com/ykl7)
 
 **Expertise Beyond Toolbox:** iOS, Python, and Natural Language Processing.
 
 **Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
-**Personal Pronoun:** <!-- TODO: -->
+**Personal Pronoun:** <!-- TODO: Link to https://www.mypronouns.org/ -->
 
 # Course Assistants (CAs)
 
@@ -50,11 +54,11 @@
 ![Roboose](roboose.png){:width="300"}
 </figure>
 
-**Contact:** <roboose@jhu-oose.com>
+**Office Hours:** 24/7
 
-**Office Hours:** I’m always available.
+**Email:** <roboose@jhu-oose.com>
 
-**Expertise Beyond Toolbox:** [GitHub Probots](https://probot.github.io) and [TypeScript](https://www.typescriptlang.org).
+**Expertise Beyond Toolbox:** [GitHub Probot](https://probot.github.io) and [TypeScript](https://www.typescriptlang.org).
 
 **Homepage:** <https://github.com/jhu-oose/roboose>
 

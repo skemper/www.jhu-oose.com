@@ -12,3 +12,4 @@ Potential features to implement:
 - Notes & other item data
 - Scheduling
 - Synching with other providers (Apple Reminders, Google Keep, and so forth)
+- Fix the pooling with either server-sent events, websockets, or long pooling
