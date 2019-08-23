@@ -1,4 +1,4 @@
-# Lecture 7: Implementing a Web Application Client Part 2
+# Lecture 7: Implementation
 
 **🚧  Work in Progress  🚧**
 

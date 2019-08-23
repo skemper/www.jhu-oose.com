@@ -1,3 +1,3 @@
-# Group Projects
+# Assignment 6: Implementation
 
 **🚧  Work in Progress  🚧**

@@ -1,4 +1,4 @@
-# Lecture 4: Implementing a Web Application Server Part 1
+# Lecture 4: Implementation
 
 **🚧  Work in Progress  🚧**
 

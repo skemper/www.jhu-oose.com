@@ -1,3 +1,3 @@
-# Group Projects
+# Assignment 3: Design Patterns
 
 **🚧  Work in Progress  🚧**

@@ -38,131 +38,176 @@ fullCalendar:
           url: /lecture-10
           start: 2019-11-06
         - title: Review
+          url: /quiz#review-session
           start: 2019-11-13
         - title: Quiz
+          url: /quiz
           start: 2019-11-20
     - color: "#33a02c"
       events:
         - title: Assignment 0
+          url: /assignment-0
           start: 2019-08-29
           end: 2019-09-05
         - title: Assignment 1
+          url: /assignment-1
           start: 2019-09-05
           end: 2019-09-12
         - title: Assignment 2
+          url: /assignment-2
           start: 2019-09-12
           end: 2019-09-19
         - title: Assignment 3
+          url: /assignment-3
           start: 2019-09-19
           end: 2019-09-26
         - title: Assignment 4
+          url: /assignment-4
           start: 2019-09-26
           end: 2019-10-03
         - title: Assignment 5
+          url: /assignment-5
           start: 2019-10-03
           end: 2019-10-10
         - title: Assignment 6
+          url: /assignment-6
           start: 2019-10-10
           end: 2019-10-17
         - title: Assignment 7
+          url: /assignment-7
           start: 2019-10-17
           end: 2019-10-24
         - title: Assignment 8
+          url: /assignment-8
           start: 2019-10-24
           end: 2019-10-31
         - title: Assignment 9
+          url: /assignment-9
           start: 2019-10-31
           end: 2019-11-07
         - title: Assignment 10
+          url: /assignment-10
           start: 2019-11-07
           end: 2019-11-14
     - color: "#e31a1c"
       events:
         - title: Assignment 0 Grace Period
+          url: /assignment-0
           start: 2019-09-05
           end: 2019-09-10
         - title: Assignment 1 Grace Period
+          url: /assignment-1
           start: 2019-09-12
           end: 2019-09-17
         - title: Assignment 2 Grace Period
+          url: /assignment-2
           start: 2019-09-19
           end: 2019-09-24
         - title: Assignment 3 Grace Period
+          url: /assignment-3
           start: 2019-09-26
           end: 2019-09-31
         - title: Assignment 4 Grace Period
+          url: /assignment-4
           start: 2019-10-03
           end: 2019-10-08
         - title: Assignment 5 Grace Period
+          url: /assignment-5
           start: 2019-10-10
           end: 2019-10-15
         - title: Assignment 6 Grace Period
+          url: /assignment-6
           start: 2019-10-17
           end: 2019-10-22
         - title: Assignment 7 Grace Period
+          url: /assignment-7
           start: 2019-10-24
           end: 2019-10-29
         - title: Assignment 8 Grace Period
+          url: /assignment-8
           start: 2019-10-31
           end: 2019-11-05
         - title: Assignment 9 Grace Period
+          url: /assignment-9
           start: 2019-11-07
           end: 2019-11-12
         - title: Assignment 10 Grace Period
+          url: /assignment-10
           start: 2019-11-14
           end: 2019-11-19
     - color: "#6a3d9a"
       events:
         - title: Lab 1
+          url: /iteration-0#laboratory-session-1
           start: 2019-09-09
         - title: Lab 2
+          url: /iteration-1#laboratory-session-2
           start: 2019-09-16
         - title: Lab 3
+          url: /iteration-1#laboratory-session-3
           start: 2019-09-23
         - title: Lab 4
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-09-30
         - title: Lab 5
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-10-07
         - title: Lab 6
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-10-14
-        - title: Presentations
+        - title: Presentation
+          url: /iteration-3#midterm-presentation
           start: 2019-10-21
         - title: Lab 8
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-10-28
         - title: Lab 9
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-11-04
         - title: Lab 10
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-11-11
         - title: Lab 11
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-11-18
         - title: Lab 12
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-12-02
         - title: Lab 13
+          url: /iteration-2#laboratory-sessions-413
           start: 2019-12-04
-        - title: Presentations
+        - title: Final Presentation
+          url: /iteration-6#final-presentation
           start: 2019-12-16
           end: 2019-12-19
     - color: "#b15928"
       events:
         - title: Iteration 0
+          url: /iteration-0
           start: 2019-08-29
           end: 2019-09-12
         - title: Iteration 1
+          url: /iteration-1
           start: 2019-09-12
           end: 2019-09-26
         - title: Iteration 2
+          url: /iteration-2
           start: 2019-09-26
           end: 2019-10-10
         - title: Iteration 3
+          url: /iteration-3
           start: 2019-10-10
           end: 2019-10-24
         - title: Iteration 4
+          url: /iteration-4
           start: 2019-10-24
           end: 2019-11-07
         - title: Iteration 5
+          url: /iteration-5
           start: 2019-11-07
           end: 2019-11-21
         - title: Iteration 6
+          url: /iteration-6
           start: 2019-12-02
           end: 2019-12-19
     - color: "#ff7f00"

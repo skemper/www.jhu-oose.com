@@ -1,4 +1,4 @@
-# Lecture 5: Implementing a Web Application Server Part 2
+# Lecture 5: Implementation
 
 **🚧  Work in Progress  🚧**
 

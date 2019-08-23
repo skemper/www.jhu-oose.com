@@ -40,11 +40,11 @@
 
 **Personal Pronoun:** <span title="Work in Progress">🚧</span>
 
-# Group Advisors
+# Course Assistants (CAs)
 
 <span title="Work in Progress">🚧</span>
 
-# Course Assistants (CAs)
+# Group Advisors
 
 <span title="Work in Progress">🚧</span>
 
