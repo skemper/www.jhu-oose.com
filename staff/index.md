@@ -1,8 +1,8 @@
 # Staff
 
-**🚧  Work in Progress  🚧**
+**<small>🚧</small>  Work in Progress  <small>🚧</small>**
 
-**⚠️  Office hours may be rescheduled. Check the [Announcements](https://github.com/jhu-oose/2019-students/labels/announcement){:data-proofer-ignore="true"} <span title="You must a student logged into GitHub to see this.">🔒</span> before going.**
+**<small>⚠️</small>  Office hours may be rescheduled: check the [Announcements](https://github.com/jhu-oose/2019-students/labels/announcement){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>.**
 
 # Instructor: Leandro Facchinetti
 
@@ -28,7 +28,7 @@
 ![Yash Kumar Lal](yash.png){:width="300"}
 </figure>
 
-**Office Hours:** <span title="Work in Progress">🚧</span>
+**Office Hours:** <small title="Work in Progress">🚧</small>
 
 **Email:** <yash@jhu-oose.com>
 
@@ -38,15 +38,15 @@
 
 **Homepage:** <https://www.cs.jhu.edu/~ylal1/>
 
-**Personal Pronoun:** <span title="Work in Progress">🚧</span>
+**Personal Pronoun:** <small title="Work in Progress">🚧</small>
 
 # Course Assistants (CAs)
 
-<span title="Work in Progress">🚧</span>
+<small title="Work in Progress">🚧</small>
 
 # Group Advisors
 
-<span title="Work in Progress">🚧</span>
+<small title="Work in Progress">🚧</small>
 
 # Robot: Roboose
 
