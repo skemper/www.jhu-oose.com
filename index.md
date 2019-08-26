@@ -9,6 +9,8 @@ Mondays & Wednesdays 13:30–14:45
 
 # Logistics
 
+[Course Description](/course-description)
+
 [Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
 
 [Calendar](/calendar)
@@ -18,6 +20,8 @@ Mondays & Wednesdays 13:30–14:45
 [Policies](/policies)
 
 [Prior Art](/prior-art)
+
+[Course Assistant Candidates](/course-assistant-candidates)
 
 # Course Material
 
