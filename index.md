@@ -11,13 +11,13 @@ Mondays & Wednesdays 13:30–14:45
 
 [Course Description](/course-description)
 
-[Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
-
 [Calendar](/calendar)
 
 [Staff](/staff) <small title="Work in Progress">🚧</small>
 
 [Policies](/policies)
+
+[Students Area](https://github.com/jhu-oose/2019-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
 
 [Prior Art](/prior-art)
 
