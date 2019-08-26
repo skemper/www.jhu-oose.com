@@ -85,7 +85,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Group Projects](/group-projects) <small title="Work in Progress">🚧</small>
 
-[Iteration 0: Group Formation & Project Ideas](/iterations/0) <small title="Work in Progress">🚧</small>
+[Iteration 0: Group Formation & Project Proposal](/iterations/0) <small title="Work in Progress">🚧</small>
 
 [Iteration 1: Project Planning & Design](/iterations/1) <small title="Work in Progress">🚧</small>
 
