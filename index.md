@@ -33,7 +33,7 @@ Mondays & Wednesdays 13:30–14:45
 
 # Lectures
 
-[Lecture 0: Welcome & Project Planning](/lectures/0) <small title="Work in Progress">🚧</small>
+[Lecture 0: Project Proposal](/lectures/0) <small title="Work in Progress">🚧</small>
 
 [Lecture 1: Design Rudiments](/lectures/1) <small title="Work in Progress">🚧</small>
 
@@ -57,7 +57,7 @@ Mondays & Wednesdays 13:30–14:45
 
 # Individual Assignments
 
-[Assignment 0: Welcome & Project Planning](/assignments/0) <small title="Work in Progress">🚧</small>
+[Assignment 0: Project Proposal](/assignments/0) <small title="Work in Progress">🚧</small>
 
 [Assignment 1: Design Rudiments](/assignments/1) <small title="Work in Progress">🚧</small>
 
@@ -87,9 +87,9 @@ Mondays & Wednesdays 13:30–14:45
 
 [Group Projects](/group-projects) <small title="Work in Progress">🚧</small>
 
-[Iteration 0: Group Formation & Project Proposal](/iterations/0) <small title="Work in Progress">🚧</small>
+[Iteration 0: Project Proposal](/iterations/0) <small title="Work in Progress">🚧</small>
 
-[Iteration 1: Project Planning & Design](/iterations/1) <small title="Work in Progress">🚧</small>
+[Iteration 1: Design](/iterations/1) <small title="Work in Progress">🚧</small>
 
 [Iteration 2: First Feature](/iterations/2) <small title="Work in Progress">🚧</small>
 
