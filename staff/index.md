@@ -2,7 +2,7 @@
 
 **<small>🚧</small>  Work in Progress  <small>🚧</small>**
 
-**<small>⚠️</small>  Office hours may be rescheduled: check the [Announcements](https://github.com/jhu-oose/2019-students/labels/announcement){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>.**
+**<small>⚠️</small>  Office hours may be rescheduled: check the [Announcements](https://github.com/jhu-oose/{{site.course}}-students/labels/announcement){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>.**
 
 # Instructor: Leandro Facchinetti
 
