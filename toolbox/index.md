@@ -18,7 +18,7 @@ The Toolbox is a collection of tools curated by the course staff for the program
 
 **Second Read.** Read the sections named **What Is It?** and **Why Did We Choose It?**.
 
-**Third Read.** Refer to [TODOOSE](/todoose) for an example of the tools in action and follow the instructions in the sections named **How Do I Learn It?**. Don’t try to learn everything at once—it’s _a lot_ of material.
+**Third Read.** Refer to [TODOOSE](https://github.com/jhu-oose/todoose) for an example of the tools in action and follow the instructions in the sections named **How Do I Learn It?**. Don’t try to learn everything at once—it’s _a lot_ of material.
 
 <!-- prettier-ignore-start -->
 ## Architecture: Web Application
