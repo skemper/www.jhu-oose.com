@@ -17,11 +17,11 @@ Mondays & Wednesdays 13:30–14:45
 
 [Policies](/policies)
 
-[Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
+[Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
 
 [Acknowledgements](/acknowledgements)
 
-[Staff Area](https://github.com/jhu-oose/{{site.course}}-staff){:data-proofer-ignore="true"} <small title="You must a staff member logged into GitHub to see this.">🔒</small>
+[Staff Area](https://github.com/jhu-oose/{{site.course}}-staff){:data-proofer-ignore="true"} <small title="You must a staff member logged into GitHub to see this.">🔒</small>
 
 [Course Assistant Candidates](/course-assistant-candidates)
 
@@ -56,6 +56,8 @@ Mondays & Wednesdays 13:30–14:45
 [Lecture 10: Open-Source](/lectures/10) <small title="Work in Progress">🚧</small>
 
 # Individual Assignments
+
+[Opportunities for Extra Points](/opportunities-for-extra-points)
 
 [Assignment 0: Project Proposal](/assignments/0) <small title="Work in Progress">🚧</small>
 
