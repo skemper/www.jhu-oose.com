@@ -4,7 +4,7 @@ Read the [Course Description](/course-description).
 
 As a course assistant, you may choose on what you want to work. Here are the possibilities:
 
-- Advise and evaluate the semester-long [group projects](/group-projects).
+- Advise and evaluate the [group projects](/group-projects).
 - Grade the [individual assignments](/#individual-assignments) and the [quiz](/quiz).
 - Hold office hours.
 - Prepare [lectures](/#lectures), [individual assignments](/#individual-assignments), and other [course material](/#course-material).
