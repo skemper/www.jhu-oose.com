@@ -141,10 +141,10 @@ fullCalendar:
           url: /iterations/0#laboratory-session-1
           start: 2019-09-09
         - title: Lab 2
-          url: /iterations/1#laboratory-session-2
+          url: /iterations/1#laboratory-sessions-2--3
           start: 2019-09-16
         - title: Lab 3
-          url: /iterations/1#laboratory-session-3
+          url: /iterations/1#laboratory-sessions-2--3
           start: 2019-09-23
         - title: Lab 4
           url: /iterations/2#laboratory-sessions-413
