@@ -138,43 +138,43 @@ fullCalendar:
     - color: "#6a3d9a"
       events:
         - title: Lab 1
-          url: /iterations/0#laboratory-session-1
+          url: /group-projects#laboratory-sessions
           start: 2019-09-09
         - title: Lab 2
-          url: /iterations/1#laboratory-sessions-2--3
+          url: /group-projects#laboratory-sessions
           start: 2019-09-16
         - title: Lab 3
-          url: /iterations/1#laboratory-sessions-2--3
+          url: /group-projects#laboratory-sessions
           start: 2019-09-23
         - title: Lab 4
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-09-30
         - title: Lab 5
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-10-07
         - title: Lab 6
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-10-14
         - title: Presentation
           url: /iterations/3#midterm-presentation
           start: 2019-10-21
         - title: Lab 8
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-10-28
         - title: Lab 9
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-11-04
         - title: Lab 10
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-11-11
         - title: Lab 11
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-11-18
         - title: Lab 12
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-12-02
         - title: Lab 13
-          url: /iterations/2#laboratory-sessions-413
+          url: /group-projects#laboratory-sessions
           start: 2019-12-04
         - title: Final Presentation
           url: /iterations/6#final-presentation
