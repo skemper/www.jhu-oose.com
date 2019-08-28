@@ -4,13 +4,13 @@ Group projects are your opportunity to practice the principles you learned in [l
 
 You form groups of 5 or 6 students and work throughout the course in a project of your choosing. While we recommend that you use the tools in the [Toolbox](/toolbox), your group is free to use almost any tool you want. A staff member is assigned to your group as advisor, helping to find the right project for you, and trying to solve any technical difficulties along the way.
 
-The work is divided in [iterations](/#iterations) that last two weeks. Each iteration comes with a set of goals, and your advisor reviews your progress at the end. While each iteration has its own goals, you may have to work on all aspects of your application in every iteration. For example, the goal of [Iteration 1](/iterations/1) is design, and the goal of [Iteration 6](/iterations/6) is implementation, but you may have to do some implementation work in Iteration 1 to wire different libraries together, and you may have to do some design work in Iteration 6 if the implementation changes some decision in the design.
+The work is divided in [iterations](/#group-projects) that last two weeks. Each iteration comes with a set of goals, and your advisor reviews your progress at the end. While each iteration has its own goals, you may have to work on all aspects of your application in every iteration. For example, the goal of [Iteration 1](/iterations/1) is design, and the goal of [Iteration 6](/iterations/6) is implementation, but you may have to do some implementation work in Iteration 1 to wire different libraries together, and you may have to do some design work in Iteration 6 if the implementation changes some decision in the design.
 
 # Laboratory Sessions
 
 This is in-class time for you to work on your project, discuss your progress with your advisor, and so forth.
 
-**<small>⚠️</small>  You must read the page for the [current iteration](/#iterations) _before_ the laboratory session and come ready to work on the project.**
+**<small>⚠️</small>  You must read the page for the [current iteration](/#group-projects) _before_ the laboratory session and come ready to work on the project.**
 
 **<small>⚠️</small>  You must go to the room assigned to your group, which may not be our usual classroom.**
 
