@@ -19,7 +19,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
 
-[Prior Art](/prior-art)
+[Acknowledgements](/acknowledgements)
 
 [Staff Area](https://github.com/jhu-oose/{{site.course}}-staff){:data-proofer-ignore="true"} <small title="You must a staff member logged into GitHub to see this.">🔒</small>
 
