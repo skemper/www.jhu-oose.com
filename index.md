@@ -85,22 +85,18 @@ Mondays & Wednesdays 13:30–14:45
 
 # Group Projects
 
-[Group Projects](/group-projects) <small title="Work in Progress">🚧</small>
+[Group Projects](/group-projects)
 
 [Iteration 0: Project Proposal](/iterations/0)
 
 [Iteration 1: Design](/iterations/1)
 
-[Iteration 2: First Feature](/iterations/2) <small title="Work in Progress">🚧</small>
+[Iteration 2: First Feature](/iterations/2)
 
-[Iteration 3: Core Features](/iterations/3) <small title="Work in Progress">🚧</small>
+[Iteration 3: Core Features](/iterations/3)
 
-[Midterm Presentation](/iterations/3#midterm-presentation) <small title="Work in Progress">🚧</small>
+[Iteration 4: More Features](/iterations/4)
 
-[Iteration 4: More Features](/iterations/4) <small title="Work in Progress">🚧</small>
+[Iteration 5: Even More Features](/iterations/5)
 
-[Iteration 5: Even More Features](/iterations/5) <small title="Work in Progress">🚧</small>
-
-[Iteration 6: Full Application](/iterations/6) <small title="Work in Progress">🚧</small>
-
-[Final Presentation](/iterations/6#final-presentation) <small title="Work in Progress">🚧</small>
+[Iteration 6: Full Application](/iterations/6)

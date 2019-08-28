@@ -156,7 +156,7 @@ fullCalendar:
           url: /group-projects#laboratory-sessions
           start: 2019-10-14
         - title: Presentation
-          url: /iterations/3#midterm-presentation
+          url: /group-projects#presentations
           start: 2019-10-21
         - title: Lab 8
           url: /group-projects#laboratory-sessions
@@ -177,7 +177,7 @@ fullCalendar:
           url: /group-projects#laboratory-sessions
           start: 2019-12-04
         - title: Final Presentation
-          url: /iterations/6#final-presentation
+          url: /group-projects#presentations
           start: 2019-12-16
           end: 2019-12-19
     - color: "#b15928"

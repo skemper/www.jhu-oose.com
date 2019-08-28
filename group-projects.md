@@ -1,7 +1,5 @@
 # Group Projects
 
-**<small>🚧</small>  Work in Progress  <small>🚧</small>**
-
 - Iterations are just that: there’ll be some of everything in every iteration, but iterations have a special focus. There will be some implementation in iteration 1 and some designing in iteration 6
 
 # Examples
@@ -40,3 +38,17 @@ Go to the room assigned to your group, which may not be our usual classroom. Dis
 By this point in the project you’re working on the implementation. Read the page for the current iteration before the laboratory sessions to understand which stage we expect you project to reach.
 
 Go to the room assigned to your group, which may not be our usual classroom. Discuss your project proposal with your advisor. Work on the tasks for this iteration and show your progress to your advisor.
+
+# Presentations
+
+There’ll be two presentations, one in the middle of the course, and one at the end.
+
+- Demo
+- Proposal
+- Design
+- Code review
+
+- https://speaking.io
+- Presentation Skills course @ Hopkins
+- The Art of Explanation
+- Presentation Zen
