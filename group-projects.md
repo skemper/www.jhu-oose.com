@@ -4,7 +4,7 @@ Group projects are your opportunity to practice the principles you learned in [l
 
 You form groups of 5 or 6 students and work throughout the course in a project of your choosing. While we recommend that you use the tools in the [Toolbox](/toolbox), your group is free to use almost any tool you want. A staff member is assigned to your group as advisor, helping to find the right project for you, and trying to solve any technical difficulties along the way.
 
-The work is divided in [iterations](/#group-projects) that last two weeks. Each iteration comes with a set of goals, and your advisor reviews your progress at the end. While each iteration has its own goals, you may have to work on all aspects of your application in every iteration. For example, the goal of [Iteration 1](/iterations/1) is design, and the goal of [Iteration 6](/iterations/6) is implementation, but you may have to do some implementation work in Iteration 1 to wire different libraries together, and you may have to do some design work in Iteration 6 if the implementation changes some decision in the design.
+The work is divided in [iterations](/#group-projects) that last two weeks. Each iteration comes with a set of goals, and your advisor reviews your progress at the end. While each iteration has its own goals, you may have to work on all aspects of your application in every iteration. For example, the goal of [Iteration 1](/iterations/1) is design, and the goal of [Iteration 6](/iterations/6) is implementation, but you may have to do some implementation work in Iteration 1 to wire different libraries together, and you may have to do some design work in Iteration 6 if the implementation changes some decision in the design. We favor a [agile approach over a waterfall one](https://en.wikipedia.org/wiki/Agile_software_development#Agile_vs._waterfall).
 
 # Laboratory Sessions
 
@@ -28,7 +28,7 @@ You must present your project twice throughout the course:
 
 Both presentations follow a similar format:
 
-**Demonstration:** Demonstrate the _distinguishing_ features of your application that are already working. Don’t show obvious features such as user signup and login, data input, and so forth.
+**Demonstration:** Demonstrate the _distinguishing_ features of your application that are already working. Don’t show obvious features such as user signup and login, data input, and so forth. Use _real fake data_ in the demonstration—don’t use filler text ([_lorem ipsum_](https://en.wikipedia.org/wiki/Lorem_ipsum)).
 
 **[Project Proposal](/iterations/0#project-proposal):** What problems does your application solve? How does your application solve them? How is your application different from competitors? And so forth. The best way to cover these topics is to work them into the demonstration.
 
