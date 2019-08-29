@@ -4,6 +4,8 @@
 
 **<small>⚠️</small>  Office hours may be rescheduled: check the [Announcements](https://github.com/jhu-oose/{{site.course}}-students/labels/announcement){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>.**
 
+**<small>⚠️</small>  Office hours are at the Undergraduate Laboratory in Malone Hall 122.**
+
 # Instructor: Leandro Facchinetti
 
 <figure markdown="1">
