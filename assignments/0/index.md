@@ -95,15 +95,31 @@ Answer the following questions:
 # Technology
 
 1. Go through the tools in the [Toolbox](/toolbox) and install them.
+
 2. Visit [TODOOSE](https://github.com/jhu-oose/todoose) and play with the [live version](https://todoose.herokuapp.com){:data-proofer-ignore="true"} to learn how the application works (it’s a simple to-do application).
+
 3. Import TODOOSE as a project in [IntelliJ IDEA](/toolbox#integrated-development-environmentide-intellijidea).
+
 4. Run the server.
+
 5. Interact with the application locally in [Google Chrome](/toolbox#browser-googlechrome). **Take a screenshot of the application open locally in Google Chrome and include in your submission.**
+
+   ![Running locally in Google Chrome](running-locally-in-google-chrome.png)
+
 6. Run the [JUnit](/toolbox#testing-framework-junit) tests in IntelliJ IDEA. **Take a screenshot of the tests passing locally and include in your submission.**
+
+   ![JUnit tests](junit-tests.png)
+
 7. Open the API specification in [Postman](/toolbox#application-programming-interfaceapi-development-environmentade-postman).
+
 8. Run the Postman tests. **Take a screenshot of the tests passing and include in your submission.**
+
+   ![Postman tests](postman-tests.png)
+
 9. See the [tests running](https://travis-ci.com/jhu-oose/todoose) on [Travis CI](/toolbox#continuous-integrationci-server-travisci).
+
 10. Deploy the application to [Heroku](/toolbox#platform-heroku) with the application name `todoose-<identifier>`. For example, if you were [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student) on GitHub, then your application name would be `todoose-jhu-oose-example-student`. **We’ll look at your deployed version when grading, so make sure you get the name right and don’t remove the application from Heroku until after you received your grade.**
+
 11. Start watching the [video series showing us buidling TODOOSE](/todoose). You have about one month before we’ll dive deeper into the implementation, and by then you must have a fair understanding of the technology. One or two videos every day will get you there.
 
 # Submission
