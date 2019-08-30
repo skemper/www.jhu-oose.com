@@ -68,6 +68,8 @@ Addiction to technology.
 
 # Solution
 
+**⚠️  I don’t like how the list below turned out. It wasn’t suppose to just list features—that’s what the [features list below](#features) is for. It was supposed to be more like: “People will bet their money on being able to stay away from technology, which will help with their addiction. According to this research paper \<insert research paper here\>, this sort of approach has been successful with other kinds of addictions.”**
+
 - Let people bet their money.
 - Check whether they used their time with technology appropriately. These goals are in tiers, for example, 30 minutes or one hour, and people play in their own brackets.
 - Either reward the user or not.
@@ -89,11 +91,11 @@ Addiction to technology.
 
 **Desktop Tray Widget**
 
-![](wireframe-1.png)
+![Desktop Tray Widget](wireframe-1.png)
 
 **Desktop Dashboard**
 
-![](wireframe-2.png)
+![Desktop Dashboard](wireframe-2.png)
 
 ## User Stories
 
