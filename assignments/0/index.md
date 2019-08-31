@@ -6,7 +6,7 @@
 
 One of the points of this course is that we aren’t using only pedagogical tools, but tools actually used by software engineers. To bring this point home, we run the course similar to how a software project is run, using the tools that software engineers use to coordinate their work. You’ll use [GitHub](https://github.com) throughout the course to submit assignments, ask questions, collaborate with the other members of your group in the [group projects](/group-projects), and so forth. If you don’t have a GitHub account, [create one now](https://github.com/join). Then register for the course using the form below:
 
-<form method="POST" action="https://roboose.herokuapp.com/students">
+<form method="POST" action="https://roboose.herokuapp.com/roboose/students">
 <fieldset markdown="1">
 
 <legend>Student Registration</legend>
