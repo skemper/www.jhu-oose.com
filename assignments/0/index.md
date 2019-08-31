@@ -24,7 +24,7 @@ Hopkins Identifier (6-Character)
 <input type="text" name="hopkins" required pattern="[A-Z0-9]{6}">  
 </label>
 <small>
-This is called “Hopkins ID” in [SIS](https://sis.jhu.edu/). It is _not_ your email.
+This is called “Hopkins ID” in [SIS](https://sis.jhu.edu/). It _isn’t_ your email.
 </small>
 
 <button>Register</button>
