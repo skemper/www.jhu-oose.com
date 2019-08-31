@@ -11,10 +11,6 @@ One of the points of this course is that we aren’t using only pedagogical tool
 
 <legend>Student Registration</legend>
 
-<small>
-**<small>🚧</small>  DON’T SUBMIT THIS FORM YET  <small>🚧</small>**
-</small>
-
 <label>
 GitHub Identifier  
 <input type="text" name="github" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
@@ -29,10 +25,6 @@ Hopkins Identifier (6-Character)
 </label>
 <small>
 This is called “Hopkins ID” in [SIS](https://sis.jhu.edu/). It is _not_ your email.
-</small>
-
-<small>
-**<small>🚧</small>  DON’T SUBMIT THIS FORM YET  <small>🚧</small>**
 </small>
 
 <button>Register</button>

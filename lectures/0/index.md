@@ -1,6 +1,6 @@
 # Lecture 0: Project Proposal
 
-[**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--0.mp4) <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
+[**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--0.mp4){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
 
 # Project Ideas
 
