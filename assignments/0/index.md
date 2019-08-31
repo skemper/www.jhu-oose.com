@@ -42,11 +42,9 @@ This is called “Hopkins ID” in [SIS](https://sis.jhu.edu/). It is _not_ your
 
 If you run into problems, send and email to <student-registration@jhu-oose.com>. Include all the information from the form above.
 
-After you register, you are invited to the GitHub organization for the course, [`jhu-oose`](https://github.com/jhu-oose). The invitation should appear in your email, but even if it doesn’t you may accept it [here](https://github.com/orgs/jhu-oose/invitation).
+After you register, you are invited via email to the GitHub organization for the course, [`jhu-oose`](https://github.com/jhu-oose), joining the team `jhu-oose/{{site.course}}-students`, which grants you access to the [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>, where you may find a public forum (visible only to other students in the course), announcements, videos of the lectures, and so forth.
 
-After you accept the invitation, you join the team `jhu-oose/{{site.course}}-students`, which grants you access to the [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>, where you may find a public forum (visible only to other students in the course), announcements, videos of the lectures, and so forth.
-
-You also have access to a repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. This is your individual repository in which you’ll submit the [assignments](/#individual-assignments), receive grades, ask questions visible only to the staff, and so forth.
+After you register, you are also invited via email to a repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. This is your individual repository in which you’ll submit the [assignments](/#individual-assignments), receive grades, ask questions visible only to the staff, and so forth.
 
 ## Profile
 
@@ -78,7 +76,7 @@ Come up with at least 3 [project ideas](/lectures/0#project-ideas). They may be 
 
 # Project Proposal
 
-Choose one of your [project ideas](#project-ideas) and develop it into a [project proposal](/iterations/0#project-proposal). Your project proposal doesn’t have to be fully developed, but you must acknowledge the parts that are missing by saying, for example, “My project requires integration with the [GitHub API](https://developer.github.com/v3/), but I don’t know yet if it has all the features I need—further study required.”
+Choose one of your [project ideas](#project-ideas) and develop it into a [project proposal](/iterations/0#project-proposal). Your project proposal doesn’t have to be fully developed, but you definitely need more than something at level of [the sample project proposal we did in Lecture 0](/lectures/0#the-project-proposal-we-wrote-together-in-class). Also, you must acknowledge the parts that are missing by saying, for example, “My project requires integration with the [GitHub API](https://developer.github.com/v3/), but I don’t know yet if it has all the features I need—further study required.”
 
 Your goal is to have something solid enough to discuss with your group members when you start working on your [group project](/group-projects).
 
@@ -88,9 +86,9 @@ We didn’t have the time to cover this in class, but see [the corresponding lec
 
 Answer the following questions:
 
-- Do you see software engineering as a science or an art? Or a mix of both? If so, to what degree?
+1. Do you see software engineering as a science or an art? Or a mix of both? If so, to what degree?
 
-- What makes a software engineer? Do you feel you are a software engineer?
+2. What makes a software engineer? Do you feel you are a software engineer?
 
 # Technology
 
