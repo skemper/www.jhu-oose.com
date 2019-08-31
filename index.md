@@ -17,7 +17,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Policies](/policies)
 
-[Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>
+[Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
 
 [Acknowledgements](/acknowledgements)
 
