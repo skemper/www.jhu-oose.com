@@ -94,6 +94,8 @@ Answer the following questions:
 
 # Technology
 
+<video src="https://archive.org/download/todoose/todoose--getting-started.mp4" controls preload="none"></video>
+
 1. Go through the tools in the [Toolbox](/toolbox) and install them.
 
 2. Visit [TODOOSE](https://github.com/jhu-oose/todoose) and play with the [live version](https://todoose.herokuapp.com){:data-proofer-ignore="true"} to learn how the application works (it’s a simple to-do application).
