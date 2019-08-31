@@ -24,7 +24,7 @@ Don’t include an `@` sign at the beginning—this isn’t a [mention](https://
 </small>
 
 <label>
-Hopkins Identifier (6-Digit)  
+Hopkins Identifier (6-Character)  
 <input type="text" name="hopkins" required pattern="[A-Z0-9]{6}">  
 </label>
 <small>
