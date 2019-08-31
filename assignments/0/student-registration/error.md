@@ -4,4 +4,4 @@
 
 Send and email to <student-registration@jhu-oose.com> including all the information you filled in the Student Registration form.
 
-**Return to [Assignment 0](/assignments/0)**
+**[Return to Assignment 0](/assignments/0)**
