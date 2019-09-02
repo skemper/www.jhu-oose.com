@@ -94,17 +94,17 @@ Answer the following questions:
 
 4. Run the server.
 
-5. Interact with the application locally in [Google Chrome](/toolbox#browser-googlechrome). **Take a screenshot of the application open locally in Google Chrome and include in your submission.**
+5. Interact with the application locally in [Google Chrome](/toolbox#browser-googlechrome). **Take a screenshot of the application open locally in Google Chrome and include in your submission (for example, see the screenshot below).**
 
    ![Running locally in Google Chrome](running-locally-in-google-chrome.png)
 
-6. Run the [JUnit](/toolbox#testing-framework-junit) tests in IntelliJ IDEA. **Take a screenshot of the tests passing locally and include in your submission.**
+6. Run the [JUnit](/toolbox#testing-framework-junit) tests in IntelliJ IDEA. **Take a screenshot of the tests passing locally and include in your submission (for example, see the screenshot below).**
 
    ![JUnit tests](junit-tests.png)
 
 7. Open the API specification in [Postman](/toolbox#application-programming-interfaceapi-development-environmentade-postman).
 
-8. Run the Postman tests. **Take a screenshot of the tests passing and include in your submission.**
+8. Run the Postman tests. **Take a screenshot of the tests passing and include in your submission (for example, see the screenshot below).**
 
    ![Postman tests](postman-tests.png)
 
