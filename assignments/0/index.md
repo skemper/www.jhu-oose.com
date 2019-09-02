@@ -366,7 +366,7 @@ I’ve **never heard** of it.
 </label>  
 <label>
 <input type="radio" name="feedback[toolbox][{{ tool | slugify }}][experience]" value="heard-of" required>
-I’ve **heard of** it, or have **used it a little**.
+I’ve **only heard of** it, or have **used it only a little**.
 </label>  
 <label>
 <input type="radio" name="feedback[toolbox][{{ tool | slugify }}][experience]" value="comfortable" required>
