@@ -169,7 +169,7 @@ Answer the following questions:
 
 **<small>⚠️</small>  Your assignment is submitted only when you submit the form below.**
 
-First, push your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. Make sure you follow the naming conventions established in this page, for example, your [profile](#profile) must go in `README.md` and the rest of the answers must go in `assignments/0.md`. [Our robot](/staff#robot--roboose) already put starter files in place for you.
+First, push your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. Make sure you follow the naming conventions established in this page, for example, your [profile](#profile) must go in `README.md` and the rest of the answers must go in `assignments/0.md`. [Roboose](/staff#robot-roboose) already put starter files in place for you.
 
 After your assignment is pushed, you must submit the form below.
 
