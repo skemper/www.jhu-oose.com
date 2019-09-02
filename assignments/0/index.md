@@ -16,14 +16,16 @@ GitHub Identifier
 <input type="text" name="github" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 </label>
 <small>
+For example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
 </small>
 
 <label>
 Hopkins Identifier (6-Character)  
-<input type="text" name="hopkins" required pattern="[A-Z0-9]{6}">  
+<input type="text" name="hopkins" required pattern="[0-9A-F]{6}">  
 </label>
 <small>
+For example, `7B4EF0`.  
 This is called “Hopkins ID” in [SIS](https://sis.jhu.edu/). It _isn’t_ your email.
 </small>
 
