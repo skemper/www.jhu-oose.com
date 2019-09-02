@@ -1,5 +1,5 @@
 # Assignment Submission
 
-Your assignment was submitted successfully.
+**Your assignment was submitted.**
 
 **[Return to Assignments](/#individual-assignments)**
