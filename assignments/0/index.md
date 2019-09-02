@@ -52,6 +52,8 @@ For example, `7B4EF0`.
 This is the 6-character “Hopkins ID” in [SIS](https://sis.jhu.edu/), **not** your email.
 </small>
 
+**<small>⚠️</small>  Don’t submit this form multiple times.**
+
 <button>Register</button>
 
 </fieldset>
@@ -165,7 +167,7 @@ Answer the following questions:
 
 # Submission
 
-**⚠️  Your assignment is submitted only when you submit the form below.**
+**<small>⚠️</small>  Your assignment is submitted only when you submit the form below.**
 
 First, push your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. Make sure you follow the naming conventions established in this page, for example, your [profile](#profile) must go in `README.md` and the rest of the answers must go in `assignments/0.md`. [Our robot](/staff#robot--roboose) already put starter files in place for you.
 
@@ -209,29 +211,29 @@ You may find the commit identifier on the commits page at `https://github.com/jh
 
 **Confidence**  
 <label>
-<input type="radio" name="feedback[lecture][confidence]" value="negative" required>
+<input type="radio" name="feedback[lecture][confidence]" value="decreased" required>
 The lecture **decreased** my confidence in the material that was covered.
 </label>  
 <label>
-<input type="radio" name="feedback[lecture][confidence]" value="neutral" required>
+<input type="radio" name="feedback[lecture][confidence]" value="no-effect" required>
 The lecture **didn’t affect** my confidence in the material that was covered.
 </label>  
 <label>
-<input type="radio" name="feedback[lecture][confidence]" value="positive" required>
+<input type="radio" name="feedback[lecture][confidence]" value="increased" required>
 The lecture **increased** my confidence in the material that was covered.
 </label>
 
 **Relevance**  
 <label>
-<input type="radio" name="feedback[lecture][relevance]" value="negative" required>
+<input type="radio" name="feedback[lecture][relevance]" value="irrelevant" required>
 The lecture covered material that seemed **irrelevant**.
 </label>  
 <label>
-<input type="radio" name="feedback[lecture][relevance]" value="neutral" required>
+<input type="radio" name="feedback[lecture][relevance]" value="cant-tell" required>
 The lecture covered material that I **can’t tell** whether is relevant or not.
 </label>  
 <label>
-<input type="radio" name="feedback[lecture][relevance]" value="positive" required>
+<input type="radio" name="feedback[lecture][relevance]" value="relevant" required>
 The lecture covered material that I can tell is **relevant**.
 </label>
 
@@ -241,7 +243,7 @@ The lecture covered material that I can tell is **relevant**.
 The lecture was **too difficult** and I had trouble following.
 </label>  
 <label>
-<input type="radio" name="feedback[lecture][difficulty]" value="just-right" required>
+<input type="radio" name="feedback[lecture][difficulty]" value="right-level" required>
 The lecture was **at the right level** of difficulty for me.
 </label>  
 <label>
@@ -255,7 +257,7 @@ The lecture was **too easy** and I got bored.
 The lecture was **too fast** and I had trouble following.
 </label>  
 <label>
-<input type="radio" name="feedback[lecture][pace]" value="just-right" required>
+<input type="radio" name="feedback[lecture][pace]" value="right-pace" required>
 The lecture was **at the right pace** for me.
 </label>  
 <label>
@@ -286,29 +288,29 @@ The lecture was **too slow** and I got bored.
 
 **Confidence**  
 <label>
-<input type="radio" name="feedback[assignment][confidence]" value="negative" required>
+<input type="radio" name="feedback[assignment][confidence]" value="decreased" required>
 The assignment **decreased** my confidence in the material that was covered.
 </label>  
 <label>
-<input type="radio" name="feedback[assignment][confidence]" value="neutral" required>
+<input type="radio" name="feedback[assignment][confidence]" value="no-effect" required>
 The assignment **didn’t affect** my confidence in the material that was covered.
 </label>  
 <label>
-<input type="radio" name="feedback[assignment][confidence]" value="positive" required>
+<input type="radio" name="feedback[assignment][confidence]" value="increased" required>
 The assignment **increased** my confidence in the material that was covered.
 </label>
 
 **Relevance**  
 <label>
-<input type="radio" name="feedback[assignment][relevance]" value="negative" required>
+<input type="radio" name="feedback[assignment][relevance]" value="irrelevant" required>
 The assignment covered material that seemed **irrelevant** or **didn’t connect well** with the lecture.
 </label>  
 <label>
-<input type="radio" name="feedback[assignment][relevance]" value="neutral" required>
+<input type="radio" name="feedback[assignment][relevance]" value="cant-tell" required>
 The assignment covered material that I **can’t tell** whether is relevant or not or whether it connects with the lecture or not.
 </label>  
 <label>
-<input type="radio" name="feedback[assignment][relevance]" value="positive" required>
+<input type="radio" name="feedback[assignment][relevance]" value="relevant" required>
 The assignment covered material that I can tell is **relevant** and **connects well** with the lecture.
 </label>
 
@@ -318,7 +320,7 @@ The assignment covered material that I can tell is **relevant** and **connects w
 The assignment was **too difficult** and I had trouble completing it.
 </label>  
 <label>
-<input type="radio" name="feedback[assignment][difficulty]" value="just-right" required>
+<input type="radio" name="feedback[assignment][difficulty]" value="right-level" required>
 The assignment was **at the right level** of difficulty for me.
 </label>  
 <label>
@@ -332,7 +334,7 @@ The assignment was **too easy** and I got bored.
 The assignment was **too much work** and I had trouble completing it.
 </label>  
 <label>
-<input type="radio" name="feedback[assignment][load]" value="just-right" required>
+<input type="radio" name="feedback[assignment][load]" value="right-amount" required>
 The assignment was **the right amount of work** for me.
 </label>  
 <label>
@@ -387,7 +389,7 @@ I **like** it.
 
 </fieldset>
 
-**⚠️  Don’t submit this form multiple times.**
+**<small>⚠️</small>  Don’t submit this form multiple times.**
 
 <button>Submit</button>
 
