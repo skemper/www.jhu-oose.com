@@ -49,7 +49,7 @@ Don’t include an `@` sign at the beginning—this isn’t a [mention](https://
 </label>
 <small>
 For example, `7B4EF0`.  
-This is the 6-character “Hopkins ID” in [SIS](https://sis.jhu.edu/). It _isn’t_ your email.
+This is the 6-character “Hopkins ID” in [SIS](https://sis.jhu.edu/), **not** your email.
 </small>
 
 <button>Register</button>
@@ -57,13 +57,17 @@ This is the 6-character “Hopkins ID” in [SIS](https://sis.jhu.edu/). It _isn
 </fieldset>
 </form>
 
-If you run into problems, send and email to <student-registration@jhu-oose.com>. Include all the information from the form above.
+If you run into problems, send an email to <student-registration@jhu-oose.com>. Include all the information from the form above.
 
 After you register, you are invited via email to the GitHub organization for the course, [`jhu-oose`](https://github.com/jhu-oose), joining the team `jhu-oose/{{site.course}}-students`, which grants you access to the [Students Area](https://github.com/jhu-oose/{{site.course}}-students){:data-proofer-ignore="true"} <small title="You must a student logged into GitHub to see this.">🔒</small>, where you may find a public forum (visible only to other students in the course), announcements, videos of the lectures, and so forth.
 
 After you register, you are also invited via email to a repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. This is your individual repository in which you’ll submit the [assignments](/#individual-assignments), receive grades, ask questions visible only to the staff, and so forth.
 
 ## Profile
+
+<small>
+**10 points**
+</small>
 
 <small>
 Submit your profile as a [Markdown](/toolbox#authoring-language-markdown) document at `README.md` in the `master` branch of your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
@@ -89,15 +93,31 @@ Fill in the template below (parts marked with `<!-- -->` are placeholders that y
 
 # Project Ideas
 
+<small>
+Submit your project ideas (as well as all the rest below) as a [Markdown](/toolbox#authoring-language-markdown) document at `assignments/0.md` in the `master` branch of your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
+</small>
+
+<small>
+**15 points**
+</small>
+
 Come up with at least 3 [project ideas](/lectures/0#project-ideas). They may be silly—in fact, it may be better if they are.
 
 # Project Proposal
+
+<small>
+**50 points**
+</small>
 
 Choose one of your [project ideas](#project-ideas) and develop it into a [project proposal](/iterations/0#project-proposal). Your project proposal doesn’t have to be fully developed, but you definitely need more than something at level of [the sample project proposal we did in Lecture 0](/lectures/0#the-project-proposal-we-wrote-together-in-class). Also, you must acknowledge the parts that are missing by saying, for example, “My project requires integration with the [GitHub API](https://developer.github.com/v3/), but I don’t know yet if it has all the features I need—further study required.”
 
 Your goal is to have something solid enough to discuss with your group members when you start working on your [group project](/group-projects).
 
 # Software Engineering
+
+<small>
+**10 points**
+</small>
 
 We didn’t have the time to cover this in class, but see [the corresponding lecture notes](/lectures/0#welcome-to-oose)
 
@@ -108,6 +128,10 @@ Answer the following questions:
 2. What makes a software engineer? Do you feel you are a software engineer?
 
 # Technology
+
+<small>
+**15 points**
+</small>
 
 <video src="https://archive.org/download/todoose/todoose--getting-started.mp4" controls preload="none"></video>
 
@@ -141,9 +165,17 @@ Answer the following questions:
 
 # Submission
 
-Your assignment is submitted only when you submit the form below. The time of the submission, which we use to calculate [late days](/policies#late-submissions), is the time when you submit this form, **not the time of the commit you’re submitting**.
+**⚠️  Your assignment is submitted only when you submit the form below.**
 
-<form method="POST" action="https://roboose.herokuapp.com/assignments/0">
+First, push your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. Make sure you follow the naming conventions established in this page, for example, your [profile](#profile) must go in `README.md` and the rest of the answers must go in `assignments/0.md`. [Our robot](/staff#robot--roboose) already put starter files in place for you.
+
+After your assignment is pushed, you must submit the form below.
+
+Submissions are final. You may only submit this form once, but you may push to your individual repository however many times you want.
+
+The time of the submission, which we use to calculate [late days](/policies#late-submissions), is the time when you submit this form, _not the time of the commit you’re submitting_.
+
+<form method="POST" action="https://roboose.herokuapp.com/assignments/0" markdown="1">
 <fieldset markdown="1">
 
 <legend>Assignment</legend>
@@ -164,7 +196,6 @@ Don’t include an `@` sign at the beginning—this isn’t a [mention](https://
 <small>
 For example, [`48092726db45fd4bcde21e3712ac2d8e4a094797`](https://github.com/jhu-oose/www.jhu-oose.com/commit/48092726db45fd4bcde21e3712ac2d8e4a094797).  
 Graders will look at the code base as of this commit.  
-You must have pushed your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>` before you submit this form.  
 You may find the commit identifier on the commits page at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>/commits/master`. Usually you want the most recent commit.  
 </small>
 
@@ -354,6 +385,10 @@ I **like** it.
 
 </fieldset>
 
+**⚠️  Don’t submit this form multiple times.**
+
 <button>Submit</button>
 
 </form>
+
+If you run into problems, send an email to <assignment-submission@jhu-oose.com>. Include the information about the submission: your GitHub Identifier and the Commit Identifier. Don’t include any information about the feedback—it’s anonymous.
