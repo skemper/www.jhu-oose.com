@@ -175,10 +175,12 @@ Submissions are final. You may only submit this form once, but you may push to y
 
 The time of the submission, which we use to calculate [late days](/policies#late-submissions), is the time when you submit this form, _not the time of the commit you’re submitting_.
 
-<form method="POST" action="https://roboose.herokuapp.com/assignments/0" markdown="1">
+<form method="POST" action="https://roboose.herokuapp.com/roboose/assignments" markdown="1">
 <fieldset markdown="1">
 
 <legend>Assignment</legend>
+
+<input type="hidden" name="assignment" value="0">
 
 <label>
 **GitHub Identifier**  
