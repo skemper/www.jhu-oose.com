@@ -1,3 +1,26 @@
+---
+tools:
+  - IntelliJ IDEA
+  - Postman
+  - Google Chrome
+  - Git
+  - GitHub
+  - Paper & Pencil
+  - Java
+  - Gradle
+  - Javalin
+  - Jackson
+  - JUnit
+  - SQLite
+  - JavaScript
+  - Hypertext Markup Language (HTML) & Cascading Style Sheets (CSS)
+  - React
+  - JavaScript Object Notation (JSON)
+  - Heroku
+  - Travis CI
+  - Markdown
+---
+
 # Assignment 0: Project Proposal
 
 # Onboarding
@@ -208,12 +231,12 @@ The lecture was **too slow** and I got bored.
 </label>
 
 <label for="feedback--lecture--liked">
-**At Least One Specific Thing You Liked**
+**At Least One Specific Thing That You Liked**
 </label>
 <textarea name="feedback[lecture][liked]" id="feedback--lecture--liked" required></textarea>
 
 <label for="feedback--lecture--improved">
-**At Least One Specific Thing You Think Should Be Improved**
+**At Least One Specific Thing That You Think Should Be Improved**
 </label>
 <textarea name="feedback[lecture][improved]" id="feedback--lecture--improved" required></textarea>
 
@@ -223,11 +246,111 @@ The lecture was **too slow** and I got bored.
 
 <legend markdown="1">Anonymous Feedback on [Assignment 0](/assignments/0)</legend>
 
+<label>
+**Approximate Number of Hours Spent**  
+<input type="number" name="feedback[assignment][hours]" min="1" max="100" required>
+</label>
+
+**Confidence**  
+<label>
+<input type="radio" name="feedback[assignment][confidence]" value="negative" required>
+The assignment **decreased** my confidence in the material that was covered.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][confidence]" value="neutral" required>
+The assignment **didn’t affect** my confidence in the material that was covered.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][confidence]" value="positive" required>
+The assignment **increased** my confidence in the material that was covered.
+</label>
+
+**Relevance**  
+<label>
+<input type="radio" name="feedback[assignment][relevance]" value="negative" required>
+The assignment covered material that seemed **irrelevant** or **didn’t connect well** with the lecture.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][relevance]" value="neutral" required>
+The assignment covered material that I **can’t tell** whether is relevant or not or whether it connects with the lecture or not.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][relevance]" value="positive" required>
+The assignment covered material that I can tell is **relevant** and **connects well** with the lecture.
+</label>
+
+**Difficulty**  
+<label>
+<input type="radio" name="feedback[assignment][difficulty]" value="too-difficult" required>
+The assignment was **too difficult** and I had trouble completing it.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][difficulty]" value="just-right" required>
+The assignment was **at the right level** of difficulty for me.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][difficulty]" value="too-easy" required>
+The assignment was **too easy** and I got bored.
+</label>
+
+**Load**  
+<label>
+<input type="radio" name="feedback[assignment][load]" value="too-much-work" required>
+The assignment was **too much work** and I had trouble completing it.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][load]" value="just-right" required>
+The assignment was **the right amount of work** for me.
+</label>  
+<label>
+<input type="radio" name="feedback[assignment][load]" value="too-little-work" required>
+The assignment was **too little work** and I got bored.
+</label>
+
+<label for="feedback--assignment--liked">
+**At Least One Specific Thing That You Liked**
+</label>
+<textarea name="feedback[assignment][liked]" id="feedback--assignment--liked" required></textarea>
+
+<label for="feedback--assignment--improved">
+**At Least One Specific Thing That You Think Should Be Improved**
+</label>
+<textarea name="feedback[assignment][improved]" id="feedback--assignment--improved" required></textarea>
+
 </fieldset>
 
 <fieldset markdown="1">
 
 <legend markdown="1">Anonymous Prior Experience with the Tools in the [Toolbox](/toolbox)</legend>
+
+{% for tool in page.tools %}
+**{{tool}}**  
+<label>
+<input type="radio" name="feedback[toolbox][{{ tool | slugify }}][experience]" value="never-heard" required>
+I’ve **never heard** of it.
+</label>  
+<label>
+<input type="radio" name="feedback[toolbox][{{ tool | slugify }}][experience]" value="heard-of" required>
+I’ve **heard of** it, or have **used it a little**.
+</label>  
+<label>
+<input type="radio" name="feedback[toolbox][{{ tool | slugify }}][experience]" value="comfortable" required>
+I’m **comfortable** with it.
+</label>
+
+<label>
+<input type="radio" name="feedback[toolbox][{{ tool | slugify }}][taste]" value="dread" required>
+I **dread** it.
+</label>  
+<label>
+<input type="radio" name="feedback[toolbox][{{ tool | slugify }}][taste]" value="indifferent" required>
+I’m **indifferent** to it.
+</label>  
+<label>
+<input type="radio" name="feedback[toolbox][{{ tool | slugify }}][taste]" value="like" required>
+I **like** it.
+</label>
+{% endfor %}
 
 </fieldset>
 
