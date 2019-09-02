@@ -12,7 +12,7 @@ One of the points of this course is that we aren’t using only pedagogical tool
 <legend>Student Registration</legend>
 
 <label>
-GitHub Identifier  
+**GitHub Identifier**  
 <input type="text" name="github" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 </label>
 <small>
@@ -21,12 +21,12 @@ Don’t include an `@` sign at the beginning—this isn’t a [mention](https://
 </small>
 
 <label>
-Hopkins Identifier (6-Character)  
+**Hopkins Identifier**  
 <input type="text" name="hopkins" required pattern="[0-9A-F]{6}">  
 </label>
 <small>
 For example, `7B4EF0`.  
-This is called “Hopkins ID” in [SIS](https://sis.jhu.edu/). It _isn’t_ your email.
+This is the 6-character “Hopkins ID” in [SIS](https://sis.jhu.edu/). It _isn’t_ your email.
 </small>
 
 <button>Register</button>
@@ -118,6 +118,119 @@ Answer the following questions:
 
 # Submission
 
-**<small>🚧</small>  Work in Progress  <small>🚧</small>**
+Your assignment is submitted only when you submit the form below. The time of the submission, which we use to calculate [late days](/policies#late-submissions), is the time when you submit this form, **not the time of the commit you’re submitting**.
 
-You’re trying to submit your assignment before we could setup the submission infrastructure. Good for you. Please come back tomorrow and excuse us while we’re working to make OOSE better for you 😀
+<form method="POST" action="https://roboose.herokuapp.com/assignments/0">
+<fieldset markdown="1">
+
+<legend>Assignment</legend>
+
+<label>
+**GitHub Identifier**  
+<input type="text" name="github" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+</label>
+<small>
+For example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
+Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
+</small>
+
+<label>
+**Commit Identifier**  
+<input type="text" name="commit" required pattern="[0-9a-f]{40}">  
+</label>
+<small>
+For example, [`48092726db45fd4bcde21e3712ac2d8e4a094797`](https://github.com/jhu-oose/www.jhu-oose.com/commit/48092726db45fd4bcde21e3712ac2d8e4a094797).  
+Graders will look at the code base as of this commit.  
+You must have pushed your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>` before you submit this form.  
+You may find the commit identifier on the commits page at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>/commits/master`. Usually you want the most recent commit.  
+</small>
+
+</fieldset>
+
+<fieldset markdown="1">
+
+<legend markdown="1">Anonymous Feedback on [Lecture 0](/lectures/0)</legend>
+
+**Confidence**  
+<label>
+<input type="radio" name="feedback[lecture][confidence]" value="negative" required>
+The lecture **decreased** my confidence in the material that was covered.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][confidence]" value="neutral" required>
+The lecture **didn’t affect** my confidence in the material that was covered.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][confidence]" value="positive" required>
+The lecture **increased** my confidence in the material that was covered.
+</label>
+
+**Relevance**  
+<label>
+<input type="radio" name="feedback[lecture][relevance]" value="negative" required>
+The lecture covered material that seemed **irrelevant**.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][relevance]" value="neutral" required>
+The lecture covered material that I **can’t tell** whether is relevant or not.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][relevance]" value="positive" required>
+The lecture covered material that I can tell is **relevant**.
+</label>
+
+**Difficulty**  
+<label>
+<input type="radio" name="feedback[lecture][difficulty]" value="too-difficult" required>
+The lecture was **too difficult** and I had trouble following.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][difficulty]" value="just-right" required>
+The lecture was **at the right level** of difficulty for me.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][difficulty]" value="too-easy" required>
+The lecture was **too easy** and I got bored.
+</label>
+
+**Pace**  
+<label>
+<input type="radio" name="feedback[lecture][pace]" value="too-fast" required>
+The lecture was **too fast** and I had trouble following.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][pace]" value="just-right" required>
+The lecture was **at the right pace** for me.
+</label>  
+<label>
+<input type="radio" name="feedback[lecture][pace]" value="too-slow" required>
+The lecture was **too slow** and I got bored.
+</label>
+
+<label for="feedback--lecture--liked">
+**At Least One Specific Thing You Liked**
+</label>
+<textarea name="feedback[lecture][liked]" id="feedback--lecture--liked" required></textarea>
+
+<label for="feedback--lecture--improved">
+**At Least One Specific Thing You Think Should Be Improved**
+</label>
+<textarea name="feedback[lecture][improved]" id="feedback--lecture--improved" required></textarea>
+
+</fieldset>
+
+<fieldset markdown="1">
+
+<legend markdown="1">Anonymous Feedback on [Assignment 0](/assignments/0)</legend>
+
+</fieldset>
+
+<fieldset markdown="1">
+
+<legend markdown="1">Anonymous Prior Experience with the Tools in the [Toolbox](/toolbox)</legend>
+
+</fieldset>
+
+<button>Submit</button>
+
+</form>
