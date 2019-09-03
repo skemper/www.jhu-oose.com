@@ -121,7 +121,7 @@ Your goal is to have something solid enough to discuss with your group members w
 **10 points**
 </small>
 
-We didn’t have the time to cover this in class, but see [the corresponding lecture notes](/lectures/0#welcome-to-oose)
+We didn’t have the time to cover this in class, but see [the corresponding lecture notes](/lectures/0#welcome-to-oose).
 
 Answer the following questions:
 
