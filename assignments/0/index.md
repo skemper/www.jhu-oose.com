@@ -29,6 +29,8 @@ tools:
 
 One of the points of this course is that we aren’t using only pedagogical tools, but tools actually used by software engineers. To bring this point home, we run the course similar to how a software project is run, using the tools that software engineers use to coordinate their work. You’ll use [GitHub](https://github.com) throughout the course to submit assignments, ask questions, collaborate with the other members of your group in the [group projects](/group-projects), and so forth. If you don’t have a GitHub account, [create one now](https://github.com/join). Then register for the course using the form below:
 
+<video src="https://archive.org/download/jhu-oose/onboarding-and-assignment-submission.mp4" controls preload="none"></video>
+
 <form method="POST" action="https://roboose.herokuapp.com/roboose/students">
 <fieldset markdown="1">
 
@@ -168,6 +170,8 @@ Answer the following questions:
 # Submission
 
 **<small>⚠️</small>  Your assignment is submitted only when you submit the form below.**
+
+<video src="https://archive.org/download/jhu-oose/onboarding-and-assignment-submission.mp4" controls preload="none"></video>
 
 First, push your assignment to your individual repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`. Make sure you follow the naming conventions established in this page, for example, your [profile](#profile) must go in `README.md` and the rest of the answers must go in `assignments/0.md`. [Roboose](/staff#robot-roboose) already put starter files in place for you.
 
