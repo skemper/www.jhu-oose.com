@@ -1,5 +1,7 @@
 # Lecture 0: Project Proposal
 
+[**Video**](https://github.com/jhu-oose/2019-students/releases/download/lectures-videos/oose--lectures--0.mp4){:data-proofer-ignore="true"} <small title="You must be a registered student logged into GitHub to see this.">🔒</small>
+
 # Project Ideas
 
 - It all starts with a great idea, right?
@@ -52,7 +54,7 @@
 
 # The Project Proposal We Wrote Together in Class
 
-**⚠️  The only person who may use this project proposal for his [Assignment 0](/assignments/0) is the original author of the idea, and even him has to flesh this out significantly.**
+**<small>⚠️</small>  The only person who may use this project proposal for his [Assignment 0](/assignments/0) is the original author of the idea, and even him has to flesh this out significantly.**
 
 # Time = Money
 
@@ -68,7 +70,7 @@ Addiction to technology.
 
 # Solution
 
-**⚠️  I don’t like how the list below turned out. It wasn’t suppose to just list features—that’s what the [features list below](#features) is for. It was supposed to be more like: “People will bet their money on being able to stay away from technology, which will help with their addiction. According to this research paper \<insert research paper here\>, this sort of approach has been successful with other kinds of addictions.”**
+**<small>⚠️</small>  I don’t like how the list below turned out. It wasn’t suppose to just list features—that’s what the [features list below](#features) is for. It was supposed to be more like: “People will bet their money on being able to stay away from technology, which will help with their addiction. According to this research paper \<insert research paper here\>, this sort of approach has been successful with other kinds of addictions.”**
 
 - Let people bet their money.
 - Check whether they used their time with technology appropriately. These goals are in tiers, for example, 30 minutes or one hour, and people play in their own brackets.

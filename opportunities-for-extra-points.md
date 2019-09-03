@@ -11,3 +11,7 @@ This may be either the forum in the [Students Area](https://github.com/jhu-oose/
 ## Do Something Outstanding for the Community
 
 Promote an event to help bring underrepresented groups to computer science, write a blog post showing how to solve a technical problem, record a vlog commenting on your experience in this course, and so forth. We’ll evaluate your contribution and award you extra points based on quality and impact. Submit your outstanding contribution to our consideration by opening an issue in your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
+
+## Do Something Creative and Fun
+
+Write a song about how it’s like to take OOSE, make a dance number about design patterns, draw a comic strip about refactoring… We’ll evaluate your art piece and award you extra points based on how much it makes us laugh and glad to be alive. Submit your art piece to our consideration by opening an issue in your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
