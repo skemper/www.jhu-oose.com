@@ -10,7 +10,7 @@ Before the Internet, one of the most interesting things you could do on a comput
 <div id="game"><!-- minesweeper game initializes here --></div>
 <figcaption markdown="1">
 A clone of Minesweeper from Windows XP.  
-A copyright infringement courtesy of <https://codepen.io/joelbyrd/pen/hdHKF>.
+A copyright infringement courtesy of <https://codepen.io/joelbyrd/pen/hdHKF>{:data-proofer-ignore="true"}.
 </figcaption>
 </figure>
 <link rel="stylesheet" type="text/css" href="minesweeper.css" />
