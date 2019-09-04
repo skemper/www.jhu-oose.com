@@ -1,7 +1,5 @@
 # Lecture 1: Design Rudiments
 
-**<small>🚧</small>  Work in Progress  <small>🚧</small>**
-
 # Class Diagrams
 
 - Come up with features for TODOOSE:

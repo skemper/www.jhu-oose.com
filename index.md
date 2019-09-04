@@ -35,7 +35,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Lecture 0: Project Proposal](/lectures/0)
 
-[Lecture 1: Design Rudiments](/lectures/1) <small title="Work in Progress">🚧</small>
+[Lecture 1: Design Rudiments](/lectures/1)
 
 [Lecture 2: Design Principles](/lectures/2) <small title="Work in Progress">🚧</small>
 
@@ -61,7 +61,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Assignment 0: Project Proposal](/assignments/0)
 
-[Assignment 1: Design Rudiments](/assignments/1) <small title="Work in Progress">🚧</small>
+[Assignment 1: Design Rudiments](/assignments/1)
 
 [Assignment 2: Design Principles](/assignments/2) <small title="Work in Progress">🚧</small>
 
