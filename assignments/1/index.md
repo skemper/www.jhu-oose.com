@@ -34,7 +34,7 @@ A copyright infringement courtesy of <https://codepen.io/joelbyrd/pen/hdHKF>{:da
 
 Draw a high-level class diagram to communicate the logic of Minesweeper.
 
-Include new games, different board sizes, flags (right click), the flag counter (top left), marks (`?`) (right click twice), mines, tiles that are open or closed, the timer (top right), opening tiles, creating a new game, wining the game, losing the game, and everything else you find the game.
+Include new games, different board sizes, flags (which you can test by right clicking), the flag counter (top left), marks (`?`) (which you can test by right clicking twice), mines, tiles that are open or closed, the timer (top right), opening tiles, creating a new game, wining the game, losing the game, and everything else you find the game.
 
 Don’t include things like _controllers_, _repositories_, a _server_ and so forth. Your diagram could be implemented as a web server, as a desktop application, as a mobile application, and so forth.
 
