@@ -13,7 +13,7 @@ Mondays & Wednesdays 13:30–14:45
 
 [Calendar](/calendar)
 
-[Staff](/staff) <small title="Work in Progress">🚧</small>
+[Staff](/staff)
 
 [Policies](/policies)
 
