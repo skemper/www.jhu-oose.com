@@ -252,7 +252,7 @@
 </figure>
 -->
 
-<!-- **Office Hours:** <Hours> -->
+**Office Hours:** Fridays 11:30–12:30
 
 **Email:** <adeshola@jhu-oose.com>
 
