@@ -192,8 +192,8 @@
 </figure>
 -->
 
-**Office Hours:** Mondays & Wednesdays 18:00–19:00
-
+**Office Hours:** Mondays & Thursdays 18:00–19:00
+Wednesdays
 **Email:** <shreyas@jhu-oose.com>
 
 **GitHub Identifier**: [`ShreyasAiyar`](https://github.com/ShreyasAiyar)
