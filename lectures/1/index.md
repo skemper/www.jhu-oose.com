@@ -2,7 +2,8 @@
 
 # Class Diagrams
 
-- Come up with features for TODOOSE:
+- Come up with features for TODOOSE
+- Some of my ideas:
   - Users.
   - Different kinds of users, for example, project manager, software developer, and so forth.
   - Private and public lists.
@@ -12,6 +13,15 @@
   - Notes & other item data.
   - Scheduling.
   - Synching with other providers (Apple Reminders, Google Keep, and so forth).
+- Features we came up with in class:
+  - Vim plugin.
+  - Wallpaper.
+  - Select multiple (maybe all) items as done at once.
+  - See what’s complete.
+  - Reordering.
+  - Deadlines.
+  - Subtasks.
+  - Categories.
 - Can we start writing code already?
   - Consider design.
     - When we talk about _design_ we mean design of the _code_, not _graphic design_.
