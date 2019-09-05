@@ -172,7 +172,7 @@
 </figure>
 -->
 
-**Office Hours:** Mondays 10:00–11:00
+**Office Hours:** Wednesdays 10:00–11:00
 
 **Email:** <liza@jhu-oose.com>
 
