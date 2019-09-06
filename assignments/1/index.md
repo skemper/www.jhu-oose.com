@@ -1,5 +1,9 @@
 # Assignment 1: Design Rudiments
 
+<small>
+Submit your assignment as a [Markdown](/toolbox#authoring-language-markdown) document at `assignments/1.md` in the `master` branch of your personal repository at `https://github.com/jhu-oose/{{site.course}}-student-<identifier>`.
+</small>
+
 # Class Diagram
 
 Before the Internet, one of the most interesting things you could do on a computer was playing Minesweeper. Remember the old times:
