@@ -26,7 +26,7 @@ You may form your group outside class time, or using the forum in the [Students�
 
 After having formed a group, you must register it using the form below:
 
-<form method="POST" action="https://roboose.herokuapp.com/roboose/groups">
+<form method="POST" action="http://localhost:3000/roboose/groups">
 <fieldset markdown="1">
 
 <legend>Group Registration</legend>
@@ -43,13 +43,13 @@ You may choose an identifier related to your project if you already decided on o
 
 <label>
 **Group Members GitHub Identifiers**  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 </label>
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
-<input type="text" name="member[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" required pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
+<input type="text" name="members[]" placeholder="(Optional)" pattern="[A-Za-z0-9][A-Za-z0-9-]*[A-Za-z0-9]">  
 <small>
 These must be the GitHub identifiers of [registered students](/assignments/0#onboarding), for example, [`jhu-oose-example-student`](https://github.com/jhu-oose-example-student).  
 Don’t include an `@` sign at the beginning—this isn’t a [mention](https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams).  
@@ -58,14 +58,14 @@ Groups must have 5 or 6 members.
 
 <label>
 **Preferred [Advisors](/staff#group-advisors)**  
-<select name="advisor[]">
+<select name="advisors[]">
 <option value="">(Optional)</option>
 {%- for advisor in page.advisors -%}
 <option value="{{advisor.github}}">{{advisor.name}}</option>
 {%- endfor -%}
 </select>
 </label>  
-<select name="advisor[]">
+<select name="advisors[]">
 <option value="">(Optional)</option>
 {%- for advisor in page.advisors -%}
 <option value="{{advisor.github}}">{{advisor.name}}</option>
