@@ -26,7 +26,7 @@ You may form your group outside class time, or using the forum in the [StudentsÂ
 
 After having formed a group, you must register it using the form below:
 
-<form method="POST" action="http://localhost:3000/roboose/groups">
+<form method="POST" action="https://roboose.herokuapp.com/roboose/groups">
 <fieldset markdown="1">
 
 <legend>Group Registration</legend>
