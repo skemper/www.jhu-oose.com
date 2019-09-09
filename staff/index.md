@@ -124,13 +124,11 @@
 
 ## Stephan Kemper
 
-<!--
 <figure markdown="1">
-![<Name>](<Profile picture. Dimensions: 600x600. Circular crop. Show your face. The purpose of the profile picture is to be able to recognize you. See the other pictures at https://www.jhu-oose.com/staff. We may take your picture for you with a good camera and good lighting, if you want.>){:width="300"}
+![Stephan Kemper](stephan.png){:width="300"}
 </figure>
--->
 
- <!-- **Office Hours:** <Hours> -->
+ **Office Hours:** Mondays 10:00&mdash;11:00; Tuesdays 11:00&mdash;12:00
 
 **Email:** <stephan@jhu-oose.com>
 
