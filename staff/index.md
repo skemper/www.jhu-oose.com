@@ -128,7 +128,7 @@
 ![Stephan Kemper](stephan.png){:width="300"}
 </figure>
 
- **Office Hours:** Mondays 10:00&mdash;11:00; Tuesdays 11:00&mdash;12:00
+ **Office Hours:** Mondays 10:00–11:00 & Tuesdays 11:00–12:00
 
 **Email:** <stephan@jhu-oose.com>
 
